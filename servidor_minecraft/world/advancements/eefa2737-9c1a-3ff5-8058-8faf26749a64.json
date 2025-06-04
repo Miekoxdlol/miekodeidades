@@ -571,6 +571,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/giantrevive": {
+    "criteria": {
+      "c1": "2025-06-04 05:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:15:47 +0000"
@@ -917,6 +923,7 @@
     "criteria": {
       "coniferous_forest": "2025-06-04 05:02:37 +0000",
       "seasonal_orchard": "2025-06-04 05:18:21 +0000",
+      "seasonal_forest": "2025-06-04 05:51:20 +0000",
       "fir_clearing": "2025-06-04 05:17:45 +0000",
       "ominous_woods": "2025-06-04 04:51:16 +0000"
     },
@@ -2496,6 +2503,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-04 05:51:17 +0000",
       "cooked_mutton": "2025-06-04 04:48:24 +0000",
       "apple": "2025-06-04 03:59:55 +0000",
       "bread": "2025-06-04 05:40:26 +0000",
