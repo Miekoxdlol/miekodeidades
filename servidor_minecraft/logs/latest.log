@@ -3058,3 +3058,84 @@ Things may not work well.
 [04Jun2025 04:09:29.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
 [04Jun2025 04:09:29.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
 [04Jun2025 04:10:08.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 04:10:41.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 04:11:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> nomas hay este bioma culero oq
+[04Jun2025 04:11:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> fr
+[04Jun2025 04:11:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 04:11:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> gracias mapache por:
+[04Jun2025 04:11:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> ven we amos a descuartizar animales
+[04Jun2025 04:11:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Mine? Mine? Mine?]
+[04Jun2025 04:11:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> mm yea
+[04Jun2025 04:11:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to 01_NutriaKing]
+[04Jun2025 04:11:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> tienes hierro chela?
+[04Jun2025 04:12:13.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> np
+[04Jun2025 04:12:15.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no
+[04Jun2025 04:12:25.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> joz amos a un vc
+[04Jun2025 04:12:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 04:12:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> ok voy
+[04Jun2025 04:12:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si puedes
+[04Jun2025 04:13:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 04:13:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> a cual
+[04Jun2025 04:13:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 04:13:35.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> estoy en uno
+[04Jun2025 04:13:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> el de minecraft
+[04Jun2025 04:13:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 04:14:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 04:14:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Stone Age]
+[04Jun2025 04:14:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Mine? Mine? Mine?]
+[04Jun2025 04:14:54.884] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=139, z=397}
+[04Jun2025 04:14:59.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[04Jun2025 04:14:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[04Jun2025 04:14:59.879] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[04Jun2025 04:15:23.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.121.101.6:52641] logged in with entity id 33672 at (-330.48932377203386, 72.68040562242687, -9.658070393642687)
+[04Jun2025 04:15:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[04Jun2025 04:15:23.648] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[04Jun2025 04:15:24.039] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[04Jun2025 04:15:24.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[04Jun2025 04:16:05.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Jun2025 04:16:23.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[04Jun2025 04:16:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Mieko_]
+[04Jun2025 04:16:48.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[04Jun2025 04:16:53.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Acquire Hardware]
+[04Jun2025 04:17:08.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4495ms or 89 ticks behind
+[04Jun2025 04:17:23.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[04Jun2025 04:17:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[04Jun2025 04:17:23.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[04Jun2025 04:17:28.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Jun2025 04:17:46.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[04Jun2025 04:17:56.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.138.109.154:44461] logged in with entity id 36616 at (-439.147897678573, 63.0, -44.09090390694345)
+[04Jun2025 04:17:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[04Jun2025 04:17:56.745] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[04Jun2025 04:17:57.126] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[04Jun2025 04:17:57.126] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[04Jun2025 04:18:06.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4259ms or 85 ticks behind
+[04Jun2025 04:18:27.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
+[04Jun2025 04:18:29.852] [Worker-Main-214/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[04Jun2025 04:18:50.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7719ms or 154 ticks behind
+[04Jun2025 04:18:57.683] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[04Jun2025 04:18:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 04:19:01.316] [Worker-Main-211/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:04.360] [Worker-Main-212/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:04.364] [Worker-Main-212/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:12.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 04:19:12.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7779ms or 155 ticks behind
+[04Jun2025 04:19:16.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Acquire Hardware]
+[04Jun2025 04:19:28.067] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[04Jun2025 04:19:28.068] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[04Jun2025 04:19:28.069] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[04Jun2025 04:19:28.069] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[04Jun2025 04:19:28.070] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[04Jun2025 04:19:28.070] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[04Jun2025 04:19:28.071] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[04Jun2025 04:19:28.071] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[04Jun2025 04:19:28.071] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[04Jun2025 04:19:28.072] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[04Jun2025 04:19:28.074] [Worker-Main-219/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:28.096] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2192}
+[04Jun2025 04:19:31.275] [Worker-Main-209/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:33.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
+[04Jun2025 04:19:36.164] [Worker-Main-210/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[04Jun2025 04:19:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[04Jun2025 04:19:55.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6151ms or 123 ticks behind
+[04Jun2025 04:20:15.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[04Jun2025 04:20:38.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8434ms or 168 ticks behind
