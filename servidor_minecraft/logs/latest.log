@@ -1,33 +1,33 @@
-[04Jun2025 21:40:49.112] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
-[04Jun2025 21:40:49.116] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[04Jun2025 21:40:49.718] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[04Jun2025 21:40:50.080] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
-[04Jun2025 21:40:50.081] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[04Jun2025 21:40:50.082] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[04Jun2025 21:40:50.083] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[04Jun2025 21:40:50.301] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[04Jun2025 21:40:53.082] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Jun2025 21:40:53.180] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04Jun2025 21:40:53.239] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jun2025 21:40:53.299] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 31 options available, 0 override(s) found
-[04Jun2025 21:40:53.307] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jun2025 21:40:53.324] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jun2025 21:40:53.326] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jun2025 21:40:53.514] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER
-[04Jun2025 21:40:53.514] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldOpenFlows (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER)
-[04Jun2025 21:40:53.515] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldOpenFlows was not found terrablender.mixins.json:MixinWorldOpenFlows
-[04Jun2025 21:40:55.396] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[04Jun2025 21:41:02.170] [modloading-worker-0/INFO] [enemeez.simplefarming.common.SimpleFarming/]: Simple Farming setup complete!
-[04Jun2025 21:41:02.449] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[04Jun2025 21:41:02.542] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
-[04Jun2025 21:41:02.542] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
-[04Jun2025 21:41:05.910] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[04Jun2025 21:41:06.101] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[04Jun2025 21:41:06.113] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[04Jun2025 21:41:06.116] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[04Jun2025 21:41:06.116] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[04Jun2025 21:41:06.134] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[04Jun2025 21:41:06.172] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for knockback_resist. Make sure your scaling supported mods are up to date!
+[04Jun2025 22:17:13.569] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[04Jun2025 22:17:13.573] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[04Jun2025 22:17:14.417] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[04Jun2025 22:17:14.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 22:17:14.777] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 22:17:14.778] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 22:17:14.779] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 22:17:14.971] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[04Jun2025 22:17:18.111] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Jun2025 22:17:18.178] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Jun2025 22:17:18.237] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 22:17:18.288] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 31 options available, 0 override(s) found
+[04Jun2025 22:17:18.298] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 22:17:18.317] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 22:17:18.319] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 22:17:18.485] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER
+[04Jun2025 22:17:18.488] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldOpenFlows (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER)
+[04Jun2025 22:17:18.488] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldOpenFlows was not found terrablender.mixins.json:MixinWorldOpenFlows
+[04Jun2025 22:17:20.347] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[04Jun2025 22:17:29.221] [modloading-worker-0/INFO] [enemeez.simplefarming.common.SimpleFarming/]: Simple Farming setup complete!
+[04Jun2025 22:17:29.660] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[04Jun2025 22:17:29.803] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
+[04Jun2025 22:17:29.803] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
+[04Jun2025 22:17:34.449] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[04Jun2025 22:17:34.688] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[04Jun2025 22:17:34.713] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[04Jun2025 22:17:34.714] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[04Jun2025 22:17:34.714] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[04Jun2025 22:17:34.747] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[04Jun2025 22:17:34.834] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for knockback_resist. Make sure your scaling supported mods are up to date!
 java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.getDefaultBaseValueModifiers()" because the return value of "com.tom.cpm.common.PehkuiInterface.getBaseType(com.tom.cpm.shared.util.ScalingOptions)" is null
 	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:36) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
 	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:20) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
@@ -47,7 +47,7 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[04Jun2025 21:41:06.178] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for safe_fall_distance. Make sure your scaling supported mods are up to date!
+[04Jun2025 22:17:34.840] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for safe_fall_distance. Make sure your scaling supported mods are up to date!
 java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.getDefaultBaseValueModifiers()" because the return value of "com.tom.cpm.common.PehkuiInterface.getBaseType(com.tom.cpm.shared.util.ScalingOptions)" is null
 	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:36) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
 	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:20) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
@@ -67,169 +67,294 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[04Jun2025 21:41:06.191] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[04Jun2025 21:41:06.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[04Jun2025 21:41:06.450] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[04Jun2025 21:41:06.451] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[04Jun2025 21:41:06.451] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[04Jun2025 21:41:06.452] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[04Jun2025 21:41:06.452] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[04Jun2025 21:41:06.453] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[04Jun2025 21:41:06.453] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[04Jun2025 21:41:06.488] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[04Jun2025 21:41:06.489] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[04Jun2025 21:41:06.492] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[04Jun2025 21:41:06.493] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[04Jun2025 21:41:06.513] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[04Jun2025 22:17:34.850] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[04Jun2025 22:17:34.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[04Jun2025 22:17:35.255] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Jun2025 22:17:35.255] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Jun2025 22:17:35.255] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04Jun2025 22:17:35.256] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04Jun2025 22:17:35.256] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04Jun2025 22:17:35.256] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04Jun2025 22:17:35.257] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04Jun2025 22:17:35.297] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04Jun2025 22:17:35.298] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[04Jun2025 22:17:35.301] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[04Jun2025 22:17:35.302] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04Jun2025 22:17:35.325] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[04Jun2025 21:41:06.558] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[04Jun2025 21:41:06.591] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[04Jun2025 21:41:06.599] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[04Jun2025 21:41:06.603] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[04Jun2025 21:41:06.611] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
-[04Jun2025 21:41:06.612] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[04Jun2025 21:41:06.617] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[04Jun2025 21:41:06.618] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[04Jun2025 21:41:07.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.4-2.5.12 Target: null
-[04Jun2025 21:41:07.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[04Jun2025 21:41:07.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[04Jun2025 21:41:07.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[04Jun2025 21:41:07.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[04Jun2025 21:41:07.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Jun2025 21:41:08.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
-[04Jun2025 21:41:08.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[04Jun2025 21:41:08.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.2.1696 Target: null
-[04Jun2025 21:41:08.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
-[04Jun2025 21:41:08.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.8d Target: 5.6.8d+mod
-[04Jun2025 21:41:08.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[04Jun2025 21:41:09.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.4-1.0.3 Target: null
-[04Jun2025 21:41:10.842] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Jun2025 21:41:13.808] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
-[04Jun2025 21:41:13.808] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
-[04Jun2025 21:41:15.369] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[04Jun2025 21:41:16.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[04Jun2025 21:41:16.282] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[04Jun2025 21:41:16.293] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[04Jun2025 21:41:16.294] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[04Jun2025 21:41:16.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[04Jun2025 21:41:16.298] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[04Jun2025 21:41:16.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[04Jun2025 21:41:16.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[04Jun2025 21:41:16.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[04Jun2025 21:41:16.808] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2687 advancements
-[04Jun2025 21:41:16.814] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[04Jun2025 21:41:16.829] [main/INFO] [Dungeon Crawl/]: Loading data...
-[04Jun2025 21:41:17.110] [main/INFO] [Dungeon Crawl/]: Done.
-[04Jun2025 21:41:17.112] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[04Jun2025 21:41:17.132] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[04Jun2025 21:41:19.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[04Jun2025 21:41:19.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Jun2025 21:41:19.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Jun2025 21:41:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Jun2025 21:41:19.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Jun2025 21:41:19.780] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Jun2025 21:41:19.885] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Jun2025 21:41:19.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Jun2025 21:41:19.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Jun2025 21:41:19.888] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Jun2025 21:41:20.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[04Jun2025 21:41:20.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[04Jun2025 21:41:20.068] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[04Jun2025 21:41:20.068] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[04Jun2025 21:41:20.068] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[04Jun2025 21:41:20.069] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[04Jun2025 21:41:20.069] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[04Jun2025 21:41:20.069] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[04Jun2025 21:41:20.070] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[04Jun2025 21:41:20.070] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[04Jun2025 21:41:20.102] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[04Jun2025 21:41:20.696] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[04Jun2025 21:41:20.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Jun2025 21:41:25.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Jun2025 21:41:30.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.501] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.502] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.504] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.508] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.509] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.510] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.511] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.512] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:30.814] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jun2025 21:41:31.314] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[04Jun2025 21:41:31.559] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5745 ms
-[04Jun2025 21:41:31.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.655s)! For help, type "help"
-[04Jun2025 21:41:31.596] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Jun2025 21:41:31.623] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[04Jun2025 21:41:31.647] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 5881
-[04Jun2025 21:41:53.494] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [pehkui:main] rejected their client side version number
-[04Jun2025 21:41:53.495] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Jun2025 21:41:53.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a74adcc[id=<null>,name=Calebalhz,properties={},legacy=false] (/127.71.196.147:34249) lost connection: Connection closed - mismatched mod channel list
-[04Jun2025 21:41:54.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ekmau1121[/127.182.167.82:44031] logged in with entity id 20 at (-3046.004361969918, 71.0, 7185.289983465529)
-[04Jun2025 21:41:54.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 joined the game
-[04Jun2025 21:41:54.416] [Server thread/INFO] [Jade/]: Syncing config to ekmau1121 (cd6d71f9-3496-3227-8d32-50f827a79ed5)
-[04Jun2025 21:41:56.642] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ekmau1121 (18)
-[04Jun2025 21:41:56.645] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ekmau1121
-[04Jun2025 21:41:56.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
-[04Jun2025 21:42:01.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:34369] logged in with entity id 283 at (-3045.350597413903, 74.56204739657895, 7181.588666924777)
-[04Jun2025 21:42:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[04Jun2025 21:42:02.142] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[04Jun2025 21:42:02.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[04Jun2025 21:42:02.224] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[04Jun2025 21:42:07.459] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [pehkui:main] rejected their client side version number
-[04Jun2025 21:42:07.459] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Jun2025 21:42:07.481] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53191d5d[id=<null>,name=Calebalhz,properties={},legacy=false] (/127.71.196.147:35245) lost connection: Connection closed - mismatched mod channel list
-[04Jun2025 21:42:21.262] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
-[04Jun2025 21:42:21.263] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[04Jun2025 21:42:26.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:33515] logged in with entity id 305 at (-3050.315613706331, 71.17428075706044, 7187.238371784902)
-[04Jun2025 21:42:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
-[04Jun2025 21:42:26.153] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
-[04Jun2025 21:42:26.512] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
-[04Jun2025 21:42:26.513] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
-[04Jun2025 21:42:57.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:42191] logged in with entity id 411 at (2642.46266108805, 16.0, 139.88732056661894)
-[04Jun2025 21:42:57.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
-[04Jun2025 21:42:57.550] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
-[04Jun2025 21:43:00.193] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
-[04Jun2025 21:43:00.194] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
-[04Jun2025 21:43:00.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
-[04Jun2025 21:44:12.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KSAKLSAKL
-[04Jun2025 21:44:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Bien traumado
-[04Jun2025 21:44:37.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
-[04Jun2025 21:44:38.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te tepeo?
-[04Jun2025 21:44:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
-[04Jun2025 21:45:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported 01_NutriaKing to Nekkai_]
-[04Jun2025 21:45:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mataron gente :c
-[04Jun2025 21:45:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Como cartel w
-[04Jun2025 21:46:59.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:57369] logged in with entity id 1780 at (2667.21766691634, 16.0, 134.97012291262885)
-[04Jun2025 21:46:59.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
-[04Jun2025 21:46:59.142] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
-[04Jun2025 21:47:01.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 2.3838303876332247,0.3420212978955135,9.981181177593498
-[04Jun2025 21:47:01.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[04Jun2025 21:47:01.945] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
-[04Jun2025 21:47:01.946] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
-[04Jun2025 21:47:04.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> gg
-[04Jun2025 21:47:21.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalebReyLeft[/127.71.196.147:49363] logged in with entity id 2107 at (277.5, 292.0, 574.5)
-[04Jun2025 21:47:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft joined the game
-[04Jun2025 21:47:21.066] [Server thread/INFO] [Jade/]: Syncing config to CalebReyLeft (256270bb-1e6b-3731-adc1-9f44f28b459b)
-[04Jun2025 21:47:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Ultris: Boss Expansion]
-[04Jun2025 21:47:21.681] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CalebReyLeft (18)
-[04Jun2025 21:47:21.681] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CalebReyLeft
-[04Jun2025 21:47:31.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Hola soy nueva
-[04Jun2025 21:47:43.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=292, z=584}
-[04Jun2025 21:48:41.221] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,packedup:main,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,cookingforblockheads:network,twilightforest:channel,citadel:main_channel,securitycraft:securitycraft,incapacitated:main,waystones:network,pehkui:main] rejected their client side version number
-[04Jun2025 21:48:41.221] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[04Jun2025 21:48:41.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b566baf[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.173.146.241:46425) lost connection: Connection closed - mismatched mod channel list
-[04Jun2025 21:49:35.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> reinicio
-[04Jun2025 21:49:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ekmau1121> bruh
-[04Jun2025 21:49:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported CalebReyLeft to Mieko_]
-[04Jun2025 21:49:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft is incapacitated!
-[04Jun2025 21:49:51.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ekmau1121 lost connection: Disconnected
-[04Jun2025 21:49:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 left the game
-[04Jun2025 21:49:51.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ekmau1121
-[04Jun2025 21:49:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Nigga wtf
-[04Jun2025 21:50:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft was slain by Mieko_
-[04Jun2025 21:50:08.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[04Jun2025 21:50:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported CalebReyLeft to Nekkai_]
-[04Jun2025 21:50:27.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
-[04Jun2025 21:50:45.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[04Jun2025 22:17:35.369] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04Jun2025 22:17:35.393] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04Jun2025 22:17:35.398] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04Jun2025 22:17:35.401] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[04Jun2025 22:17:35.402] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
+[04Jun2025 22:17:35.403] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[04Jun2025 22:17:35.406] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[04Jun2025 22:17:35.407] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[04Jun2025 22:17:35.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.4-2.5.12 Target: null
+[04Jun2025 22:17:35.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04Jun2025 22:17:36.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[04Jun2025 22:17:36.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[04Jun2025 22:17:36.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[04Jun2025 22:17:36.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Jun2025 22:17:36.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
+[04Jun2025 22:17:36.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[04Jun2025 22:17:37.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.2.1696 Target: null
+[04Jun2025 22:17:37.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[04Jun2025 22:17:37.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.8d Target: 5.6.8d+mod
+[04Jun2025 22:17:37.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[04Jun2025 22:17:38.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.4-1.0.3 Target: null
+[04Jun2025 22:17:41.534] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Jun2025 22:17:46.209] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[04Jun2025 22:17:46.209] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[04Jun2025 22:17:48.258] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04Jun2025 22:17:49.124] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[04Jun2025 22:17:49.179] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[04Jun2025 22:17:49.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[04Jun2025 22:17:49.193] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[04Jun2025 22:17:49.197] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[04Jun2025 22:17:49.202] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[04Jun2025 22:17:49.217] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[04Jun2025 22:17:49.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[04Jun2025 22:17:49.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[04Jun2025 22:17:49.783] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2687 advancements
+[04Jun2025 22:17:49.786] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[04Jun2025 22:17:49.787] [main/INFO] [Dungeon Crawl/]: Loading data...
+[04Jun2025 22:17:50.170] [main/INFO] [Dungeon Crawl/]: Done.
+[04Jun2025 22:17:50.180] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[04Jun2025 22:17:50.216] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[04Jun2025 22:17:53.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[04Jun2025 22:17:53.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Jun2025 22:17:53.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Jun2025 22:17:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Jun2025 22:17:53.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Jun2025 22:17:53.924] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Jun2025 22:17:54.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Jun2025 22:17:54.022] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Jun2025 22:17:54.023] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Jun2025 22:17:54.023] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Jun2025 22:17:54.191] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 22:17:54.192] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[04Jun2025 22:17:54.192] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[04Jun2025 22:17:54.192] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 22:17:54.193] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[04Jun2025 22:17:54.193] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 22:17:54.194] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[04Jun2025 22:17:54.194] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[04Jun2025 22:17:54.194] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 22:17:54.195] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[04Jun2025 22:17:54.230] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Jun2025 22:17:54.822] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Jun2025 22:17:54.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Jun2025 22:17:56.121] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Jun2025 22:17:57.635] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Jun2025 22:18:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Jun2025 22:18:01.865] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Jun2025 22:18:07.546] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.634] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.647] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.656] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.658] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.660] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.661] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.663] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.670] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.672] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:07.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:08.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 22:18:08.212] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Jun2025 22:18:08.616] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[04Jun2025 22:18:09.166] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[04Jun2025 22:18:09.425] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7809 ms
+[04Jun2025 22:18:09.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.387s)! For help, type "help"
+[04Jun2025 22:18:09.468] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Jun2025 22:18:09.495] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04Jun2025 22:18:09.508] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'when-epson.gl.at.ply.gg'
+[04Jun2025 22:18:09.667] [VoiceChatServerThread/ERROR] [voicechat/]: [voicechat] Failed to bind to address 'when-epson.gl.at.ply.gg', binding to wildcard IP instead
+[04Jun2025 22:18:09.668] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at when-epson.gl.at.ply.gg:1336
+[04Jun2025 22:18:19.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:48189] logged in with entity id 327 at (-3070.3869137778297, 61.0, 7188.129236652055)
+[04Jun2025 22:18:19.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[04Jun2025 22:18:19.532] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[04Jun2025 22:18:22.286] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[04Jun2025 22:18:22.289] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[04Jun2025 22:18:22.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[04Jun2025 22:18:29.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:56037] logged in with entity id 664 at (-2846.1012361845387, 81.0, 7406.224652980749)
+[04Jun2025 22:18:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[04Jun2025 22:18:29.496] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[04Jun2025 22:18:31.354] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[04Jun2025 22:18:31.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[04Jun2025 22:18:36.339] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,packedup:main,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,cookingforblockheads:network,twilightforest:channel,citadel:main_channel,securitycraft:securitycraft,incapacitated:main,waystones:network] rejected their client side version number
+[04Jun2025 22:18:36.339] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jun2025 22:18:36.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59f6a3d4[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.173.146.241:41055) lost connection: Connection closed - mismatched mod channel list
+[04Jun2025 22:18:38.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:57643] logged in with entity id 1016 at (-3065.2775000035763, 61.0, 7188.512522593101)
+[04Jun2025 22:18:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 22:18:39.091] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 22:18:39.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 22:18:39.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 22:18:41.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:53533] logged in with entity id 1044 at (383.11513037504085, 61.75409794210581, 643.3287840036157)
+[04Jun2025 22:18:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:18:41.135] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:18:41.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:18:41.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:18:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 22:18:55.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 22:19:18.468] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,packedup:main,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,cookingforblockheads:network,twilightforest:channel,citadel:main_channel,securitycraft:securitycraft,incapacitated:main,waystones:network] rejected their client side version number
+[04Jun2025 22:19:18.469] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jun2025 22:19:18.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@660892f9[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.173.146.241:34241) lost connection: Connection closed - mismatched mod channel list
+[04Jun2025 22:19:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ey haganme tp
+[04Jun2025 22:19:33.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> nose donde estoy
+[04Jun2025 22:19:35.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 22:19:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:37.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:37.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:38.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 22:19:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 22:19:39.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:19:40.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[04Jun2025 22:19:40.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[04Jun2025 22:19:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:19:40.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:19:40.371] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 22:19:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> lksaklsaklsa
+[04Jun2025 22:20:11.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 absolute--16 absolute]
+[04Jun2025 22:20:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Ant-Agonizer]
+[04Jun2025 22:21:17.938] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=108, z=424}
+[04Jun2025 22:22:14.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:39441] logged in with entity id 6177 at (-3102.1154602501697, 93.18164104096226, 7181.154428122702)
+[04Jun2025 22:22:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:22:14.070] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:22:15.507] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:22:15.508] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:22:28.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[04Jun2025 22:22:28.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[04Jun2025 22:22:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:22:28.788] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:22:53.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:53063] logged in with entity id 7044 at (-3102.1154602501697, 92.71748166600682, 7181.154428122702)
+[04Jun2025 22:22:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:22:53.408] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:22:53.788] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:22:53.788] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:23:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 22:23:11.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 22:23:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:23:11.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:23:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[04Jun2025 22:24:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 22:24:09.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> -
+[04Jun2025 22:24:37.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 22:24:59.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! 0.07931871277060054,0.0,10.234233070670598
+[04Jun2025 22:24:59.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.01725614288534416,0.0,10.614885751932889
+[04Jun2025 22:24:59.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.11691724729053021,0.0,10.995388814199032
+[04Jun2025 22:24:59.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.2182749921780669,0.0,11.376103552162022
+[04Jun2025 22:24:59.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.3201802536145806,0.0,11.757293753151316
+[04Jun2025 22:24:59.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.4216922941404846,0.0,12.139146526887998
+[04Jun2025 22:24:59.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.5220452739627035,0.0,12.521790176819195
+[04Jun2025 22:24:59.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.6206286480132803,0.0,12.905306115713756
+[04Jun2025 22:24:59.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.7169653784512775,0.0,13.289739548725265
+[04Jun2025 22:24:59.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.8106882034144292,0.0,13.675108846000512
+[04Jun2025 22:24:59.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.9015217676333123,0.0,14.06141233517883
+[04Jun2025 22:24:59.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -0.9892739295596584,0.0,14.448632607869513
+[04Jun2025 22:24:59.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -1.073820244595936,0.0,14.836741222503406
+[04Jun2025 22:24:59.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -1.1550898798591334,0.0,15.225702407900826
+[04Jun2025 22:25:49.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:33791] logged in with entity id 10659 at (-3102.1154602501697, 68.0, 7181.154428122702)
+[04Jun2025 22:25:49.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:25:49.428] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:25:50.830] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:25:50.831] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:25:51.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:25:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:25:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:25:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:25:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 22:26:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[04Jun2025 22:26:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:26:10.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 22:26:10.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:26:10.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:26:11.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalebReyLeft[/127.71.196.147:54703] logged in with entity id 11100 at (129.4939951844846, 62.073264324665075, 598.3527638008821)
+[04Jun2025 22:26:11.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft joined the game
+[04Jun2025 22:26:11.051] [Server thread/INFO] [Jade/]: Syncing config to CalebReyLeft (256270bb-1e6b-3731-adc1-9f44f28b459b)
+[04Jun2025 22:26:11.193] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CalebReyLeft (18)
+[04Jun2025 22:26:11.194] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CalebReyLeft
+[04Jun2025 22:26:16.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> .-.
+[04Jun2025 22:26:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Night Vision to Nekkai_]
+[04Jun2025 22:26:26.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> hola
+[04Jun2025 22:26:44.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: umiieru[/127.92.241.144:56313] logged in with entity id 11955 at (129.4939951844846, 62.073264324665075, 598.3527638008821)
+[04Jun2025 22:26:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru joined the game
+[04Jun2025 22:26:44.428] [Server thread/INFO] [Jade/]: Syncing config to umiieru (af7a161f-dec5-3df1-8eb2-fb1bb9c7e0ee)
+[04Jun2025 22:26:45.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of umiieru (18)
+[04Jun2025 22:26:45.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to umiieru
+[04Jun2025 22:26:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[04Jun2025 22:26:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJJAAJ
+[04Jun2025 22:27:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[04Jun2025 22:28:07.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! 7.069962090778972,-0.3318313003952653,-7.094809855640051
+[04Jun2025 22:28:16.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! 0.1937046701741565,2.6949838933097823,-9.653212693972819
+[04Jun2025 22:28:43.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:50439] logged in with entity id 14446 at (-3056.946784335218, 70.0, 7161.616531424182)
+[04Jun2025 22:28:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:28:43.866] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:28:44.905] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:28:44.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:28:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Monster Hunter]
+[04Jun2025 22:28:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KKSALSALK
+[04Jun2025 22:29:00.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 22:29:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:29:00.888] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:29:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Mieko
+[04Jun2025 22:29:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:30:25.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.138.109.154:39947] logged in with entity id 17331 at (-2977.5584546937657, 28.770749095862364, 1142.5746890076762)
+[04Jun2025 22:30:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[04Jun2025 22:30:25.067] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[04Jun2025 22:30:26.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalebReyLeft moved too quickly! -3.3810309413105273,0.12486439780541048,9.568578247795017
+[04Jun2025 22:30:27.205] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[04Jun2025 22:30:27.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[04Jun2025 22:30:29.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: umiieru moved too quickly! -1.2322830012451078,1.7539862017387549,10.14167549427043
+[04Jun2025 22:30:29.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[04Jun2025 22:30:35.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Ice Bucket Challenge]
+[04Jun2025 22:30:46.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[04Jun2025 22:30:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> quien quiere /kill
+[04Jun2025 22:30:59.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to umiieru]
+[04Jun2025 22:31:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Un joto
+[04Jun2025 22:31:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> dime papi
+[04Jun2025 22:31:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Que opinas de mi skin
+[04Jun2025 22:31:33.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> esta como la de the warrior
+[04Jun2025 22:31:42.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> f1 a esa cucaracha
+[04Jun2025 22:31:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> que opinas.....
+[04Jun2025 22:31:52.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Activen el vc gordas
+[04Jun2025 22:32:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> puto
+[04Jun2025 22:32:02.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> puto joto
+[04Jun2025 22:32:08.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> O QUE LA VERGA
+[04Jun2025 22:32:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Eye of The Storm]
+[04Jun2025 22:32:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [We Need to Go Deeper]
+[04Jun2025 22:32:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [We Need to Go Deeper]
+[04Jun2025 22:32:20.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:32:23.483] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:camel
+[04Jun2025 22:32:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to 01_NutriaKing]
+[04Jun2025 22:32:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Nightmare Fuel]
+[04Jun2025 22:32:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> si XD
+[04Jun2025 22:33:16.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Eye of The Storm]
+[04Jun2025 22:33:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Activen el vc gordas
+[04Jun2025 22:33:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Activen el vc gordas
+[04Jun2025 22:33:23.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Activen el vc gordas
+[04Jun2025 22:33:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Monster Hunter]
+[04Jun2025 22:33:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> PERO DIME PAPI
+[04Jun2025 22:33:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to CalebReyLeft]
+[04Jun2025 22:33:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> joto
+[04Jun2025 22:33:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:33:57.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:33:58.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> pinche puton
+[04Jun2025 22:34:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Rigged from the Start]
+[04Jun2025 22:34:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to 01_NutriaKing]
+[04Jun2025 22:35:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Ender Distancing]
+[04Jun2025 22:35:46.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Capsid-19]
+[04Jun2025 22:35:52.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Capsid-19]
+[04Jun2025 22:35:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [No Step on Snake]
+[04Jun2025 22:35:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> sida?
+[04Jun2025 22:36:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ese mapache
+[04Jun2025 22:36:31.432] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:camel
+[04Jun2025 22:36:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Primed TNT]
+[04Jun2025 22:36:52.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Minecart with TNT]
