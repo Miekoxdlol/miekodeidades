@@ -17,6 +17,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-04 04:39:56 +0000",
       "minecraft:taiga": "2025-06-04 04:41:22 +0000",
       "minecraft:deep_ocean": "2025-06-04 04:24:02 +0000",
+      "minecraft:sunflower_plains": "2025-06-04 19:55:46 +0000",
       "minecraft:beach": "2025-06-04 04:16:04 +0000",
       "minecraft:sparse_jungle": "2025-06-04 04:00:16 +0000",
       "minecraft:lukewarm_ocean": "2025-06-04 02:40:59 +0000",
@@ -28,6 +29,7 @@
       "minecraft:jungle": "2025-06-04 04:17:05 +0000",
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
+      "minecraft:frozen_peaks": "2025-06-04 19:53:46 +0000",
       "minecraft:meadow": "2025-06-04 19:50:05 +0000",
       "minecraft:savanna": "2025-06-04 02:49:17 +0000",
       "minecraft:plains": "2025-06-04 03:58:19 +0000"
@@ -1494,6 +1496,7 @@
       "minecraft:phantom": "2025-06-04 05:12:05 +0000",
       "minecraft:cave_spider": "2025-06-04 05:27:43 +0000",
       "minecraft:stray": "2025-06-04 05:36:11 +0000",
+      "minecraft:silverfish": "2025-06-04 20:04:50 +0000",
       "minecraft:zombie": "2025-06-04 05:39:35 +0000"
     },
     "done": false
@@ -2035,6 +2038,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-06-04 19:48:56 +0000",
+      "jade_cliffs": "2025-06-04 20:05:42 +0000",
       "field": "2025-06-04 19:33:22 +0000",
       "coniferous_forest": "2025-06-04 05:02:37 +0000",
       "seasonal_orchard": "2025-06-04 05:18:21 +0000",
@@ -3138,6 +3142,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-04 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-04 19:42:16 +0000"
@@ -3150,15 +3178,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-04 19:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-04 19:36:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 19:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-06-04 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
     },
     "done": true
   },
@@ -3174,9 +3220,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 19:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-04 19:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 20:04:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-04 19:55:12 +0000"
     },
     "done": true
   },
@@ -3189,6 +3271,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-04 19:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-06-04 19:54:11 +0000"
     },
     "done": true
   },

@@ -17,6 +17,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-04 04:39:51 +0000",
       "minecraft:taiga": "2025-06-04 04:41:08 +0000",
       "minecraft:deep_ocean": "2025-06-04 04:24:02 +0000",
+      "minecraft:sunflower_plains": "2025-06-04 19:56:20 +0000",
       "minecraft:savanna_plateau": "2025-06-04 07:27:47 +0000",
       "minecraft:beach": "2025-06-04 04:16:02 +0000",
       "minecraft:stony_peaks": "2025-06-04 07:46:01 +0000",
@@ -30,6 +31,7 @@
       "minecraft:deep_cold_ocean": "2025-06-04 05:00:08 +0000",
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
+      "minecraft:frozen_peaks": "2025-06-04 19:54:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 07:55:59 +0000",
       "minecraft:meadow": "2025-06-04 19:49:46 +0000",
       "minecraft:savanna": "2025-06-04 03:53:45 +0000",
@@ -1974,6 +1976,7 @@
       "minecraft:wither_skeleton": "2025-06-04 05:47:44 +0000",
       "minecraft:cave_spider": "2025-06-04 05:27:33 +0000",
       "minecraft:stray": "2025-06-04 05:45:59 +0000",
+      "minecraft:silverfish": "2025-06-04 20:03:19 +0000",
       "minecraft:zombie": "2025-06-04 05:32:43 +0000",
       "minecraft:drowned": "2025-06-04 07:31:29 +0000"
     },
@@ -2087,6 +2090,7 @@
       "shrubland": "2025-06-04 07:52:34 +0000",
       "rocky_shrubland": "2025-06-04 07:00:36 +0000",
       "scrubland": "2025-06-04 07:36:12 +0000",
+      "jade_cliffs": "2025-06-04 20:03:23 +0000",
       "clover_patch": "2025-06-04 07:54:31 +0000",
       "old_growth_woodland": "2025-06-04 07:22:07 +0000",
       "maple_woods": "2025-06-04 06:54:20 +0000",
@@ -3699,6 +3703,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-04 19:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-04 19:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-04 19:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-04 19:31:48 +0000"
@@ -3708,6 +3730,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-06-04 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-04 19:53:51 +0000"
     },
     "done": true
   },

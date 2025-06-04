@@ -29,6 +29,8 @@
       "minecraft:ocean": "2025-06-04 04:33:08 +0000",
       "minecraft:windswept_savanna": "2025-06-04 05:15:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 07:20:41 +0000",
+      "minecraft:frozen_peaks": "2025-06-04 20:00:17 +0000",
+      "minecraft:deep_dark": "2025-06-04 20:05:33 +0000",
       "minecraft:meadow": "2025-06-04 19:50:00 +0000",
       "minecraft:savanna": "2025-06-04 03:53:44 +0000",
       "minecraft:plains": "2025-06-04 07:15:03 +0000"
@@ -926,6 +928,7 @@
       "rocky_shrubland": "2025-06-04 07:00:39 +0000",
       "scrubland": "2025-06-04 07:27:06 +0000",
       "highland": "2025-06-04 05:43:18 +0000",
+      "jade_cliffs": "2025-06-04 20:03:33 +0000",
       "old_growth_woodland": "2025-06-04 07:22:09 +0000",
       "maple_woods": "2025-06-04 06:54:28 +0000",
       "field": "2025-06-04 19:30:04 +0000",
@@ -1288,6 +1291,7 @@
       "minecraft:spider": "2025-06-04 05:53:26 +0000",
       "minecraft:creeper": "2025-06-04 05:51:16 +0000",
       "minecraft:enderman": "2025-06-04 05:51:45 +0000",
+      "minecraft:stray": "2025-06-04 19:59:22 +0000",
       "minecraft:zombie": "2025-06-04 05:50:34 +0000",
       "minecraft:drowned": "2025-06-04 07:19:23 +0000"
     },
@@ -2710,6 +2714,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-04 20:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-04 19:31:50 +0000"
@@ -2806,6 +2816,12 @@
   "packedup:recipes/misc/basic_from_chest": {
     "criteria": {
       "recipe_condition": "2025-06-04 19:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-04 20:05:33 +0000"
     },
     "done": true
   },
