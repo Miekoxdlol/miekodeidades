@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-06-04 20:49:00 +0000",
       "minecraft:savanna_plateau": "2025-06-04 07:48:14 +0000",
       "minecraft:beach": "2025-06-04 07:57:23 +0000",
       "minecraft:stony_peaks": "2025-06-04 07:47:30 +0000",
@@ -852,7 +853,8 @@
       "minecraft:cave_spider": "2025-06-04 05:26:36 +0000",
       "minecraft:piglin": "2025-06-04 05:06:35 +0000",
       "minecraft:stray": "2025-06-04 05:51:56 +0000",
-      "minecraft:zombie": "2025-06-04 04:02:44 +0000"
+      "minecraft:zombie": "2025-06-04 04:02:44 +0000",
+      "minecraft:zombie_villager": "2025-06-04 20:32:29 +0000"
     },
     "done": false
   },
@@ -2943,57 +2945,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-04 19:50:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
+      "has_logs": "2025-06-04 19:50:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
+  "alexsmobs:alexsmobs/banana": {
     "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
+      "banana": "2025-06-04 19:51:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-06-04 19:53:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
     },
     "done": true
   },
@@ -3009,33 +2981,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-06-04 19:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-04 19:50:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-04 19:53:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-06-04 19:58:47 +0000"
     },
     "done": true
   },
@@ -3063,6 +3011,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-04 19:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-04 19:58:47 +0000"
@@ -3081,9 +3089,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_planks": "2025-06-04 19:53:24 +0000"
+      "has_dandelion": "2025-06-04 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 20:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 20:49:19 +0000"
     },
     "done": true
   },

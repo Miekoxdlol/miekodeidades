@@ -501,3 +501,162 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 20:35:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported ekmau1121 to Duzzk0]
 [04Jun2025 20:35:38.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Duzzk0]
 [04Jun2025 20:35:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y cuando mi casa...
+[04Jun2025 20:36:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> leviatan yo lo invoco...
+[04Jun2025 20:37:13.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Giant]
+[04Jun2025 20:38:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Estaria chido que?
+[04Jun2025 20:38:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y que me carguen
+[04Jun2025 20:39:18.939] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 absolute--16 absolute]
+[04Jun2025 20:39:42.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 20:40:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 20:40:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> oal
+[04Jun2025 20:41:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 20:41:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Take Aim]
+[04Jun2025 20:42:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> nmms
+[04Jun2025 20:42:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> donde verga estoy
+[04Jun2025 20:42:39.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2617, y=44, z=151} BlockPos{x=255, y=292, z=585}
+[04Jun2025 20:42:43.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2617, y=44, z=151} BlockPos{x=259, y=291, z=586}
+[04Jun2025 20:42:56.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[04Jun2025 20:42:56.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[04Jun2025 20:42:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 20:42:56.104] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 20:43:18.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:56931] logged in with entity id 35202 at (260.2001207163739, 137.32346386745743, 597.1561574221329)
+[04Jun2025 20:43:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 20:43:18.140] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 20:43:18.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 20:43:18.600] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 20:43:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> damelo
+[04Jun2025 20:43:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> es ilegal
+[04Jun2025 20:43:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :>
+[04Jun2025 20:44:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> 2389 bloques de mi casa...
+[04Jun2025 20:44:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ...
+[04Jun2025 20:44:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Strength to Nekkai_]
+[04Jun2025 20:44:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[04Jun2025 20:44:32.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oigan
+[04Jun2025 20:44:36.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz
+[04Jun2025 20:44:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[04Jun2025 20:44:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ek
+[04Jun2025 20:44:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[04Jun2025 20:44:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[04Jun2025 20:44:52.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJA
+[04Jun2025 20:44:54.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJJAAJJAJA
+[04Jun2025 20:44:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJSAJSAJSAJSA
+[04Jun2025 20:44:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JSAJSAJSASJASAJ
+[04Jun2025 20:44:57.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JSAJSAJSAJSAJSASAJ
+[04Jun2025 20:44:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[04Jun2025 20:45:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Muy buena armadura contra el warden eh
+[04Jun2025 20:45:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Duraste mucho
+[04Jun2025 20:45:19.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Removed every effect from Nekkai_]
+[04Jun2025 20:45:35.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 is incapacitated!
+[04Jun2025 20:45:45.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has been revived!
+[04Jun2025 20:45:48.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> a ver pegame
+[04Jun2025 20:45:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 20:46:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 20:46:21.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has completed the challenge [Gallons of Blood and Tears]
+[04Jun2025 20:46:32.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pasa
+[04Jun2025 20:46:47.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 20:46:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 20:46:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> aca
+[04Jun2025 20:48:12.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te puedes hacer este pico
+[04Jun2025 20:48:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[04Jun2025 20:48:31.217] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[04Jun2025 20:49:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> como se domestican los pandas
+[04Jun2025 20:50:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> comida
+[04Jun2025 20:51:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mi cocinita
+[04Jun2025 20:51:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> este puto panda solo me esta robando
+[04Jun2025 20:51:21.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no se domestica
+[04Jun2025 20:51:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KASKSALKLSKASA
+[04Jun2025 20:51:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 20:51:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No se domestican
+[04Jun2025 20:51:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SLKSAKLSAKLSA
+[04Jun2025 20:51:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJAJAJAJAJ
+[04Jun2025 20:51:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me tepee y lo veo dandole bamboo al panda
+[04Jun2025 20:52:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Duzzk0]
+[04Jun2025 20:54:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Hot Stuff]
+[04Jun2025 20:54:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> si
+[04Jun2025 20:54:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mira nutria mi mochila :D
+[04Jun2025 20:54:22.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has reached the goal [The largest of them all]
+[04Jun2025 20:55:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> a mi :D
+[04Jun2025 20:55:30.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 20:55:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[04Jun2025 20:55:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SALKKSALLKSAKLSA
+[04Jun2025 20:55:41.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has been revived!
+[04Jun2025 20:55:42.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 20:56:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ctm
+[04Jun2025 20:56:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> controlate
+[04Jun2025 20:56:30.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Como la quito :c
+[04Jun2025 20:56:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya esta
+[04Jun2025 20:56:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya esta
+[04Jun2025 20:56:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> solo ataca criaturas
+[04Jun2025 20:56:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> hostiles
+[04Jun2025 20:56:50.769] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=139, z=397}
+[04Jun2025 20:57:33.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 20:57:40.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 20:57:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela drowned
+[04Jun2025 20:57:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> NOOO
+[04Jun2025 20:57:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SALSAÑLSAL
+[04Jun2025 20:57:51.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJAJAJAJAJA
+[04Jun2025 20:57:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:57:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:04.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:07.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:09.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:11.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:14.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:17.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Pic-A-Nic Basket?]
+[04Jun2025 20:58:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Nekkai_]
+[04Jun2025 20:58:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Nekkai_]
+[04Jun2025 20:58:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 20:58:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 20:58:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Duzzk0]
+[04Jun2025 21:00:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> e que pedo
+[04Jun2025 21:00:25.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 21:00:26.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> como me mori
+[04Jun2025 21:00:28.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> >:c
+[04Jun2025 21:00:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 21:00:31.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LKASSAKLSAKLSA
+[04Jun2025 21:00:36.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> bro..
+[04Jun2025 21:00:49.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> estaba en la muralla
+[04Jun2025 21:01:00.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ahorita te veo las muertes
+[04Jun2025 21:01:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> la mmda
+[04Jun2025 21:01:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to -214.500000, 55.000000, 267.500000]
+[04Jun2025 21:01:19.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported capitanchela to Nekkai_]
+[04Jun2025 21:01:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Duzzk0]
+[04Jun2025 21:01:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set the weather to clear]
+[04Jun2025 21:02:40.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:47241] logged in with entity id 46424 at (-3488.9530559318637, 25.50189582871572, 6740.719050985692)
+[04Jun2025 21:02:40.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 21:02:40.731] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 21:02:42.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 21:02:42.435] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 21:03:01.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 21:03:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ni uno
+[04Jun2025 21:03:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Yo
+[04Jun2025 21:03:18.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> esa nekka
+[04Jun2025 21:03:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mande
+[04Jun2025 21:03:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Nekkai_'s game mode to Survival Mode]
+[04Jun2025 21:03:38.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 21:03:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 21:03:43.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> justo me tepe
+[04Jun2025 21:03:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 21:04:13.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 21:04:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set the weather to rain]
+[04Jun2025 21:04:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Lightning Bolt]
+[04Jun2025 21:04:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Lightning Bolt]
+[04Jun2025 21:04:51.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Lightning Bolt]
+[04Jun2025 21:04:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 21:06:12.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mande

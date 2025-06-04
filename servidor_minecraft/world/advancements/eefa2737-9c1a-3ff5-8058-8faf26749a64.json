@@ -29,7 +29,9 @@
       "minecraft:jungle": "2025-06-04 04:17:05 +0000",
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
+      "minecraft:flower_forest": "2025-06-04 20:34:16 +0000",
       "minecraft:frozen_peaks": "2025-06-04 19:53:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-04 20:49:19 +0000",
       "minecraft:deep_dark": "2025-06-04 20:20:41 +0000",
       "minecraft:meadow": "2025-06-04 19:50:05 +0000",
       "minecraft:savanna": "2025-06-04 02:49:17 +0000",
@@ -3144,15 +3146,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-04 20:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-04 20:04:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-04 20:51:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-04 20:39:33 +0000"
     },
     "done": true
   },
@@ -3198,6 +3218,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-04 20:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-04 19:36:29 +0000"
@@ -3207,6 +3233,12 @@
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-06-04 20:27:55 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-06-04 20:33:32 +0000"
     },
     "done": true
   },
@@ -3285,6 +3317,12 @@
   "1_splatus:ultris/giantdefeat": {
     "criteria": {
       "c1": "2025-06-04 20:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-04 20:51:29 +0000"
     },
     "done": true
   },
