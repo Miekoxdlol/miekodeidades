@@ -949,6 +949,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/red_dye_from_rose": {
+    "criteria": {
+      "has_flower": "2025-06-04 03:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-06-04 02:29:06 +0000"

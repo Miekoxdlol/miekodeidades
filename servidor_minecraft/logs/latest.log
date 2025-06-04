@@ -961,3 +961,19 @@ Things may not work well.
 [04Jun2025 02:58:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ola positivo
 [04Jun2025 02:58:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
 [04Jun2025 02:58:56.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Duzzk0 to Mieko_]
+[04Jun2025 03:00:35.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 03:00:35.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 03:00:35.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 03:05:46.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.250.220.36:57759] logged in with entity id 10367 at (209.46568478794214, 70.0, 232.25035150443162)
+[04Jun2025 03:05:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 03:05:46.286] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 03:05:48.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 03:05:48.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 03:06:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> amigos tp
+[04Jun2025 03:07:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que
+[04Jun2025 03:07:43.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 03:08:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> una moscaaaaaaaaaaaaaa
+[04Jun2025 03:09:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 03:09:13.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> bro
+[04Jun2025 03:09:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> XDDDDDDDDDD
+[04Jun2025 03:09:15.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
