@@ -3539,3 +3539,205 @@ Things may not work well.
 [04Jun2025 05:01:39.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ekmau1121
 [04Jun2025 05:01:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Oh Shiny]
 [04Jun2025 05:02:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Who is Cutting Onions?]
+[04Jun2025 05:02:18.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[04Jun2025 05:02:19.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1653) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:418) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18760_(ProcessorMailbox.java:131) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_6937_(ProcessorMailbox.java:124) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:681) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662) ~[?:?]
+	at java.util.concurrent.CompletableFuture.thenApplyAsync(CompletableFuture.java:2178) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141930_(EntityStorage.java:46) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157562_(PersistentEntitySectionManager.java:227) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157555_(PersistentEntitySectionManager.java:194) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:157) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157524_(PersistentEntitySectionManager.java:146) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ChunkMap.m_143075_(ChunkMap.java:1293) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_200425_(ChunkHolder.java:335) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:540) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:548) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:268) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:761) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:750) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:735) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:668) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:252) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1647) ~[server-1.19.4-20230314.122934-srg.jar%23169!/:?]
+	... 47 more
+[04Jun2025 05:02:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Mine? Mine? Mine?]
+[04Jun2025 05:02:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 05:02:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 05:02:53.442] [Worker-Main-208/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-12717329,-1471723623,-1908530992,507571752],type:"minecraft:entity",y_offset:0.36f}}]
+[04Jun2025 05:02:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ayuda
+[04Jun2025 05:03:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> no encuentro mi casa
+[04Jun2025 05:03:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mapachito_44]
+[04Jun2025 05:03:15.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:03:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> c mosca
+[04Jun2025 05:03:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Mine? Mine? Mine?]
+[04Jun2025 05:05:17.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 05:05:23.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[04Jun2025 05:05:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to Mieko_]
+[04Jun2025 05:05:33.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[04Jun2025 05:05:33.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[04Jun2025 05:05:33.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[04Jun2025 05:05:39.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mapachito_44]
+[04Jun2025 05:06:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 05:06:30.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB is incapacitated!
+[04Jun2025 05:06:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB was slain by Piglin
+[04Jun2025 05:07:05.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> LOS PRIMEROS BANEADOS duzz y nutria por allanamiento de morada
+[04Jun2025 05:07:11.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:52267] logged in with entity id 80094 at (268.52469491835666, 69.5, 275.24882705372164)
+[04Jun2025 05:07:11.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[04Jun2025 05:07:11.861] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[04Jun2025 05:07:13.083] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[04Jun2025 05:07:13.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[04Jun2025 05:07:47.705] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:07:47.706] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:07:50.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Piglin and bled out
+[04Jun2025 05:07:51.335] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:07:51.335] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:07:54.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:49679] logged in with entity id 80825 at (-2792.039532408607, 63.0, 910.3053507734625)
+[04Jun2025 05:07:54.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 05:07:54.429] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 05:07:55.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 05:07:55.870] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 05:07:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> c capitan pendejo
+[04Jun2025 05:08:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> a ya llego mieko
+[04Jun2025 05:08:05.801] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:08:05.802] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:08:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> ay pobrecito de mi chelita
+[04Jun2025 05:08:11.032] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:08:11.033] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:08:12.839] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:08:12.839] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:08:20.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[04Jun2025 05:08:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[04Jun2025 05:08:20.370] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[04Jun2025 05:08:49.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=258, y=291, z=582}
+[04Jun2025 05:08:51.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=258, y=291, z=583}
+[04Jun2025 05:08:52.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=259, y=291, z=583}
+[04Jun2025 05:08:52.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=259, y=291, z=582}
+[04Jun2025 05:08:52.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has completed the challenge [Mariachi!]
+[04Jun2025 05:08:54.530] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ia:main,cookingforblockheads:network,citadel:main_channel,securitycraft:securitycraft,packedup:main,pehkui:main,forge:tier_sorting,supermartijn642configlib:sync_configs,alexsmobs:main_channel,trashslot:network,incapacitated:main,twilightforest:channel,waystones:network] rejected vanilla connections
+[04Jun2025 05:08:54.530] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Jun2025 05:09:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> a quien?
+[04Jun2025 05:09:47.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> a,mi
+[04Jun2025 05:09:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported capitanchela to JoszMDB]
+[04Jun2025 05:10:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 05:10:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to 01_NutriaKing]
+[04Jun2025 05:10:14.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to JoszMDB]
+[04Jun2025 05:10:41.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:59703] logged in with entity id 82876 at (-2792.039532408607, 63.0, 910.3053507734625)
+[04Jun2025 05:10:41.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 05:10:41.192] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 05:10:42.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:42.243] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 05:10:42.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 05:10:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:43.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:43.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:45.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:46.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:46.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:48.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:50.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:50.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:50.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:52.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:52.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:53.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:54.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:54.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:55.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:56.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 05:10:56.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:57.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:57.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:10:58.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 05:11:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 05:11:05.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 05:11:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:07.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XDD
+[04Jun2025 05:11:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 05:11:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:39.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:40.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:40.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:40.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:41.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Set own game mode to Creative Mode]
+[04Jun2025 05:11:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[04Jun2025 05:11:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 05:11:48.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 05:11:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB is incapacitated!
+[04Jun2025 05:11:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB was slain by Piglin
+[04Jun2025 05:11:56.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Piglin
+[04Jun2025 05:11:59.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to capitanchela]
+[04Jun2025 05:12:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 05:12:09.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to capitanchela]
+[04Jun2025 05:12:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported capitanchela to Mapachito_44]
+[04Jun2025 05:12:16.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 05:12:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Piglin
+[04Jun2025 05:12:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[04Jun2025 05:12:31.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[04Jun2025 05:12:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[04Jun2025 05:12:31.185] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_

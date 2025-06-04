@@ -331,6 +331,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-06-04 05:03:06 +0000",
       "ominous_woods": "2025-06-04 04:48:11 +0000"
     },
     "done": false
@@ -770,6 +771,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-04 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-06-04 05:08:52 +0000"
     },
     "done": true
   },
