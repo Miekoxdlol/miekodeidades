@@ -416,3 +416,36 @@ Things may not work well.
 [04Jun2025 01:28:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
 [04Jun2025 01:28:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> osea los privilejios de los rolplayers van a ser esas skins
 [04Jun2025 01:28:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ahh
+[04Jun2025 01:28:55.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> vas a rolear del personaje no?
+[04Jun2025 01:29:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ahh ayayaya
+[04Jun2025 01:29:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> una familia
+[04Jun2025 01:30:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> entiendo
+[04Jun2025 01:30:31.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> suena bien
+[04Jun2025 01:31:16.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aver
+[04Jun2025 01:31:21.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[04Jun2025 01:31:37.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 01:34:12.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:56047] logged in with entity id 4393 at (99.80761113521794, 107.0, 277.2323457982721)
+[04Jun2025 01:34:12.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[04Jun2025 01:34:12.741] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[04Jun2025 01:34:14.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[04Jun2025 01:34:14.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[04Jun2025 01:35:06.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to capitanchela]
+[04Jun2025 01:35:12.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
+[04Jun2025 01:35:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[04Jun2025 01:35:12.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 01:35:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[04Jun2025 01:36:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> titanskeet7w7
+[04Jun2025 01:37:23.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:35273] logged in with entity id 4656 at (182.97101631972853, 78.43572513367204, 204.400643928514)
+[04Jun2025 01:37:23.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[04Jun2025 01:37:23.746] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[04Jun2025 01:37:24.222] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[04Jun2025 01:37:24.222] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[04Jun2025 01:37:32.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> llego el admin
+[04Jun2025 01:37:53.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
+[04Jun2025 01:37:53.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[04Jun2025 01:37:53.803] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 01:38:37.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:54547] logged in with entity id 4723 at (182.97101631972853, 78.43572513367204, 204.400643928514)
+[04Jun2025 01:38:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[04Jun2025 01:38:37.497] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[04Jun2025 01:38:37.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[04Jun2025 01:38:37.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
