@@ -18,6 +18,7 @@
       "minecraft:lukewarm_ocean": "2025-06-04 03:26:41 +0000",
       "minecraft:river": "2025-06-04 03:59:11 +0000",
       "minecraft:jungle": "2025-06-04 04:03:25 +0000",
+      "minecraft:ocean": "2025-06-04 04:33:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 04:01:10 +0000",
       "minecraft:savanna": "2025-06-04 03:53:45 +0000",
       "minecraft:plains": "2025-06-04 04:00:54 +0000"
@@ -705,6 +706,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-04 04:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:23:24 +0000"
@@ -716,6 +723,12 @@
       "has_cobblestone": "2025-06-04 04:23:24 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 04:32:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
@@ -747,9 +760,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-04 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-04 04:18:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-04 04:30:59 +0000"
     },
     "done": true
   },
@@ -843,9 +868,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-04 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-04 04:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-04 04:30:59 +0000"
     },
     "done": true
   },
@@ -891,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 04:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:23:24 +0000"
@@ -927,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 04:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "enchanted_golden_apple": "2025-06-04 04:20:57 +0000"
@@ -939,6 +988,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 04:34:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-06-04 04:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:23:24 +0000"
@@ -948,6 +1009,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-04 04:30:59 +0000"
     },
     "done": true
   },
