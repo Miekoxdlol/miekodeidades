@@ -358,3 +358,172 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 22:36:31.432] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:camel
 [04Jun2025 22:36:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Primed TNT]
 [04Jun2025 22:36:52.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Minecart with TNT]
+[04Jun2025 22:37:24.745] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;677661996,-572371635,-1152429418,-727855336],type:"minecraft:entity",y_offset:0.36f}}]
+[04Jun2025 22:37:24.748] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1348497204,-1917304189,-1871659946,2140891840],type:"minecraft:entity",y_offset:0.36f}}]
+[04Jun2025 22:37:33.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[04Jun2025 22:37:41.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Acquire Hardware]
+[04Jun2025 22:37:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Isn't It Iron Pick]
+[04Jun2025 22:37:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[04Jun2025 22:37:53.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand Mine'/28783, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3723.50, y=63.00, z=9208.50]
+[04Jun2025 22:37:53.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand Mine'/28789, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3723.50, y=63.00, z=9209.50]
+[04Jun2025 22:37:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported CalebReyLeft to Mapachito_44]
+[04Jun2025 22:37:55.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JSALKSAKSAK
+[04Jun2025 22:37:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KLSAKLSALKSAKSA
+[04Jun2025 22:37:57.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KLSALKSALKSAKLSA
+[04Jun2025 22:37:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ASLKSLAKLKSALKAS
+[04Jun2025 22:38:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SAKLLKSAKLASKLSALKSA
+[04Jun2025 22:38:00.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:55041] logged in with entity id 28898 at (-3057.626360972973, 70.0, 7160.900205633804)
+[04Jun2025 22:38:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:38:00.184] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:38:00.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> wtf
+[04Jun2025 22:38:00.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LKSAKLSALKSALKSAKSAKSA
+[04Jun2025 22:38:01.245] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:38:01.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:38:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[04Jun2025 22:38:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LSALKSALKSLKS
+[04Jun2025 22:38:15.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 22:38:15.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 22:38:15.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 22:38:17.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> PINCHE MUGROSO
+[04Jun2025 22:38:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalebReyLeft> Que hacias nigga
+[04Jun2025 22:38:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> devuelvan a mi vieja...
+[04Jun2025 22:38:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported CalebReyLeft to umiieru]
+[04Jun2025 22:38:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> dejen de tepear a lo random puñetines
+[04Jun2025 22:38:44.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> te voy a cachar
+[04Jun2025 22:38:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to umiieru]
+[04Jun2025 22:38:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> que quieres we
+[04Jun2025 22:38:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to umiieru]
+[04Jun2025 22:39:00.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of umiieru) moved too quickly! -7.163977628973782,0.0,7.244909766439491
+[04Jun2025 22:39:00.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of umiieru) moved too quickly! -7.492731520632418,0.0,7.404884040125921
+[04Jun2025 22:39:00.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 22:39:11.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mapachito ayudame a arreglar mi cagada unu
+[04Jun2025 22:39:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> aver que hizo
+[04Jun2025 22:39:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to Nekkai_]
+[04Jun2025 22:39:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> una bromita a nutria
+[04Jun2025 22:39:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 22:39:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y salio boom
+[04Jun2025 22:39:34.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Begun, The Emu War Has]
+[04Jun2025 22:39:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 22:39:39.439] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [pehkui:main] rejected their client side version number
+[04Jun2025 22:39:39.440] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jun2025 22:39:43.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4131ms or 82 ticks behind
+[04Jun2025 22:39:43.448] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6490ba94[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.173.146.241:42345) lost connection: Connection closed - mismatched mod channel list
+[04Jun2025 22:39:56.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> tambien a mi
+[04Jun2025 22:40:12.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> es que cacaleb esta cargando los chunks
+[04Jun2025 22:40:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [It's an Emu!!!]
+[04Jun2025 22:40:24.260] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [pehkui:main] rejected their client side version number
+[04Jun2025 22:40:24.260] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jun2025 22:40:24.267] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@381c8731[id=<null>,name=titanhumilde7w7,properties={},legacy=false] (/127.173.146.241:54705) lost connection: Connection closed - mismatched mod channel list
+[04Jun2025 22:40:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <umiieru> porque no los precargaste con chunky pendejo...
+[04Jun2025 22:40:38.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Mine? Mine? Mine?]
+[04Jun2025 22:40:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [It's an Emu!!!]
+[04Jun2025 22:41:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:41:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [It's an Emu!!!]
+[04Jun2025 22:41:42.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:55393] logged in with entity id 34012 at (-3057.626360972973, 70.0, 7160.900205633804)
+[04Jun2025 22:41:42.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 22:41:42.584] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 22:41:44.004] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 22:41:44.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 22:41:44.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Timed out
+[04Jun2025 22:41:44.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[04Jun2025 22:41:44.047] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[04Jun2025 22:41:48.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -8.991459615669555,0.0,4.993444214409465
+[04Jun2025 22:41:48.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -9.800290622116336,-6.601580943765839E-5,2.8110331178395427
+[04Jun2025 22:41:48.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 01_NutriaKing) moved too quickly! -10.184783859518575,-6.593307591629127E-5,2.9127649075853697
+[04Jun2025 22:41:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 22:42:02.815] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-56, z=2038}
+[04Jun2025 22:42:06.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.2.202.211:56153] logged in with entity id 35080 at (-3764.114079775916, 69.4375, 9265.008152175415)
+[04Jun2025 22:42:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[04Jun2025 22:42:06.259] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[04Jun2025 22:42:06.647] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[04Jun2025 22:42:06.648] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[04Jun2025 22:42:21.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.173.146.241:46705] logged in with entity id 35411 at (279.5, 297.0, 573.5)
+[04Jun2025 22:42:21.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[04Jun2025 22:42:21.636] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[04Jun2025 22:42:21.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Ultris: Boss Expansion]
+[04Jun2025 22:42:23.398] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[04Jun2025 22:42:23.399] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[04Jun2025 22:42:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 22:42:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported titanhumilde7w7 to Mapachito_44]
+[04Jun2025 22:42:39.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[04Jun2025 22:42:49.294] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-134, y=-54, z=2033}
+[04Jun2025 22:42:49.327] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-58, z=2031}
+[04Jun2025 22:42:49.327] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-217, y=-58, z=2030}
+[04Jun2025 22:42:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> checa nutria
+[04Jun2025 22:43:02.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> waterdrop
+[04Jun2025 22:43:03.175] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-58, z=2031}
+[04Jun2025 22:43:03.178] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2031}
+[04Jun2025 22:43:03.178] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2034}
+[04Jun2025 22:43:03.179] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2033}
+[04Jun2025 22:43:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 22:43:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 22:43:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [We do a little trolling...]
+[04Jun2025 22:43:20.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to Nekkai_]
+[04Jun2025 22:43:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si we
+[04Jun2025 22:43:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> JASJAJAJAJA
+[04Jun2025 22:43:27.285] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2031}
+[04Jun2025 22:43:27.285] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2034}
+[04Jun2025 22:43:27.285] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-34, y=-58, z=2033}
+[04Jun2025 22:43:27.315] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2053}
+[04Jun2025 22:43:28.580] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-76, y=-58, z=2031}
+[04Jun2025 22:43:28.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-76, y=-58, z=2032}
+[04Jun2025 22:43:28.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-74, y=-58, z=2032}
+[04Jun2025 22:43:33.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> cual combi me lleva?
+[04Jun2025 22:43:36.764] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:camel
+[04Jun2025 22:43:49.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: You logged in from another location
+[04Jun2025 22:43:49.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[04Jun2025 22:43:49.995] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[04Jun2025 22:43:49.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.173.146.241:41151] logged in with entity id 37747 at (-3764.4222125977135, 71.0, 9315.539100369899)
+[04Jun2025 22:43:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[04Jun2025 22:43:50.042] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[04Jun2025 22:43:50.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[04Jun2025 22:43:50.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[04Jun2025 22:43:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> hugo te la voy a mamar
+[04Jun2025 22:44:09.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Jun2025 22:44:14.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 2.136733575486687,0.0,-10.260666895901522
+[04Jun2025 22:44:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to titanhumilde7w7]
+[04Jun2025 22:44:28.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3861ms or 77 ticks behind
+[04Jun2025 22:44:34.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported titanhumilde7w7 to Nekkai_]
+[04Jun2025 22:44:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported titanhumilde7w7 to Mieko_]
+[04Jun2025 22:44:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to titanhumilde7w7]
+[04Jun2025 22:44:42.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 moved too quickly! 0.11067566693009212,0.0,-10.404721212442382
+[04Jun2025 22:44:47.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
+[04Jun2025 22:45:12.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Jun2025 22:45:31.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KSALKSALKSA
+[04Jun2025 22:45:37.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Jun2025 22:45:41.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 22:45:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to titanhumilde7w7]
+[04Jun2025 22:45:59.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -0.010450567785483145,-3.1492252334312383,9.806709425287409
+[04Jun2025 22:46:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [No End In Sight]
+[04Jun2025 22:46:15.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Lo que comes
+[04Jun2025 22:46:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :D
+[04Jun2025 22:46:30.950] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=139, z=397}
+[04Jun2025 22:46:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Cuando empezaran a obtener sus huevos unu
+[04Jun2025 22:46:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> jsjsjs
+[04Jun2025 22:46:35.308] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=99, z=1251}
+[04Jun2025 22:46:35.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=101, z=1251}
+[04Jun2025 22:46:35.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=100, z=1251}
+[04Jun2025 22:46:37.496] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=101, z=385}
+[04Jun2025 22:46:37.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=139, z=397}
+[04Jun2025 22:46:37.692] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=99, z=1251}
+[04Jun2025 22:46:37.692] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=100, z=1251}
+[04Jun2025 22:46:37.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=101, z=1251}
+[04Jun2025 22:46:37.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=101, z=1251}
+[04Jun2025 22:46:37.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=100, z=1251}
+[04Jun2025 22:46:37.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=99, z=1251}
+[04Jun2025 22:46:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que?
+[04Jun2025 22:46:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Ender Distancing]
+[04Jun2025 22:46:40.005] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=101, z=385}
+[04Jun2025 22:46:42.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Del juego
+[04Jun2025 22:46:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aya
+[04Jun2025 22:46:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Malpensado
+[04Jun2025 22:47:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Isn't It Iron Pick]
+[04Jun2025 22:47:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> amigos me voy a comer
+[04Jun2025 22:47:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> vuelvo
+[04Jun2025 22:47:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el que diga yo le doy 5 staccks de diamante
+[04Jun2025 22:47:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Sweet Dreams]
+[04Jun2025 22:47:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no les dije cuando
+[04Jun2025 22:47:52.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -2.437299136035108,1.9437110010294418,10.189110611192518
+[04Jun2025 22:47:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalebReyLeft has made the advancement [Sneak 100]
+[04Jun2025 22:47:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titanhumilde7w7> xdxdxdxdc
+[04Jun2025 22:47:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru has made the advancement [Sneak 100]
