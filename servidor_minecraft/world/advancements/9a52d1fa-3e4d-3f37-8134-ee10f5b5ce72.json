@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -62,6 +68,12 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-06-04 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
     },
     "done": true
   },
@@ -132,6 +144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-04 06:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:47:59 +0000"
@@ -171,6 +189,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
     },
     "done": true
   },
@@ -243,6 +267,18 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-04 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-04 06:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
     },
     "done": true
   },
@@ -342,9 +378,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
     },
     "done": true
   },
@@ -416,6 +464,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-04 05:53:26 +0000",
       "minecraft:creeper": "2025-06-04 05:51:16 +0000",
       "minecraft:enderman": "2025-06-04 05:51:45 +0000",
       "minecraft:zombie": "2025-06-04 05:50:34 +0000"
@@ -494,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-06-04 03:44:38 +0000"
@@ -560,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:47:59 +0000"
@@ -620,9 +681,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:break_glass_sword": {
     "criteria": {
       "broken_sword": "2025-06-04 05:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
     },
     "done": true
   },
@@ -659,6 +732,12 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-04 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
     },
     "done": true
   },
@@ -794,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-06-04 04:47:59 +0000"
@@ -857,6 +942,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
     },
     "done": true
   },
@@ -962,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -1001,6 +1098,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-04 05:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
     },
     "done": true
   },
@@ -1098,6 +1201,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-04 05:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:02:30 +0000"
@@ -1177,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-04 06:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 03:43:35 +0000"
@@ -1234,6 +1349,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:02:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_heart": {
+    "criteria": {
+      "soul_heart": "2025-06-04 05:59:18 +0000"
     },
     "done": true
   },
