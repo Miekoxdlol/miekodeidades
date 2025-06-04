@@ -1,0 +1,27 @@
+{
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2025-06-04 03:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-04 03:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2025-06-04 03:23:07 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-04 03:27:38 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}
