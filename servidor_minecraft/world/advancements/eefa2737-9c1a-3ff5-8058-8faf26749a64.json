@@ -30,6 +30,7 @@
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
       "minecraft:frozen_peaks": "2025-06-04 19:53:46 +0000",
+      "minecraft:deep_dark": "2025-06-04 20:20:41 +0000",
       "minecraft:meadow": "2025-06-04 19:50:05 +0000",
       "minecraft:savanna": "2025-06-04 02:49:17 +0000",
       "minecraft:plains": "2025-06-04 03:58:19 +0000"
@@ -1493,6 +1494,7 @@
       "minecraft:pillager": "2025-06-04 05:04:31 +0000",
       "minecraft:skeleton": "2025-06-04 05:40:13 +0000",
       "minecraft:spider": "2025-06-04 04:24:38 +0000",
+      "minecraft:creeper": "2025-06-04 20:17:30 +0000",
       "minecraft:phantom": "2025-06-04 05:12:05 +0000",
       "minecraft:cave_spider": "2025-06-04 05:27:43 +0000",
       "minecraft:stray": "2025-06-04 05:36:11 +0000",
@@ -3148,6 +3150,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-06-04 19:58:35 +0000"
@@ -3184,9 +3192,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-04 19:36:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-06-04 20:27:55 +0000"
     },
     "done": true
   },
@@ -3226,6 +3246,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-04 20:18:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-04 19:42:16 +0000"
@@ -3250,15 +3282,51 @@
     },
     "done": true
   },
+  "1_splatus:ultris/giantdefeat": {
+    "criteria": {
+      "c1": "2025-06-04 20:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-04 20:04:28 +0000"
     },
     "done": true
   },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "giant": "2025-06-04 20:15:04 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-04 20:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 20:17:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-04 19:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 20:17:31 +0000"
     },
     "done": true
   },
