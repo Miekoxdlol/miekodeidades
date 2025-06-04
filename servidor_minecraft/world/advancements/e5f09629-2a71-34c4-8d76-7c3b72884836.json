@@ -2051,12 +2051,6 @@
     },
     "done": true
   },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2025-06-04 07:44:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-06-04 04:57:16 +0000"
@@ -2408,125 +2402,24 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-06-04 07:02:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-06-04 07:03:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-06-04 07:21:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-04 07:41:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-04 06:54:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/umbran_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
   "1_splatus:ultris/giantrevive": {
     "criteria": {
       "c1": "2025-06-04 06:24:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "1_splatus:ultris/giantdefeat": {
     "criteria": {
-      "has_red_mushroom": "2025-06-04 07:17:23 +0000"
+      "c1": "2025-06-04 06:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "1_splatus:ultris/completed": {
     "criteria": {
-      "has_potato": "2025-06-04 07:03:39 +0000"
+      "giant": "2025-06-04 06:35:27 +0000",
+      "corrupted_enderman": "2025-06-04 07:44:03 +0000"
     },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-04 07:02:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_flower": "2025-06-04 07:39:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-04 07:44:15 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -2540,123 +2433,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-04 07:10:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-04 07:02:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-04 08:09:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-04 06:59:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-04 06:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-04 07:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-06-04 07:29:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
-    "criteria": {
-      "has_flower": "2025-06-04 06:53:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-04 07:33:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2025-06-04 07:44:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
     },
     "done": true
   },
@@ -2666,117 +2445,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-06-04 07:15:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-06-04 07:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-06-04 07:29:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-06-04 07:09:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-04 06:46:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/ender": {
-    "criteria": {
-      "c1": "2025-06-04 07:42:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-06-04 07:29:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-06-04 07:29:58 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/giantdefeat": {
-    "criteria": {
-      "c1": "2025-06-04 06:35:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-04 07:03:39 +0000"
     },
     "done": true
   },
@@ -2786,15 +2457,39 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/dead_chest_boat": {
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
+      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/darkwood_chest_boat": {
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_boat": "2025-06-04 07:09:44 +0000"
+      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2025-06-04 06:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-04 06:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-04 06:54:51 +0000"
     },
     "done": true
   },
@@ -2804,15 +2499,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-04 06:59:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-04 07:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 07:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 07:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-04 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-04 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-04 07:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-04 07:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 07:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-04 07:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-04 07:09:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
+      "has_planks": "2025-06-04 07:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 07:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 07:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 07:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 07:09:29 +0000"
     },
     "done": true
   },
@@ -2828,22 +2607,111 @@
     },
     "done": true
   },
-  "1_splatus:ultris/completed": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "giant": "2025-06-04 06:35:27 +0000",
-      "corrupted_enderman": "2025-06-04 07:44:03 +0000"
-    },
-    "done": false
-  },
-  "packedup:recipes/misc/basic_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-06-04 07:17:23 +0000"
+      "has_planks": "2025-06-04 07:09:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
-      "has_water_bucket": "2025-06-04 07:34:17 +0000"
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/darkwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:44 +0000"
     },
     "done": true
   },
@@ -2853,21 +2721,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+  "biomesoplenty:recipes/magic_chest_boat": {
     "criteria": {
-      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
+      "has_boat": "2025-06-04 07:09:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
-      "has_cod": "2025-06-04 07:41:00 +0000"
+      "has_boat": "2025-06-04 07:09:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "biomesoplenty:recipes/umbran_chest_boat": {
     "criteria": {
-      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
+      "has_boat": "2025-06-04 07:09:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-04 07:09:45 +0000"
     },
     "done": true
   },
@@ -2877,15 +2763,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "biomesoplenty:recipes/hellbark_chest_boat": {
     "criteria": {
-      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
+      "has_boat": "2025-06-04 07:09:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_nether_bricks": "2025-06-04 06:46:41 +0000"
+      "has_compass": "2025-06-04 07:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-04 07:15:49 +0000"
     },
     "done": true
   },
@@ -2895,39 +2787,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_cod": "2025-06-04 07:41:00 +0000"
+      "has_red_mushroom": "2025-06-04 07:17:23 +0000"
     },
     "done": true
   },
-  "1_splatus:ultris/enderkill": {
+  "packedup:recipes/misc/basic_from_chest": {
     "criteria": {
-      "c1": "2025-06-04 07:44:02 +0000"
+      "recipe_condition": "2025-06-04 07:17:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_planks": "2025-06-04 07:09:29 +0000"
+      "potion": "2025-06-04 07:21:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_rail": "2025-06-04 07:33:31 +0000"
+      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_iron_nugget": "2025-06-04 07:05:30 +0000"
+      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/hellbark_chest_boat": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_boat": "2025-06-04 07:09:45 +0000"
+      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-04 07:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 07:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 07:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 07:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-04 07:29:58 +0000"
     },
     "done": true
   },
@@ -2937,9 +2859,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_bone_meal": "2025-06-04 06:54:51 +0000"
+      "has_rail": "2025-06-04 07:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-04 07:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-04 07:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-04 07:34:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-06-04 07:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-04 07:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-04 07:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-04 07:41:00 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-06-04 07:42:02 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/enderkill": {
+    "criteria": {
+      "c1": "2025-06-04 07:44:02 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-06-04 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-04 07:44:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-04 07:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-04 08:09:08 +0000"
     },
     "done": true
   },
