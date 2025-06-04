@@ -2898,3 +2898,163 @@ Things may not work well.
 [04Jun2025 04:00:02.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> jajajaja
 [04Jun2025 04:00:04.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=581}
 [04Jun2025 04:00:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XD
+[04Jun2025 04:00:05.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=265, y=291, z=578}
+[04Jun2025 04:00:12.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=293, z=570}
+[04Jun2025 04:00:12.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=267, y=294, z=570}
+[04Jun2025 04:00:15.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=582}
+[04Jun2025 04:00:16.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=583}
+[04Jun2025 04:00:16.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=272, y=292, z=586}
+[04Jun2025 04:00:16.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=272, y=292, z=586}
+[04Jun2025 04:00:23.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Jun2025 04:00:23.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=585}
+[04Jun2025 04:00:24.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=272, y=292, z=586}
+[04Jun2025 04:00:24.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=267, y=292, z=586}
+[04Jun2025 04:00:25.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=292, z=583}
+[04Jun2025 04:00:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Getting an Upgrade]
+[04Jun2025 04:00:46.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=291, z=581}
+[04Jun2025 04:00:46.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=582}
+[04Jun2025 04:00:46.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=582}
+[04Jun2025 04:00:47.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=274, y=292, z=583}
+[04Jun2025 04:00:47.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=586}
+[04Jun2025 04:00:47.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=269, y=292, z=587}
+[04Jun2025 04:00:48.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=268, y=292, z=587}
+[04Jun2025 04:00:48.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=292, z=585}
+[04Jun2025 04:00:48.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=267, y=292, z=585}
+[04Jun2025 04:00:50.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=274, y=292, z=583}
+[04Jun2025 04:00:50.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=583}
+[04Jun2025 04:00:50.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=291, z=584}
+[04Jun2025 04:00:50.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=583}
+[04Jun2025 04:00:51.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=583}
+[04Jun2025 04:00:51.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=582}
+[04Jun2025 04:00:51.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=582}
+[04Jun2025 04:00:51.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=274, y=292, z=583}
+[04Jun2025 04:00:52.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=585}
+[04Jun2025 04:00:52.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=273, y=292, z=586}
+[04Jun2025 04:00:52.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=271, y=292, z=588}
+[04Jun2025 04:00:54.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=268, y=292, z=582}
+[04Jun2025 04:00:54.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Jun2025 04:01:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported ekmau1121 to 01_NutriaKing]
+[04Jun2025 04:01:15.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5611ms or 112 ticks behind
+[04Jun2025 04:01:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 is incapacitated!
+[04Jun2025 04:01:32.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[04Jun2025 04:01:46.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[04Jun2025 04:01:46.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[04Jun2025 04:01:46.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 04:01:50.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[04Jun2025 04:01:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has been revived!
+[04Jun2025 04:02:04.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Made Mapachito_44 a server operator]
+[04Jun2025 04:02:07.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[04Jun2025 04:02:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Made Nekkai_ a server operator]
+[04Jun2025 04:02:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 04:02:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 04:02:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has reached the goal [Flowers of the Savanna]
+[04Jun2025 04:02:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 04:02:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Stone Age]
+[04Jun2025 04:02:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mapachito_44> XD
+[04Jun2025 04:02:35.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[04Jun2025 04:02:36.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Getting an Upgrade]
+[04Jun2025 04:02:44.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Monster Hunter]
+[04Jun2025 04:02:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Zombie
+[04Jun2025 04:02:50.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Monster Hunter]
+[04Jun2025 04:02:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XD
+[04Jun2025 04:02:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
+[04Jun2025 04:02:56.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> q pedo chela
+[04Jun2025 04:02:57.198] [Worker-Main-211/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 absolute--16 absolute]
+[04Jun2025 04:02:58.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jun2025 04:02:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to 01_NutriaKing]
+[04Jun2025 04:03:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> la
+[04Jun2025 04:03:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has reached the goal [Flowers of the Savanna]
+[04Jun2025 04:03:03.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> alg
+[04Jun2025 04:03:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> lag
+[04Jun2025 04:03:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mental
+[04Jun2025 04:03:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> amigos tp no puedo salir
+[04Jun2025 04:03:24.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=269, y=300, z=584}
+[04Jun2025 04:03:24.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=270, y=300, z=584}
+[04Jun2025 04:03:24.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=270, y=300, z=583}
+[04Jun2025 04:03:24.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=270, y=300, z=584}
+[04Jun2025 04:03:24.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=269, y=300, z=584}
+[04Jun2025 04:03:25.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=270, y=300, z=585}
+[04Jun2025 04:03:25.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=271, y=300, z=584}
+[04Jun2025 04:03:25.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=271, y=300, z=583}
+[04Jun2025 04:03:25.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=272, y=300, z=583}
+[04Jun2025 04:03:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to 01_NutriaKing]
+[04Jun2025 04:03:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> staff
+[04Jun2025 04:03:28.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 04:03:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 04:03:34.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 04:03:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 04:03:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to capitanchela]
+[04Jun2025 04:03:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Sweet Dreams]
+[04Jun2025 04:03:54.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> dormid
+[04Jun2025 04:03:55.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> zzz
+[04Jun2025 04:03:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 04:04:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 04:04:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 04:04:09.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 04:04:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by 01_NutriaKing
+[04Jun2025 04:04:23.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 04:04:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 04:04:34.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> staff chsm
+[04Jun2025 04:04:35.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 04:04:45.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[04Jun2025 04:04:50.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 04:05:01.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 04:05:06.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 04:05:14.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 04:05:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was shot by Skeleton
+[04Jun2025 04:05:54.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
+[04Jun2025 04:05:54.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
+[04Jun2025 04:05:56.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=255, y=292, z=584}
+[04Jun2025 04:05:56.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
+[04Jun2025 04:05:56.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
+[04Jun2025 04:05:57.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
+[04Jun2025 04:06:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 04:06:09.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Monster Hunter]
+[04Jun2025 04:06:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 18000]
+[04Jun2025 04:06:50.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> c staff
+[04Jun2025 04:07:04.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> estoy dando vueltas como pendejo con un barco
+[04Jun2025 04:07:14.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> gg
+[04Jun2025 04:07:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to capitanchela]
+[04Jun2025 04:07:23.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[04Jun2025 04:07:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> traiganme al chela
+[04Jun2025 04:07:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> a mi team
+[04Jun2025 04:07:32.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> pls
+[04Jun2025 04:07:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[04Jun2025 04:07:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported JoszMDB to capitanchela]
+[04Jun2025 04:07:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ese wey
+[04Jun2025 04:07:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> dije que me lo trajeran
+[04Jun2025 04:08:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoszMDB> no que me llevaran con el
+[04Jun2025 04:08:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Acquire Hardware]
+[04Jun2025 04:08:02.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoszMDB was kicked for floating too long!
+[04Jun2025 04:08:02.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoszMDB lost connection: Flying is not enabled on this server
+[04Jun2025 04:08:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB left the game
+[04Jun2025 04:08:02.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JoszMDB
+[04Jun2025 04:08:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> nmms
+[04Jun2025 04:08:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Played sound minecraft:entity.creeper.hurt to 01_NutriaKing]
+[04Jun2025 04:08:08.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[04Jun2025 04:08:08.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[04Jun2025 04:08:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 04:08:08.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 04:08:12.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 04:08:36.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.250.220.36:33219] logged in with entity id 26964 at (266.801032917858, 105.43053835768748, 590.3168214341613)
+[04Jun2025 04:08:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 04:08:36.544] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 04:08:37.022] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 04:08:37.023] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 04:08:39.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoszMDB[/127.99.243.14:33969] logged in with entity id 27027 at (266.04195088406584, 143.76286310951124, 588.619221106977)
+[04Jun2025 04:08:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB joined the game
+[04Jun2025 04:08:39.407] [Server thread/INFO] [Jade/]: Syncing config to JoszMDB (dcd72121-1d57-38a0-899f-46c0d5eab175)
+[04Jun2025 04:08:40.039] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JoszMDB (18)
+[04Jun2025 04:08:40.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JoszMDB
+[04Jun2025 04:08:40.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Isn't It Iron Pick]
+[04Jun2025 04:08:42.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mapachito_44 lost connection: Disconnected
+[04Jun2025 04:08:42.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 left the game
+[04Jun2025 04:08:42.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mapachito_44
+[04Jun2025 04:08:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Spectator Mode]
+[04Jun2025 04:09:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Isn't It Iron Pick]
+[04Jun2025 04:09:29.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mapachito_44[/127.121.101.6:58337] logged in with entity id 27559 at (289.8793317439328, 66.0, 500.1322042146841)
+[04Jun2025 04:09:29.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 joined the game
+[04Jun2025 04:09:29.206] [Server thread/INFO] [Jade/]: Syncing config to Mapachito_44 (0193b222-149f-3158-ab88-a7547b435b77)
+[04Jun2025 04:09:29.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mapachito_44 (18)
+[04Jun2025 04:09:29.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mapachito_44
+[04Jun2025 04:10:08.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]

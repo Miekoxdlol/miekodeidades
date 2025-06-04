@@ -13,8 +13,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-06-04 04:01:08 +0000",
       "minecraft:lukewarm_ocean": "2025-06-04 03:26:41 +0000",
-      "minecraft:savanna": "2025-06-04 03:53:45 +0000"
+      "minecraft:river": "2025-06-04 03:59:11 +0000",
+      "minecraft:jungle": "2025-06-04 04:03:25 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-04 04:01:10 +0000",
+      "minecraft:savanna": "2025-06-04 03:53:45 +0000",
+      "minecraft:plains": "2025-06-04 04:00:54 +0000"
     },
     "done": false
   },
@@ -39,6 +44,12 @@
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
@@ -96,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
@@ -105,6 +122,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-04 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
@@ -144,11 +167,26 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:31:24 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bamboo_grove": "2025-06-04 04:01:54 +0000",
+      "mystic_grove": "2025-06-04 04:01:35 +0000",
+      "cherry_blossom_grove": "2025-06-04 04:01:36 +0000",
+      "grassland": "2025-06-04 04:01:34 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
@@ -174,9 +212,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
@@ -240,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/darkwood_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:31:24 +0000"
@@ -258,9 +326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
@@ -294,11 +374,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
     },
     "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "raspberries": "2025-06-04 04:01:22 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
@@ -312,9 +404,21 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grassland": "2025-06-04 04:01:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
@@ -405,6 +509,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:03:46 +0000"
     },
     "done": true
   },
