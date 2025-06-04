@@ -961,6 +961,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-06-04 02:32:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-06-04 01:31:07 +0000"
