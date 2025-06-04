@@ -894,3 +894,35 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 07:58:00.412] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-58, z=2355}
 [04Jun2025 07:58:00.581] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-43, y=-56, z=2340}
 [04Jun2025 08:00:15.668] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/108663, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-495.50, y=51.00, z=261.50]
+[04Jun2025 08:00:28.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[04Jun2025 08:00:47.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[04Jun2025 08:00:48.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[04Jun2025 08:00:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[04Jun2025 08:00:48.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[04Jun2025 08:01:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[04Jun2025 08:01:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to capitanchela]
+[04Jun2025 08:01:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> oal
+[04Jun2025 08:01:45.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[04Jun2025 08:01:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mieko
+[04Jun2025 08:02:58.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Mieko_]
+[04Jun2025 08:03:15.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[04Jun2025 08:03:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[04Jun2025 08:03:15.586] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[04Jun2025 08:06:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mieko
+[04Jun2025 08:06:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> eu
+[04Jun2025 08:06:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ya si quieres cierralo
+[04Jun2025 08:06:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> dale
+[04Jun2025 08:06:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> o asme tp ami casita wuw
+[04Jun2025 08:07:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> yo ando haciendo algo chelita
+[04Jun2025 08:07:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> pasa cords
+[04Jun2025 08:07:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xaero-waypoint:casa:C:2631:43:149:13:false:0:Internal-overworld-waypoints
+[04Jun2025 08:08:36.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 2631.500000, 43.500000, 149.500000]
+[04Jun2025 08:08:42.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 08:08:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> gracias vv
+[04Jun2025 08:09:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> cuidate chelita
+[04Jun2025 08:09:17.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 08:09:19.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> hasta mañana
+[04Jun2025 08:09:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> descansa
+[04Jun2025 08:09:25.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[04Jun2025 08:09:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 08:09:25.724] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela

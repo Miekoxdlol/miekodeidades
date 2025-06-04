@@ -2091,6 +2091,7 @@
       "clover_patch": "2025-06-04 07:54:31 +0000",
       "old_growth_woodland": "2025-06-04 07:22:07 +0000",
       "maple_woods": "2025-06-04 06:54:20 +0000",
+      "field": "2025-06-04 07:58:18 +0000",
       "lavender_forest": "2025-06-04 07:15:16 +0000",
       "mediterranean_forest": "2025-06-04 07:21:43 +0000",
       "coniferous_forest": "2025-06-04 05:02:46 +0000",
@@ -3266,6 +3267,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-06-04 07:56:51 +0000"
+    },
+    "done": true
+  },
   "packedup:basic_backpack": {
     "criteria": {
       "has_backpack": "2025-06-04 06:26:11 +0000"
@@ -3618,6 +3625,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-04 06:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-04 08:00:01 +0000"
     },
     "done": true
   },
