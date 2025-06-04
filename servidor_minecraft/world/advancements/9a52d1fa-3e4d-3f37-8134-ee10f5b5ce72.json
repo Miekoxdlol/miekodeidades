@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-04 03:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-06-04 03:44:38 +0000"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-06-04 03:56:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -47,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-06-04 03:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-06-04 03:45:52 +0000"
@@ -56,6 +74,18 @@
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2025-06-04 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-04 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-04 03:56:36 +0000"
     },
     "done": true
   },
@@ -167,6 +197,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 03:52:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -197,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-04 03:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-06-04 03:44:38 +0000"
@@ -212,6 +254,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 03:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2025-06-04 03:56:19 +0000"
     },
     "done": true
   },
@@ -239,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 03:52:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -251,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-04 03:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-04 03:44:38 +0000"
@@ -260,6 +320,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 03:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-04 03:56:11 +0000"
     },
     "done": true
   },
@@ -277,7 +343,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2025-06-04 03:29:26 +0000"
+      "minecraft:lukewarm_ocean": "2025-06-04 03:29:26 +0000",
+      "minecraft:savanna": "2025-06-04 03:53:44 +0000"
     },
     "done": false
   },
@@ -302,6 +369,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 03:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-04 03:56:11 +0000"
     },
     "done": true
   },

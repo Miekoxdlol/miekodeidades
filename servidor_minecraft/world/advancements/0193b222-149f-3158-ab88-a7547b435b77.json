@@ -13,7 +13,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2025-06-04 03:26:41 +0000"
+      "minecraft:lukewarm_ocean": "2025-06-04 03:26:41 +0000",
+      "minecraft:savanna": "2025-06-04 03:53:45 +0000"
     },
     "done": false
   },
@@ -59,6 +60,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-06-04 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-04 03:56:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
@@ -86,6 +99,24 @@
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-04 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-04 03:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-04 03:56:38 +0000"
     },
     "done": true
   },
@@ -203,9 +234,21 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-04 03:54:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/darkwood_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 03:49:10 +0000"
     },
     "done": true
   },
@@ -224,6 +267,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-04 03:53:05 +0000"
     },
     "done": true
   },
@@ -257,6 +306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 03:53:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
@@ -266,6 +321,12 @@
   "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 03:49:10 +0000"
     },
     "done": true
   },
@@ -299,9 +360,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-06-04 03:49:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 03:53:05 +0000"
     },
     "done": true
   },
