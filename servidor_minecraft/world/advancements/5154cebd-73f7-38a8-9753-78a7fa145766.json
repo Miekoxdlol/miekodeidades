@@ -229,6 +229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-04 04:40:34 +0000"
@@ -250,6 +256,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 04:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-04 05:22:18 +0000"
     },
     "done": true
   },
@@ -289,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
@@ -319,6 +337,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-04 05:21:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-06-04 03:55:49 +0000"
@@ -328,6 +352,18 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-04 05:22:06 +0000"
     },
     "done": true
   },
@@ -376,6 +412,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 05:23:54 +0000"
     },
     "done": true
   },
@@ -553,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 04:20:39 +0000"
@@ -577,11 +625,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_boat": "2025-06-04 05:14:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
@@ -709,9 +769,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 05:23:28 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
       "requirement": "2025-06-04 04:22:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 05:23:54 +0000"
     },
     "done": true
   },
@@ -724,6 +796,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-06-04 03:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:20:24 +0000"
     },
     "done": true
   },
@@ -769,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-04 05:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-04 05:02:56 +0000"
@@ -802,6 +886,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-04 04:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
     },
     "done": true
   },
@@ -865,9 +955,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-04 03:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-04 05:20:24 +0000"
     },
     "done": true
   },
@@ -895,9 +997,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-04 05:26:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 05:23:28 +0000"
     },
     "done": true
   },
@@ -916,6 +1030,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-06-04 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-04 05:23:54 +0000"
     },
     "done": true
   },
@@ -940,7 +1060,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-06-04 05:02:46 +0000",
+      "seasonal_orchard": "2025-06-04 05:18:03 +0000",
       "seasonal_forest": "2025-06-04 05:07:25 +0000",
+      "fir_clearing": "2025-06-04 05:17:41 +0000",
       "ominous_woods": "2025-06-04 04:44:43 +0000"
     },
     "done": false
@@ -990,9 +1112,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-04 05:07:32 +0000",
-      "minecraft:spider": "2025-06-04 04:33:34 +0000"
+      "minecraft:spider": "2025-06-04 04:33:34 +0000",
+      "minecraft:phantom": "2025-06-04 05:13:07 +0000",
+      "minecraft:cave_spider": "2025-06-04 05:27:33 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-04 05:28:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
@@ -1054,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-04 05:22:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 05:10:09 +0000"
@@ -1063,6 +1199,12 @@
   "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 05:23:54 +0000"
     },
     "done": true
   },
@@ -1135,6 +1277,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-04 03:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-04 05:23:54 +0000"
     },
     "done": true
   },
@@ -1258,9 +1406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-04 05:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
     },
     "done": true
   },
@@ -1642,6 +1802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-06-04 03:54:29 +0000"
@@ -1684,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-04 03:55:49 +0000"
@@ -1693,6 +1865,18 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-04 05:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-04 05:14:32 +0000"
     },
     "done": true
   },
@@ -1762,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-04 03:59:35 +0000"
@@ -1792,6 +1982,12 @@
     },
     "done": true
   },
+  "simplefarming:berries": {
+    "criteria": {
+      "blackberries": "2025-06-04 05:18:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
@@ -1819,6 +2015,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 05:21:18 +0000"
     },
     "done": true
   },
@@ -2062,6 +2264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-04 05:20:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-04 03:56:20 +0000"
@@ -2107,6 +2315,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-04 04:17:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-06-04 05:22:10 +0000"
     },
     "done": true
   },
@@ -2266,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 05:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-04 04:02:41 +0000",
@@ -2273,7 +2493,8 @@
       "cooked_beef": "2025-06-04 04:22:06 +0000",
       "apple": "2025-06-04 04:04:23 +0000",
       "cooked_cod": "2025-06-04 04:34:18 +0000",
-      "mutton": "2025-06-04 03:56:57 +0000"
+      "mutton": "2025-06-04 03:56:57 +0000",
+      "bread": "2025-06-04 05:17:29 +0000"
     },
     "done": false
   },
@@ -2310,6 +2531,12 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 05:24:04 +0000"
     },
     "done": true
   },

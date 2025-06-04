@@ -753,7 +753,9 @@
       "cooked_porkchop": "2025-06-04 04:11:59 +0000",
       "cooked_mutton": "2025-06-04 04:32:35 +0000",
       "cooked_beef": "2025-06-04 04:44:35 +0000",
+      "porkchop": "2025-06-04 05:20:57 +0000",
       "apple": "2025-06-04 03:59:46 +0000",
+      "bread": "2025-06-04 05:16:30 +0000",
       "melon_slice": "2025-06-04 04:26:45 +0000"
     },
     "done": false
@@ -826,10 +828,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-04 05:20:31 +0000",
       "minecraft:skeleton": "2025-06-04 04:44:58 +0000",
+      "minecraft:ghast": "2025-06-04 05:18:43 +0000",
       "minecraft:hoglin": "2025-06-04 05:02:57 +0000",
       "minecraft:spider": "2025-06-04 04:11:22 +0000",
       "minecraft:creeper": "2025-06-04 04:12:09 +0000",
+      "minecraft:cave_spider": "2025-06-04 05:26:36 +0000",
       "minecraft:piglin": "2025-06-04 05:06:35 +0000",
       "minecraft:zombie": "2025-06-04 04:02:44 +0000"
     },
@@ -1519,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 05:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
@@ -1533,9 +1544,16 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-04 04:32:24 +0000"
+      "minecraft:crimson_forest": "2025-06-04 04:32:24 +0000",
+      "minecraft:soul_sand_valley": "2025-06-04 05:15:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-04 05:23:15 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
@@ -1615,9 +1633,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-04 05:23:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2025-06-04 05:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-04 05:21:29 +0000"
     },
     "done": true
   },
@@ -1657,6 +1693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-04 05:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
@@ -1665,6 +1707,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-06-04 05:30:55 +0000",
+      "spider_nest": "2025-06-04 05:30:12 +0000",
       "undergrowth": "2025-06-04 05:01:18 +0000"
     },
     "done": false
@@ -1711,6 +1755,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 05:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 05:18:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
@@ -1720,6 +1776,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-06-04 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-04 05:29:05 +0000"
     },
     "done": true
   },
@@ -1945,6 +2007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 05:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-04 04:51:29 +0000"
@@ -1960,6 +2028,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-04 05:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 05:21:29 +0000"
     },
     "done": true
   },
@@ -2035,6 +2115,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-04 05:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-04 05:00:45 +0000"
@@ -2044,6 +2130,12 @@
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 05:21:29 +0000"
     },
     "done": true
   },

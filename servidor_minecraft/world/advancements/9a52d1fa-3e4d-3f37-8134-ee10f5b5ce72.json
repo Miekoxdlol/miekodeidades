@@ -107,6 +107,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 05:15:20 +0000",
+      "minecraft:soul_sand_valley": "2025-06-04 05:16:25 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -155,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-04 04:02:30 +0000"
@@ -170,6 +183,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-06-04 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-04 05:15:20 +0000"
     },
     "done": true
   },
@@ -227,6 +246,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2025-06-04 05:23:51 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2025-06-04 03:29:25 +0000"
@@ -272,6 +297,12 @@
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-06-04 03:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
     },
     "done": true
   },
@@ -332,6 +363,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-06-04 05:03:06 +0000",
+      "spider_nest": "2025-06-04 05:24:38 +0000",
+      "seasonal_orchard": "2025-06-04 05:12:08 +0000",
+      "fir_clearing": "2025-06-04 05:12:06 +0000",
       "ominous_woods": "2025-06-04 04:48:11 +0000"
     },
     "done": false
@@ -369,6 +403,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-06-04 05:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
     },
     "done": true
   },
@@ -432,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-06-04 04:10:32 +0000"
@@ -465,6 +511,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-06-04 05:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-04 05:25:31 +0000"
     },
     "done": true
   },
@@ -666,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-04 05:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:02:30 +0000"
@@ -711,6 +769,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-04 04:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-04 05:15:20 +0000"
     },
     "done": true
   },
@@ -894,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-04 03:44:38 +0000"
@@ -930,6 +1000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 03:43:35 +0000"
@@ -939,6 +1015,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-04 04:09:09 +0000",
+      "minecraft:mangrove_swamp": "2025-06-04 05:15:06 +0000",
       "minecraft:sparse_jungle": "2025-06-04 04:02:21 +0000",
       "minecraft:lukewarm_ocean": "2025-06-04 03:29:26 +0000",
       "minecraft:river": "2025-06-04 03:59:14 +0000",
@@ -946,6 +1023,7 @@
       "minecraft:forest": "2025-06-04 04:47:02 +0000",
       "minecraft:deep_cold_ocean": "2025-06-04 05:00:22 +0000",
       "minecraft:ocean": "2025-06-04 04:33:08 +0000",
+      "minecraft:windswept_savanna": "2025-06-04 05:15:16 +0000",
       "minecraft:savanna": "2025-06-04 03:53:44 +0000"
     },
     "done": false
@@ -998,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-06-04 05:25:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:02:30 +0000"
@@ -1046,9 +1130,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-04 05:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-04 05:24:30 +0000"
     },
     "done": true
   },
