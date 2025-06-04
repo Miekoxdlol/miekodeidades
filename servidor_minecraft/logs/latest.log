@@ -326,3 +326,39 @@ Things may not work well.
 [04Jun2025 01:07:57.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
 [04Jun2025 01:07:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
 [04Jun2025 01:07:57.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 01:09:58.149] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c49ece2[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:43317) lost connection: Disconnected
+[04Jun2025 01:10:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Pest Control]
+[04Jun2025 01:10:40.150] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6c29afd3[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:54143): Took too long to log in
+[04Jun2025 01:10:40.150] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c29afd3[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:54143) lost connection: Took too long to log in
+[04Jun2025 01:10:40.200] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 01:11:24.599] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4a5229a7[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:44451): Took too long to log in
+[04Jun2025 01:11:24.599] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a5229a7[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:44451) lost connection: Took too long to log in
+[04Jun2025 01:11:24.649] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 01:11:48.099] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29583dc[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:33831) lost connection: Disconnected
+[04Jun2025 01:11:58.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a78c6f5[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:58055) lost connection: Disconnected
+[04Jun2025 01:12:36.898] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@393c4b4e[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:54953) lost connection: Disconnected
+[04Jun2025 01:13:15.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6376589c[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:48343): Took too long to log in
+[04Jun2025 01:13:15.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6376589c[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:48343) lost connection: Took too long to log in
+[04Jun2025 01:13:15.448] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 01:14:09.149] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54c733cc[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:57823) lost connection: Disconnected
+[04Jun2025 01:14:33.699] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b50c931[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:34753) lost connection: Disconnected
+[04Jun2025 01:14:54.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:52715] logged in with entity id 3401 at (110.86210121032589, 107.0, 275.73055403792154)
+[04Jun2025 01:14:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[04Jun2025 01:14:54.261] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[04Jun2025 01:14:54.736] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[04Jun2025 01:14:54.737] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[04Jun2025 01:15:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Izhug to Mieko_]
+[04Jun2025 01:15:24.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
+[04Jun2025 01:15:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[04Jun2025 01:15:24.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 01:16:45.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[04Jun2025 01:16:45.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[04Jun2025 01:16:45.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[04Jun2025 01:17:24.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:33647] logged in with entity id 3485 at (103.41021595308196, 107.0, 279.7159084042776)
+[04Jun2025 01:17:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 01:17:24.547] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 01:17:24.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 01:17:24.732] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 01:17:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 01:17:42.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Mieko_
+[04Jun2025 01:17:57.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
