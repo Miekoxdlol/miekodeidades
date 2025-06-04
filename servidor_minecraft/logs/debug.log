@@ -15144,3 +15144,101 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 21:05:04.557] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3050.68, y=70.18, z=7163.61] in list []
 [04Jun2025 21:05:04.615] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3050.52, y=70.02, z=7163.83]
 [04Jun2025 21:06:12.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mande
+[04Jun2025 21:07:15.569] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3047.87, y=71.00, z=7181.65], dimensionLocationPath overworld
+[04Jun2025 21:07:15.569] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3047.87, y=71.00, z=7181.65] in list []
+[04Jun2025 21:07:15.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3047.87, y=71.00, z=7181.65]
+[04Jun2025 21:07:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 21:07:20.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 21:07:20.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 21:07:21.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 21:07:32.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 21:07:43.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela drowned
+[04Jun2025 21:07:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ekmau1121> Mieamor
+[04Jun2025 21:07:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ekmau1121> Me psas
+[04Jun2025 21:07:54.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ekmau1121> CUero uwu
+[04Jun2025 21:07:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ekmau1121> Necesito
+[04Jun2025 21:08:01.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/48298, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.59, y=72.14, z=7192.31], dimensionLocationPath overworld
+[04Jun2025 21:08:01.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/48298, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.59, y=72.14, z=7192.31] in list []
+[04Jun2025 21:08:01.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/48299, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.55, y=72.32, z=7189.61], dimensionLocationPath overworld
+[04Jun2025 21:08:01.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/48299, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.55, y=72.32, z=7189.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@bcaa]
+[04Jun2025 21:08:02.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/48299, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3062.54, y=71.27, z=7190.19, removed=DISCARDED]
+[04Jun2025 21:08:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 21:08:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[04Jun2025 21:08:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LÑSALKSALKSAL
+[04Jun2025 21:08:20.596] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.43, y=71.00, z=7192.08], dimensionLocationPath overworld
+[04Jun2025 21:08:20.596] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.43, y=71.00, z=7192.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@bcaa]
+[04Jun2025 21:08:21.091] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.43, y=71.00, z=7192.11]
+[04Jun2025 21:08:31.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.60, y=71.00, z=7192.80], dimensionLocationPath overworld
+[04Jun2025 21:08:31.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.60, y=71.00, z=7192.80] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@bcaa]
+[04Jun2025 21:08:32.471] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.59, y=71.00, z=7192.62]
+[04Jun2025 21:09:08.467] [Server thread/DEBUG] [twilightforest/]: Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) respawned and received items held in storage
+[04Jun2025 21:09:12.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> neta?
+[04Jun2025 21:09:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me volvi a ahogar
+[04Jun2025 21:09:26.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> solo fui a hacerme de comer
+[04Jun2025 21:09:30.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> puto juego
+[04Jun2025 21:09:41.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3053.60, y=71.00, z=7186.90], dimensionLocationPath overworld
+[04Jun2025 21:09:41.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3053.60, y=71.00, z=7186.90] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@bcaa]
+[04Jun2025 21:09:42.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3055.99, y=71.12, z=7189.89]
+[04Jun2025 21:09:44.590] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/48298, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.88, y=71.00, z=7193.26, removed=DISCARDED]
+[04Jun2025 21:09:44.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.63, y=71.47, z=7193.44], dimensionLocationPath overworld
+[04Jun2025 21:09:44.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3063.63, y=71.47, z=7193.44] in list []
+[04Jun2025 21:09:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> chela andas trolling?
+[04Jun2025 21:10:02.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> fui a hacerme algo de comer
+[04Jun2025 21:10:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si wey voy a trollerar 27 niveles
+[04Jun2025 21:10:34.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> donde estabas que te ahogaste we
+[04Jun2025 21:10:46.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3059.90, y=71.00, z=7191.46], dimensionLocationPath overworld
+[04Jun2025 21:10:46.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3059.90, y=71.00, z=7191.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b558]
+[04Jun2025 21:10:46.707] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3059.69, y=71.00, z=7191.44]
+[04Jun2025 21:11:17.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3004.06, y=72.00, z=7281.93], dimensionLocationPath overworld
+[04Jun2025 21:11:17.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3004.06, y=72.00, z=7281.93] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b558]
+[04Jun2025 21:11:17.373] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3004.04, y=72.00, z=7282.15]
+[04Jun2025 21:11:26.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3003.36, y=73.17, z=7285.65], dimensionLocationPath overworld
+[04Jun2025 21:11:26.265] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3003.36, y=73.17, z=7285.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b558]
+[04Jun2025 21:11:26.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3003.41, y=72.80, z=7287.04]
+[04Jun2025 21:12:20.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 21:12:20.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 21:12:28.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[04Jun2025 21:12:47.511] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=139, z=397}
+[04Jun2025 21:12:51.882] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=99, z=1251}
+[04Jun2025 21:12:51.882] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=101, z=1251}
+[04Jun2025 21:12:51.882] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=100, z=1251}
+[04Jun2025 21:12:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[04Jun2025 21:13:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ didn't want to live in the same world as Nekkai_
+[04Jun2025 21:13:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
+[04Jun2025 21:13:06.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3045.14, y=71.00, z=7194.28]
+[04Jun2025 21:13:08.352] [Server thread/DEBUG] [twilightforest/]: Player Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592) respawned and received items held in storage
+[04Jun2025 21:13:10.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Nekkai_'/22, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3045.49, y=71.00, z=7194.26], dimensionLocationPath overworld
+[04Jun2025 21:13:10.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Nekkai_'/22, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3045.49, y=71.00, z=7194.26] in list []
+[04Jun2025 21:13:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD?
+[04Jun2025 21:13:19.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 21:13:21.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Nekkai_'/22, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3048.21, y=71.00, z=7194.65]
+[04Jun2025 21:13:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ahorita se venga :C
+[04Jun2025 21:13:52.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz mira
+[04Jun2025 21:13:56.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mi seguridad :D
+[04Jun2025 21:14:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me quedo por ahora
+[04Jun2025 21:14:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no lo toques
+[04Jun2025 21:14:46.460] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3054.98, y=71.00, z=7192.07], dimensionLocationPath overworld
+[04Jun2025 21:14:46.460] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3054.98, y=71.00, z=7192.07] in list []
+[04Jun2025 21:14:46.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ekmau1121'/19645, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3054.98, y=71.00, z=7192.07]
+[04Jun2025 21:14:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que te mata
+[04Jun2025 21:14:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> positivo acabo de encontrar tu cadaver
+[04Jun2025 21:15:49.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mieko_]
+[04Jun2025 21:15:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> baja
+[04Jun2025 21:15:54.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[04Jun2025 21:16:12.307] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.71, y=75.00, z=7192.03], dimensionLocationPath overworld
+[04Jun2025 21:16:12.307] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.71, y=75.00, z=7192.03] in list []
+[04Jun2025 21:16:12.307] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.71, y=75.00, z=7192.03]
+[04Jun2025 21:16:14.911] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.15, z=7192.18], dimensionLocationPath overworld
+[04Jun2025 21:16:14.911] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.15, z=7192.18] in list []
+[04Jun2025 21:16:14.912] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.00, z=7192.18]
+[04Jun2025 21:16:17.910] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.15, z=7192.18], dimensionLocationPath overworld
+[04Jun2025 21:16:17.910] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.15, z=7192.18] in list []
+[04Jun2025 21:16:17.910] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Mieko_'/46424, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-3066.25, y=75.00, z=7192.18]
+[04Jun2025 21:16:19.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 21:16:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> yo me mori de segundo....
+[04Jun2025 21:16:47.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Packing Up!]
+[04Jun2025 21:16:58.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 21:17:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Bigger is better]
+[04Jun2025 21:17:19.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 21:17:20.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 21:17:20.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL

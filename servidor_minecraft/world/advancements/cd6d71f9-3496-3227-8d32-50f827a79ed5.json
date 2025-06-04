@@ -753,6 +753,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-04 20:57:38 +0000",
       "cooked_mutton": "2025-06-04 05:00:34 +0000",
+      "cooked_beef": "2025-06-04 21:14:18 +0000",
       "apple": "2025-06-04 03:59:35 +0000",
       "bread": "2025-06-04 04:05:23 +0000"
     },
@@ -1043,6 +1044,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-06-04 04:18:01 +0000",
+      "rocky_shrubland": "2025-06-04 21:13:10 +0000",
       "bayou": "2025-06-04 04:14:50 +0000",
       "jade_cliffs": "2025-06-04 20:28:17 +0000",
       "clover_patch": "2025-06-04 20:57:32 +0000",
@@ -2243,6 +2245,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 21:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-06-04 20:13:29 +0000"
@@ -2315,6 +2323,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 21:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-04 20:08:58 +0000"
@@ -2357,9 +2371,21 @@
     },
     "done": true
   },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-04 21:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-04 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 21:06:52 +0000"
     },
     "done": true
   },
@@ -2375,6 +2401,12 @@
       "was_in_fight": "2025-06-04 20:33:08 +0000"
     },
     "done": false
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 21:17:09 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
@@ -2496,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 21:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-04 20:44:18 +0000"
@@ -2547,6 +2585,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-04 20:14:06 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-04 21:17:09 +0000"
     },
     "done": true
   },
