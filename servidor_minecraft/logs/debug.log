@@ -10055,3 +10055,61 @@ Things may not work well.
 [04Jun2025 02:18:21.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
 [04Jun2025 02:19:06.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
 [04Jun2025 02:19:06.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 02:19:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 02:20:25.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=588}
+[04Jun2025 02:20:25.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=588}
+[04Jun2025 02:20:27.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=589}
+[04Jun2025 02:20:27.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=588}
+[04Jun2025 02:20:27.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=589}
+[04Jun2025 02:20:27.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=588}
+[04Jun2025 02:20:27.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=589}
+[04Jun2025 02:20:28.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=282, y=291, z=589}
+[04Jun2025 02:20:32.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=277, y=291, z=585}
+[04Jun2025 02:20:32.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=278, y=291, z=585}
+[04Jun2025 02:20:33.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=277, y=291, z=586}
+[04Jun2025 02:20:35.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=273, y=292, z=586}
+[04Jun2025 02:20:35.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=271, y=292, z=587}
+[04Jun2025 02:20:51.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que dijo no entendi?
+[04Jun2025 02:21:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> bro,,,
+[04Jun2025 02:21:50.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> el staff y yo...
+[04Jun2025 02:22:39.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=277, y=291, z=588}
+[04Jun2025 02:22:39.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=277, y=291, z=587}
+[04Jun2025 02:22:40.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=291, z=596} BlockPos{x=280, y=291, z=588}
+[04Jun2025 02:23:00.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=293, z=590}
+[04Jun2025 02:23:00.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=293, z=590}
+[04Jun2025 02:23:00.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:00.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:01.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:01.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:01.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:01.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=293, z=590}
+[04Jun2025 02:23:01.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=589}
+[04Jun2025 02:23:02.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=293, z=590}
+[04Jun2025 02:23:02.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=291, z=589}
+[04Jun2025 02:23:02.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=291, z=589}
+[04Jun2025 02:23:02.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=293, z=590}
+[04Jun2025 02:23:02.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=291, z=589}
+[04Jun2025 02:23:03.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=283, y=291, z=590}
+[04Jun2025 02:23:04.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=588}
+[04Jun2025 02:23:04.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=588}
+[04Jun2025 02:23:05.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=293, z=588}
+[04Jun2025 02:23:05.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=293, z=593} BlockPos{x=284, y=292, z=588}
+[04Jun2025 02:24:06.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 02:24:06.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 02:24:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 02:24:34.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Mieko_
+[04Jun2025 02:24:36.005] [Server thread/DEBUG] [twilightforest/]: Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) respawned and received items held in storage
+[04Jun2025 02:25:15.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> NO YO NO
+[04Jun2025 02:25:33.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 02:25:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Mieko_
+[04Jun2025 02:25:41.598] [Server thread/DEBUG] [twilightforest/]: Player capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836) respawned and received items held in storage
+[04Jun2025 02:27:06.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=575}
+[04Jun2025 02:27:07.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=270, y=291, z=573}
+[04Jun2025 02:27:08.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=279, y=291, z=580}
+[04Jun2025 02:27:08.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=279, y=291, z=581}
+[04Jun2025 02:27:09.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=279, y=291, z=581}
+[04Jun2025 02:27:29.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> prendelo
+[04Jun2025 02:27:41.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> para ir farmendo y matar a duz el de primero
+[04Jun2025 02:27:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> gg
+[04Jun2025 02:29:06.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Q.S.M.P MAP by TheNeitorLoL
+[04Jun2025 02:29:06.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Q.S.M.P MAP by TheNeitorLoL

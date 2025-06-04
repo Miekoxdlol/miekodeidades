@@ -937,15 +937,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-04 02:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-06-04 02:02:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-04 02:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-04 02:29:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-06-04 01:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-04 02:29:06 +0000"
     },
     "done": true
   },
