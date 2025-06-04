@@ -917,6 +917,7 @@
       "seasonal_orchard": "2025-06-04 05:12:08 +0000",
       "seasonal_forest": "2025-06-04 05:51:14 +0000",
       "fir_clearing": "2025-06-04 05:12:06 +0000",
+      "pumpkin_patch": "2025-06-04 06:31:43 +0000",
       "ominous_woods": "2025-06-04 04:48:11 +0000"
     },
     "done": false
@@ -1092,7 +1093,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-04 05:15:20 +0000",
-      "minecraft:soul_sand_valley": "2025-06-04 05:16:25 +0000"
+      "minecraft:soul_sand_valley": "2025-06-04 05:16:25 +0000",
+      "minecraft:nether_wastes": "2025-06-04 06:33:38 +0000"
     },
     "done": false
   },
@@ -1788,6 +1790,30 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-04 06:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 06:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-04 06:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-04 06:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-04 06:33:26 +0000"
     },
     "done": true
   },

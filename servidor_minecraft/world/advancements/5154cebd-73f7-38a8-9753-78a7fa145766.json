@@ -1961,6 +1961,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-04 05:07:32 +0000",
+      "minecraft:blaze": "2025-06-04 06:35:40 +0000",
       "minecraft:skeleton": "2025-06-04 05:33:11 +0000",
       "minecraft:spider": "2025-06-04 04:33:34 +0000",
       "minecraft:phantom": "2025-06-04 05:13:07 +0000",
@@ -2079,6 +2080,7 @@
       "seasonal_orchard": "2025-06-04 05:18:03 +0000",
       "seasonal_forest": "2025-06-04 05:07:25 +0000",
       "fir_clearing": "2025-06-04 05:17:41 +0000",
+      "pumpkin_patch": "2025-06-04 06:31:11 +0000",
       "ominous_woods": "2025-06-04 04:44:43 +0000"
     },
     "done": false
@@ -3091,15 +3093,87 @@
     },
     "done": true
   },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_silver_backpack": "2025-06-04 06:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-04 06:33:42 +0000"
+    },
+    "done": false
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-04 06:33:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-06-04 06:24:18 +0000"
     },
     "done": true
   },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2025-06-04 06:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-04 06:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-04 06:24:18 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-04 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-04 06:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-04 06:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-04 06:35:41 +0000"
     },
     "done": true
   },

@@ -834,6 +834,7 @@
       "minecraft:hoglin": "2025-06-04 05:02:57 +0000",
       "minecraft:spider": "2025-06-04 04:11:22 +0000",
       "minecraft:creeper": "2025-06-04 04:12:09 +0000",
+      "minecraft:wither_skeleton": "2025-06-04 06:26:40 +0000",
       "minecraft:cave_spider": "2025-06-04 05:26:36 +0000",
       "minecraft:piglin": "2025-06-04 05:06:35 +0000",
       "minecraft:stray": "2025-06-04 05:51:56 +0000",
@@ -2393,6 +2394,18 @@
       "c1": "2025-06-04 06:24:58 +0000"
     },
     "done": true
+  },
+  "1_splatus:ultris/giantdefeat": {
+    "criteria": {
+      "c1": "2025-06-04 06:35:27 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "giant": "2025-06-04 06:35:27 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }

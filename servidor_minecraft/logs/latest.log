@@ -245,3 +245,115 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 06:28:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
 [04Jun2025 06:28:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
 [04Jun2025 06:29:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Se mataba solo
+[04Jun2025 06:29:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 06:29:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mira
+[04Jun2025 06:29:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te tengo un regalo
+[04Jun2025 06:29:42.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Wither Skeleton
+[04Jun2025 06:29:57.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[04Jun2025 06:30:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB was slain by Wither Skeleton and bled out
+[04Jun2025 06:30:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya esta
+[04Jun2025 06:30:17.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 06:30:31.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Strength to Nekkai_]
+[04Jun2025 06:30:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Instant Damage to Nekkai_]
+[04Jun2025 06:31:24.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing moved too quickly! 6.844957926029565,1.1767592750642422,7.304248677897931
+[04Jun2025 06:31:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Applied effect Haste to Nekkai_]
+[04Jun2025 06:31:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 06:31:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[04Jun2025 06:31:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KLSALKSALK
+[04Jun2025 06:32:03.963] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-43, y=-56, z=2340}
+[04Jun2025 06:32:09.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-58, z=2355}
+[04Jun2025 06:32:09.090] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-58, z=2355}
+[04Jun2025 06:32:09.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-56, z=2355}
+[04Jun2025 06:32:09.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-58, z=2355}
+[04Jun2025 06:32:09.093] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-58, z=2355}
+[04Jun2025 06:32:09.257] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-43, y=-56, z=2340}
+[04Jun2025 06:32:09.259] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-43, y=-56, z=2340}
+[04Jun2025 06:32:13.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ moved too quickly! -0.9524619802950838,0.13987600666189337,10.254007213534805
+[04Jun2025 06:32:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Summoned new Warden]
+[04Jun2025 06:32:15.479] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-43, y=-56, z=2340}
+[04Jun2025 06:32:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te espantas eh
+[04Jun2025 06:32:30.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[04Jun2025 06:32:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> cuidado con pegarte LKSALKSAKL
+[04Jun2025 06:32:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Mato de 1 golpe
+[04Jun2025 06:33:04.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> deja me quito los efectos
+[04Jun2025 06:33:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> por si las dudas
+[04Jun2025 06:33:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Removed every effect from Nekkai_]
+[04Jun2025 06:33:26.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Ice Bucket Challenge]
+[04Jun2025 06:33:35.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Jun2025 06:33:35.982] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
+[04Jun2025 06:33:39.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-364, y=76, z=190} but found not block entity block Block{minecraft:air} at location
+[04Jun2025 06:33:39.117] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-364, y=76, z=190}
+[04Jun2025 06:33:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [We Need to Go Deeper]
+[04Jun2025 06:33:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [The Kings Residence]
+[04Jun2025 06:33:42.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ESA SUERTE
+[04Jun2025 06:33:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [A Terrible Fortress]
+[04Jun2025 06:33:44.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ESA SUERTE
+[04Jun2025 06:33:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ESA SUERTE
+[04Jun2025 06:33:46.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/11460, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-380.05, y=90.00, z=189.08] died: Wither Skeleton Knight suffocated in a wall
+[04Jun2025 06:34:03.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ya vi quien es el prota real
+[04Jun2025 06:34:11.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04Jun2025 06:34:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria
+[04Jun2025 06:34:22.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> prueba est
+[04Jun2025 06:34:28.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[04Jun2025 06:34:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJAJ
+[04Jun2025 06:34:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Lo supo
+[04Jun2025 06:34:45.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y se quema
+[04Jun2025 06:34:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KLSALKSALKSA
+[04Jun2025 06:34:47.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[04Jun2025 06:35:05.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[04Jun2025 06:35:22.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[04Jun2025 06:35:27.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [No Giant Is Stronger Than Me!]
+[04Jun2025 06:35:28.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:35:28.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:35:28.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:35:28.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:35:28.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Giant'/12159, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=2696.70, y=47.00, z=157.09] died: Giant fell out of the world
+[04Jun2025 06:35:40.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
+[04Jun2025 06:35:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Into Fire]
+[04Jun2025 06:35:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te vas a morir w
+[04Jun2025 06:35:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LASKLSALKSAKL
+[04Jun2025 06:35:58.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[04Jun2025 06:36:16.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[04Jun2025 06:36:33.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[04Jun2025 06:36:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Hay un encantamiento llamado:
+[04Jun2025 06:36:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Chill aura III
+[04Jun2025 06:36:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Un aura chill
+[04Jun2025 06:36:51.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jun2025 06:36:53.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya se
+[04Jun2025 06:36:55.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> a que se referia
+[04Jun2025 06:36:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mieko
+[04Jun2025 06:37:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> con corazones e xtras
+[04Jun2025 06:37:03.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> creo
+[04Jun2025 06:37:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Survival Mode]
+[04Jun2025 06:37:08.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[04Jun2025 06:37:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set own game mode to Creative Mode]
+[04Jun2025 06:37:26.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[04Jun2025 06:37:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oye
+[04Jun2025 06:37:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> tu si eres el prota
+[04Jun2025 06:37:44.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[04Jun2025 06:37:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> wtf
+[04Jun2025 06:37:57.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> EL BOSS FINAL
+[04Jun2025 06:38:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :o
+[04Jun2025 06:38:02.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
+[04Jun2025 06:38:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJA
+[04Jun2025 06:38:19.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[04Jun2025 06:38:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> se enojo
+[04Jun2025 06:38:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Awaken]
+[04Jun2025 06:38:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Awaken]
+[04Jun2025 06:38:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJ
+[04Jun2025 06:38:37.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> TE TOCA PELEAR
+[04Jun2025 06:38:37.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[04Jun2025 06:38:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> PELEA
+[04Jun2025 06:38:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> SUBE
+[04Jun2025 06:38:47.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ASI QUERIAS NO?
+[04Jun2025 06:38:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LSAKSLALKSAAKL
+[04Jun2025 06:38:54.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[04Jun2025 06:39:03.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:39:03.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:39:03.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:39:03.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[04Jun2025 06:39:03.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Giant'/14206, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=2592.30, y=29.00, z=157.87] died: Giant fell out of the world
+[04Jun2025 06:39:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> esta roto
+[04Jun2025 06:39:08.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> eh
+[04Jun2025 06:39:11.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[04Jun2025 06:39:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has completed the challenge [Cover Me in Debris]
