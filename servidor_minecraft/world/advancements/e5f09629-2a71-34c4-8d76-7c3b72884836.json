@@ -1807,7 +1807,8 @@
       "highland": "2025-06-04 05:30:55 +0000",
       "spider_nest": "2025-06-04 05:30:12 +0000",
       "fir_clearing": "2025-06-04 05:51:43 +0000",
-      "undergrowth": "2025-06-04 05:01:18 +0000"
+      "undergrowth": "2025-06-04 05:01:18 +0000",
+      "ominous_woods": "2025-06-04 06:11:50 +0000"
     },
     "done": false
   },
@@ -2003,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 06:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
@@ -2012,6 +2019,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 06:07:49 +0000"
     },
     "done": true
   },
@@ -2078,6 +2091,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-06-04 06:03:56 +0000"
     },
     "done": true
   },
@@ -2348,6 +2367,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 06:07:49 +0000"
     },
     "done": true
   },
