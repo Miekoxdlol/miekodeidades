@@ -3139,3 +3139,92 @@ Things may not work well.
 [04Jun2025 04:19:55.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6151ms or 123 ticks behind
 [04Jun2025 04:20:15.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
 [04Jun2025 04:20:38.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8434ms or 168 ticks behind
+[04Jun2025 04:20:47.315] [Worker-Main-214/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[04Jun2025 04:21:01.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7327ms or 146 ticks behind
+[04Jun2025 04:21:18.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[04Jun2025 04:21:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Suit Up]
+[04Jun2025 04:21:44.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04Jun2025 04:21:46.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Suit Up]
+[04Jun2025 04:22:02.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[04Jun2025 04:22:14.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [A Seedy Place]
+[04Jun2025 04:22:21.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
+[04Jun2025 04:22:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoszMDB has made the advancement [Hot Stuff]
+[04Jun2025 04:22:39.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[04Jun2025 04:23:24.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mapachito_44 has made the advancement [Stone Age]
+[04Jun2025 04:23:41.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> c nutria
+[04Jun2025 04:23:49.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44143, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=-492.50, y=52.00, z=257.50]
+[04Jun2025 04:24:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Monster Hunter]
+[04Jun2025 04:24:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Sweet Dreams]
+[04Jun2025 04:24:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Sweet Dreams]
+[04Jun2025 04:25:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> usa ese no se mira
+[04Jun2025 04:25:16.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Jun2025 04:25:47.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Jun2025 04:26:05.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[04Jun2025 04:26:24.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[04Jun2025 04:26:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has completed the challenge [Breaking the Maze]
+[04Jun2025 04:26:42.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 04:26:43.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[04Jun2025 04:26:56.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Spider
+[04Jun2025 04:26:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> EZ
+[04Jun2025 04:27:00.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[04Jun2025 04:27:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mapache
+[04Jun2025 04:27:17.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jun2025 04:27:25.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tirame de nuevo donde me dejaste
+[04Jun2025 04:27:30.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=265, y=290, z=580}
+[04Jun2025 04:27:31.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=265, y=291, z=580}
+[04Jun2025 04:27:35.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[04Jun2025 04:27:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> staff
+[04Jun2025 04:27:52.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[04Jun2025 04:27:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> nmms
+[04Jun2025 04:28:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to capitanchela]
+[04Jun2025 04:28:10.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2464ms or 49 ticks behind
+[04Jun2025 04:28:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tp abajo alguien
+[04Jun2025 04:28:16.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ola we
+[04Jun2025 04:28:22.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> bajame aqui merito
+[04Jun2025 04:28:24.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=590}
+[04Jun2025 04:28:25.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=590}
+[04Jun2025 04:28:25.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=590}
+[04Jun2025 04:28:25.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=590}
+[04Jun2025 04:28:25.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=291, z=590}
+[04Jun2025 04:28:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Acquire Hardware]
+[04Jun2025 04:28:27.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[04Jun2025 04:28:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[04Jun2025 04:28:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ekmau1121 has made the advancement [Isn't It Iron Pick]
+[04Jun2025 04:28:36.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[04Jun2025 04:28:36.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[04Jun2025 04:28:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[04Jun2025 04:28:36.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[04Jun2025 04:28:45.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[04Jun2025 04:28:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported Mapachito_44 to JoszMDB]
+[04Jun2025 04:28:55.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.250.220.36:33631] logged in with entity id 49965 at (272.683134905318, 66.60632891722229, 589.280604585758)
+[04Jun2025 04:28:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 04:28:55.261] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 04:28:55.652] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 04:28:55.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 04:29:01.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mapachito_44: Teleported JoszMDB to capitanchela]
+[04Jun2025 04:29:02.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[04Jun2025 04:29:15.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to JoszMDB]
+[04Jun2025 04:29:21.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[04Jun2025 04:29:27.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.36916905593858473
+[04Jun2025 04:29:27.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.4814507891526034
+[04Jun2025 04:29:27.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.5776171715532712
+[04Jun2025 04:29:27.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.6592960814546984
+[04Jun2025 04:29:27.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.7279519750700558
+[04Jun2025 04:29:27.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.7849019423439643
+[04Jun2025 04:29:27.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.8313305651203962
+[04Jun2025 04:29:27.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.8683031125422076
+[04Jun2025 04:29:27.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.9148339911179733
+[04Jun2025 04:29:27.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.9356709580493998
+[04Jun2025 04:29:27.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.954424227790895
+[04Jun2025 04:29:27.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.9713021701111302
+[04Jun2025 04:29:27.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 0.9864923177969445
+[04Jun2025 04:29:27.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 1.0001634503520052
+[04Jun2025 04:29:27.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 1.0124674693256281
+[04Jun2025 04:29:28.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 1.043102098010138
+[04Jun2025 04:29:28.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 1.0530683528507438
+[04Jun2025 04:29:28.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Duzzk0) moved wrongly! 1.0620379819696666
+[04Jun2025 04:29:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported ekmau1121 to Duzzk0]
+[04Jun2025 04:29:38.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[04Jun2025 04:29:39.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[04Jun2025 04:30:21.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29780, l='ServerLevel[Q.S.M.P MAP by TheNeitorLoL]', x=640.42, y=64.17, z=558.72] died, message: 'Unemployed was slain by Zombie'
+[04Jun2025 04:30:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> OLA

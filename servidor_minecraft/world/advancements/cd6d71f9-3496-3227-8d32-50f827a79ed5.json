@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-04 04:25:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:25:43 +0000"
@@ -230,6 +236,12 @@
   "biomesoplenty:recipes/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
     },
     "done": true
   },
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-04 03:54:39 +0000"
@@ -344,6 +362,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
     },
     "done": true
   },
@@ -419,7 +443,9 @@
       "bayou": "2025-06-04 04:14:50 +0000",
       "mystic_grove": "2025-06-04 04:19:32 +0000",
       "mediterranean_forest": "2025-06-04 04:10:33 +0000",
-      "grassland": "2025-06-04 04:19:56 +0000"
+      "spider_nest": "2025-06-04 04:21:07 +0000",
+      "grassland": "2025-06-04 04:19:56 +0000",
+      "rainforest": "2025-06-04 04:22:16 +0000"
     },
     "done": false
   },
@@ -450,9 +476,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-04 04:06:09 +0000",
-      "minecraft:creeper": "2025-06-04 04:09:06 +0000"
+      "minecraft:spider": "2025-06-04 04:25:07 +0000",
+      "minecraft:creeper": "2025-06-04 04:09:06 +0000",
+      "minecraft:cave_spider": "2025-06-04 04:21:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -475,6 +509,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
     },
     "done": true
   },
@@ -514,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-04 04:04:43 +0000"
@@ -535,6 +581,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
     },
     "done": true
   },
@@ -601,6 +653,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-04 04:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
     },
     "done": true
   },
@@ -778,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:17:22 +0000"
@@ -808,9 +872,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-06-04 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-04 04:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-04 04:25:20 +0000"
     },
     "done": true
   },
@@ -892,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:10:17 +0000"
@@ -927,6 +1015,18 @@
       "has_stick": "2025-06-04 03:54:41 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "raspberries": "2025-06-04 04:20:36 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/la_cucaracha": {
     "criteria": {
@@ -997,6 +1097,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-06-04 04:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
     },
     "done": true
   },
@@ -1102,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-04 03:55:31 +0000"
@@ -1117,6 +1229,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-04 04:25:20 +0000"
     },
     "done": true
   },
@@ -1159,6 +1277,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-04 04:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
     },
     "done": true
   },
@@ -1301,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-04 04:25:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-06-04 03:54:41 +0000"
@@ -1316,6 +1446,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 04:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-04 04:21:15 +0000"
     },
     "done": true
   },

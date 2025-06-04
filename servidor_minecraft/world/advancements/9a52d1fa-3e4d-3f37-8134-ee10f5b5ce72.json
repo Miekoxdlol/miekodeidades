@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-04 04:25:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-04 03:43:25 +0000"
@@ -412,6 +418,12 @@
       "has_cyan_dye": "2025-06-04 03:56:11 +0000"
     },
     "done": true
+  },
+  "simplefarming:crops": {
+    "criteria": {
+      "corn": "2025-06-04 04:22:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
@@ -636,6 +648,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-04 04:21:00 +0000"
     },
     "done": true
   },
