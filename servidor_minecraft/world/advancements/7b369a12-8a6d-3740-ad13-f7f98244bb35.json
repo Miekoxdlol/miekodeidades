@@ -907,5 +907,11 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-06-04 03:14:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
