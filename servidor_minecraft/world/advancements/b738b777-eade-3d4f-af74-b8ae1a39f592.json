@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-04 01:35:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-06-04 01:31:07 +0000"

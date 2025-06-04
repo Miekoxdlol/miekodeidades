@@ -449,3 +449,24 @@ Things may not work well.
 [04Jun2025 01:38:37.497] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
 [04Jun2025 01:38:37.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
 [04Jun2025 01:38:37.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[04Jun2025 01:38:59.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[04Jun2025 01:39:07.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Timed out
+[04Jun2025 01:39:07.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[04Jun2025 01:39:07.553] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[04Jun2025 01:39:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> va a ver algun limite de muertes?
+[04Jun2025 01:41:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 01:41:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set capitanchela's game mode to Spectator Mode]
+[04Jun2025 01:41:17.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -5.874061222255619,0.03807107395974185,-8.621510209098574
+[04Jun2025 01:41:34.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -2.7825981981873156,0.0,10.042693295040351
+[04Jun2025 01:41:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to capitanchela]
+[04Jun2025 01:42:13.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> deja me pongo a inventigar las cuevas para buscar diante
+[04Jun2025 01:42:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 01:42:18.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> diamante
+[04Jun2025 01:42:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[04Jun2025 01:42:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[04Jun2025 01:42:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set capitanchela's game mode to Survival Mode]
+[04Jun2025 01:42:27.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 01:42:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 01:42:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[04Jun2025 01:43:22.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d9890d0[id=<null>,name=Izhug,properties={},legacy=false] (/127.63.134.181:35689) lost connection: Disconnected
+[04Jun2025 01:44:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> se ve que va a estar perrote el sv mieko
