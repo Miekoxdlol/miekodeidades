@@ -18,6 +18,7 @@
       "minecraft:lukewarm_ocean": "2025-06-04 03:26:41 +0000",
       "minecraft:river": "2025-06-04 03:59:11 +0000",
       "minecraft:stony_shore": "2025-06-04 22:30:59 +0000",
+      "minecraft:dripstone_caves": "2025-06-04 22:47:54 +0000",
       "minecraft:cold_ocean": "2025-06-04 04:59:15 +0000",
       "minecraft:forest": "2025-06-04 04:51:05 +0000",
       "minecraft:deep_cold_ocean": "2025-06-04 05:00:09 +0000",
@@ -25,6 +26,7 @@
       "minecraft:jungle": "2025-06-04 04:03:25 +0000",
       "minecraft:ocean": "2025-06-04 04:33:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 04:01:10 +0000",
+      "minecraft:deep_dark": "2025-06-04 22:52:45 +0000",
       "minecraft:savanna": "2025-06-04 03:53:45 +0000",
       "minecraft:plains": "2025-06-04 04:00:54 +0000"
     },
@@ -428,9 +430,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-06-04 22:53:15 +0000",
       "erupting_inferno": "2025-06-04 05:16:17 +0000",
+      "lush_savanna": "2025-06-04 22:44:14 +0000",
       "bamboo_grove": "2025-06-04 04:01:54 +0000",
       "mystic_grove": "2025-06-04 04:01:35 +0000",
+      "old_growth_woodland": "2025-06-04 22:45:07 +0000",
       "crystalline_chasm": "2025-06-04 05:15:57 +0000",
       "coniferous_forest": "2025-06-04 05:02:42 +0000",
       "lush_desert": "2025-06-04 22:38:36 +0000",
@@ -1758,6 +1763,54 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-04 22:36:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-04 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/endolocator": {
+    "criteria": {
+      "endolocator": "2025-06-04 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-04 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-04 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-04 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-04 22:50:10 +0000"
     },
     "done": true
   },
