@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keycard_holder": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-04 04:10:32 +0000"
@@ -458,6 +464,12 @@
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-06-04 03:56:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_lock": {
+    "criteria": {
+      "has_reader": "2025-06-04 04:43:52 +0000"
     },
     "done": true
   },
@@ -545,9 +557,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-06-04 04:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-04 04:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-04 04:37:58 +0000"
     },
     "done": true
   },
@@ -608,6 +632,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-04 03:50:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-06-04 04:44:07 +0000"
     },
     "done": true
   },
