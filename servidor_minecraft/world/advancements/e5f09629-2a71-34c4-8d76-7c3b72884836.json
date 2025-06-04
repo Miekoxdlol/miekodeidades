@@ -852,6 +852,7 @@
       "minecraft:spider": "2025-06-04 04:11:22 +0000",
       "minecraft:creeper": "2025-06-04 04:12:09 +0000",
       "minecraft:wither_skeleton": "2025-06-04 06:26:40 +0000",
+      "minecraft:husk": "2025-06-04 23:08:05 +0000",
       "minecraft:cave_spider": "2025-06-04 05:26:36 +0000",
       "minecraft:piglin": "2025-06-04 05:06:35 +0000",
       "minecraft:stray": "2025-06-04 05:51:56 +0000",
@@ -2075,16 +2076,20 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-04 23:13:41 +0000",
       "shrubland": "2025-06-04 08:02:20 +0000",
       "rocky_shrubland": "2025-06-04 08:04:27 +0000",
       "scrubland": "2025-06-04 07:37:49 +0000",
+      "lush_savanna": "2025-06-04 23:10:41 +0000",
       "highland": "2025-06-04 05:30:55 +0000",
       "spider_nest": "2025-06-04 05:30:12 +0000",
+      "wasteland": "2025-06-04 23:09:58 +0000",
       "lush_desert": "2025-06-04 23:02:51 +0000",
       "highland_moor": "2025-06-04 07:07:20 +0000",
       "fir_clearing": "2025-06-04 05:51:43 +0000",
       "grassland": "2025-06-04 07:58:27 +0000",
       "undergrowth": "2025-06-04 05:01:18 +0000",
+      "rainforest": "2025-06-04 23:11:03 +0000",
       "ominous_woods": "2025-06-04 06:11:50 +0000"
     },
     "done": false
@@ -3392,6 +3397,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-04 23:05:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-04 22:47:15 +0000"
@@ -3401,6 +3412,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-04 22:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-04 23:12:08 +0000"
     },
     "done": true
   },

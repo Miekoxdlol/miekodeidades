@@ -1581,3 +1581,51 @@ java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.get
 [04Jun2025 23:08:46.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
 [04Jun2025 23:08:47.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
 [04Jun2025 23:08:55.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[04Jun2025 23:09:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[04Jun2025 23:09:17.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6729ms or 134 ticks behind
+[04Jun2025 23:09:18.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[04Jun2025 23:09:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to titanhumilde7w7]
+[04Jun2025 23:09:37.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5373ms or 107 ticks behind
+[04Jun2025 23:09:51.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: umiieru lost connection: Disconnected
+[04Jun2025 23:09:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: umiieru left the game
+[04Jun2025 23:09:51.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client umiieru
+[04Jun2025 23:09:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to capitanchela]
+[04Jun2025 23:09:59.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6647ms or 132 ticks behind
+[04Jun2025 23:10:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Mapachito_44]
+[04Jun2025 23:10:21.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jun2025 23:11:22.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04Jun2025 23:11:42.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[04Jun2025 23:11:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[04Jun2025 23:12:00.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
+[04Jun2025 23:12:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> un puto perico me espanto amigos
+[04Jun2025 23:12:08.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Hot Stuff]
+[04Jun2025 23:12:18.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[04Jun2025 23:12:24.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Timed out
+[04Jun2025 23:12:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[04Jun2025 23:12:24.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[04Jun2025 23:12:26.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[04Jun2025 23:12:30.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titanhumilde7w7[/127.173.146.241:58383] logged in with entity id 79686 at (-3145.1840358728314, 92.0, 9958.08624351257)
+[04Jun2025 23:12:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 joined the game
+[04Jun2025 23:12:30.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 has made the advancement [Getting an Upgrade]
+[04Jun2025 23:12:30.220] [Server thread/INFO] [Jade/]: Syncing config to titanhumilde7w7 (9609ff6a-5029-3f4e-94a7-bf1273386efd)
+[04Jun2025 23:12:30.507] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of titanhumilde7w7 (18)
+[04Jun2025 23:12:30.507] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to titanhumilde7w7
+[04Jun2025 23:12:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> a no era un tucas
+[04Jun2025 23:12:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tucan
+[04Jun2025 23:12:36.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jun2025 23:12:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mapachito_44 to Mieko_]
+[04Jun2025 23:12:42.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que toque el tucanaso
+[04Jun2025 23:12:59.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[04Jun2025 23:13:18.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[04Jun2025 23:13:23.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> se pueden capturar
+[04Jun2025 23:13:25.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> animales
+[04Jun2025 23:13:35.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[04Jun2025 23:13:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tp a nutria
+[04Jun2025 23:13:52.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[04Jun2025 23:14:10.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[04Jun2025 23:14:30.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jun2025 23:14:42.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titanhumilde7w7 lost connection: Disconnected
+[04Jun2025 23:14:42.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titanhumilde7w7 left the game
+[04Jun2025 23:14:42.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client titanhumilde7w7
+[04Jun2025 23:15:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 01_NutriaKing]
+[04Jun2025 23:15:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to 01_NutriaKing]
