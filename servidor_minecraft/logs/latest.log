@@ -1,178 +1,220 @@
-[03Jun2025 10:02:46.334] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
-[03Jun2025 10:02:46.337] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[03Jun2025 10:02:46.787] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[03Jun2025 10:02:47.119] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
-[03Jun2025 10:02:47.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[03Jun2025 10:02:47.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[03Jun2025 10:02:47.125] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[03Jun2025 10:02:47.284] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[03Jun2025 10:02:49.958] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Jun2025 10:02:50.029] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03Jun2025 10:02:50.095] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jun2025 10:02:50.119] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 31 options available, 0 override(s) found
-[03Jun2025 10:02:50.125] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jun2025 10:02:50.140] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jun2025 10:02:50.141] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Jun2025 10:02:50.245] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER
-[03Jun2025 10:02:50.247] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldOpenFlows (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER)
-[03Jun2025 10:02:50.248] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldOpenFlows was not found terrablender.mixins.json:MixinWorldOpenFlows
-[03Jun2025 10:02:57.731] [modloading-worker-0/INFO] [enemeez.simplefarming.common.SimpleFarming/]: Simple Farming setup complete!
-[03Jun2025 10:02:57.944] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[03Jun2025 10:02:58.045] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
-[03Jun2025 10:02:58.046] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
-[03Jun2025 10:03:01.742] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[03Jun2025 10:03:01.889] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[03Jun2025 10:03:01.902] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[03Jun2025 10:03:01.902] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[03Jun2025 10:03:01.904] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[03Jun2025 10:03:01.904] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[03Jun2025 10:03:01.972] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[03Jun2025 10:03:02.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[03Jun2025 10:03:02.317] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03Jun2025 10:03:02.317] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[03Jun2025 10:03:02.318] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03Jun2025 10:03:02.318] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03Jun2025 10:03:02.318] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03Jun2025 10:03:02.318] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03Jun2025 10:03:02.318] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03Jun2025 10:03:02.347] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03Jun2025 10:03:02.348] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03Jun2025 10:03:02.351] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03Jun2025 10:03:02.351] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03Jun2025 10:03:02.366] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[04Jun2025 00:28:24.048] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[04Jun2025 00:28:24.056] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[04Jun2025 00:28:24.731] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[04Jun2025 00:28:25.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 00:28:25.075] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 00:28:25.076] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 00:28:25.077] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[04Jun2025 00:28:25.230] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[04Jun2025 00:28:27.492] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Jun2025 00:28:27.550] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Jun2025 00:28:27.601] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 00:28:27.638] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 31 options available, 0 override(s) found
+[04Jun2025 00:28:27.643] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 00:28:27.657] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 00:28:27.659] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jun2025 00:28:27.804] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER
+[04Jun2025 00:28:27.805] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldOpenFlows (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldOpenFlows for invalid dist DEDICATED_SERVER)
+[04Jun2025 00:28:27.805] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldOpenFlows was not found terrablender.mixins.json:MixinWorldOpenFlows
+[04Jun2025 00:28:29.289] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[04Jun2025 00:28:36.172] [modloading-worker-0/INFO] [enemeez.simplefarming.common.SimpleFarming/]: Simple Farming setup complete!
+[04Jun2025 00:28:36.381] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[04Jun2025 00:28:36.455] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
+[04Jun2025 00:28:36.456] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
+[04Jun2025 00:28:39.719] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[04Jun2025 00:28:39.858] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[04Jun2025 00:28:39.868] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[04Jun2025 00:28:39.869] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[04Jun2025 00:28:39.869] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[04Jun2025 00:28:39.896] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[04Jun2025 00:28:39.958] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for knockback_resist. Make sure your scaling supported mods are up to date!
+java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.getDefaultBaseValueModifiers()" because the return value of "com.tom.cpm.common.PehkuiInterface.getBaseType(com.tom.cpm.shared.util.ScalingOptions)" is null
+	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:36) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:20) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.shared.network.NetHandler.addScaler(NetHandler.java:537) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.common.ServerHandler.<clinit>(ServerHandler.java:33) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.CustomPlayerModels.setup(CustomPlayerModels.java:54) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.19.4-45.3.3.jar%23171!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:123) ~[fmlcore-1.19.4-45.3.3.jar%23170!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Jun2025 00:28:39.963] [modloading-worker-0/WARN] [CPM/]: Failed to create scaler key for safe_fall_distance. Make sure your scaling supported mods are up to date!
+java.lang.NullPointerException: Cannot invoke "virtuoel.pehkui.api.ScaleType.getDefaultBaseValueModifiers()" because the return value of "com.tom.cpm.common.PehkuiInterface.getBaseType(com.tom.cpm.shared.util.ScalingOptions)" is null
+	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:36) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.common.PehkuiInterface.toKey(PehkuiInterface.java:20) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.shared.network.NetHandler.addScaler(NetHandler.java:537) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.common.ServerHandler.<clinit>(ServerHandler.java:33) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at com.tom.cpm.CustomPlayerModels.setup(CustomPlayerModels.java:54) ~[CustomPlayerModels-1.19.4-0.6.22a.jar%23142!/:0.6.22a]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.19.4-45.3.3.jar%23171!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:123) ~[fmlcore-1.19.4-45.3.3.jar%23170!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Jun2025 00:28:39.966] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[04Jun2025 00:28:40.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[04Jun2025 00:28:40.210] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Jun2025 00:28:40.210] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Jun2025 00:28:40.210] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04Jun2025 00:28:40.210] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04Jun2025 00:28:40.211] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04Jun2025 00:28:40.211] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04Jun2025 00:28:40.211] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04Jun2025 00:28:40.238] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04Jun2025 00:28:40.239] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[04Jun2025 00:28:40.241] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04Jun2025 00:28:40.241] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[04Jun2025 00:28:40.256] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[03Jun2025 10:03:02.394] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[03Jun2025 10:03:02.413] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[03Jun2025 10:03:02.417] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[03Jun2025 10:03:02.419] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[03Jun2025 10:03:02.419] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
-[03Jun2025 10:03:02.420] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[03Jun2025 10:03:02.422] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[03Jun2025 10:03:02.422] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[03Jun2025 10:03:02.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.4-2.5.12 Target: null
-[03Jun2025 10:03:02.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Jun2025 10:03:03.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[03Jun2025 10:03:03.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[03Jun2025 10:03:03.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[03Jun2025 10:03:03.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jun2025 10:03:03.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
-[03Jun2025 10:03:03.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[03Jun2025 10:03:04.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.2.1696 Target: null
-[03Jun2025 10:03:04.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
-[03Jun2025 10:03:04.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.8d Target: 5.6.8d+mod
-[03Jun2025 10:03:04.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[03Jun2025 10:03:05.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.4-1.0.3 Target: null
-[03Jun2025 10:03:06.439] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Jun2025 10:03:09.329] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[03Jun2025 10:03:09.330] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[03Jun2025 10:03:10.668] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03Jun2025 10:03:11.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[03Jun2025 10:03:11.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[03Jun2025 10:03:11.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[03Jun2025 10:03:11.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[03Jun2025 10:03:11.462] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[03Jun2025 10:03:11.464] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[03Jun2025 10:03:11.472] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[03Jun2025 10:03:11.474] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[03Jun2025 10:03:11.477] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[03Jun2025 10:03:12.039] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2687 advancements
-[03Jun2025 10:03:12.045] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[03Jun2025 10:03:12.057] [main/INFO] [Dungeon Crawl/]: Loading data...
-[03Jun2025 10:03:12.384] [main/INFO] [Dungeon Crawl/]: Done.
-[03Jun2025 10:03:12.386] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[03Jun2025 10:03:12.402] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[03Jun2025 10:03:14.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[03Jun2025 10:03:14.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Jun2025 10:03:15.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Jun2025 10:03:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jun2025 10:03:15.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Jun2025 10:03:15.173] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Jun2025 10:03:15.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Jun2025 10:03:15.261] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Jun2025 10:03:15.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Jun2025 10:03:15.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Jun2025 10:03:15.396] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[03Jun2025 10:03:15.397] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[03Jun2025 10:03:15.397] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[03Jun2025 10:03:15.398] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[03Jun2025 10:03:15.398] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[03Jun2025 10:03:15.399] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[03Jun2025 10:03:15.399] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[03Jun2025 10:03:15.399] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[03Jun2025 10:03:15.399] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[03Jun2025 10:03:15.400] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[03Jun2025 10:03:15.437] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03Jun2025 10:03:15.968] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03Jun2025 10:03:15.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Jun2025 10:03:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jun2025 10:03:24.334] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.626] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.849] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.874] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.886] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.897] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:24.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:25.440] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 10:03:25.940] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[03Jun2025 10:03:26.437] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5497 ms
-[03Jun2025 10:03:26.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.153s)! For help, type "help"
-[03Jun2025 10:03:26.545] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Jun2025 10:03:26.571] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03Jun2025 10:03:26.586] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[03Jun2025 10:04:32.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:39937] logged in with entity id 1681 at (268.5, 292.0, 572.5)
-[03Jun2025 10:04:32.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[03Jun2025 10:04:32.916] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[03Jun2025 10:04:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Ultris: Boss Expansion]
-[03Jun2025 10:04:33.824] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[03Jun2025 10:04:33.828] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[03Jun2025 10:05:21.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:42349] logged in with entity id 1700 at (259.08048010576556, 297.0, 593.1798236929563)
-[03Jun2025 10:05:21.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[03Jun2025 10:05:21.868] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[03Jun2025 10:05:22.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[03Jun2025 10:05:22.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[03Jun2025 10:05:35.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:35.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:35.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:36.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:36.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:36.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:37.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:37.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:37.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:37.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:37.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:38.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:38.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:38.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:38.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:38.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:39.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:39.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:39.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:39.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:40.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:40.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:05:40.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=283, y=293, z=584}
-[03Jun2025 10:06:22.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug was kicked for floating too long!
-[03Jun2025 10:06:22.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
-[03Jun2025 10:06:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
-[03Jun2025 10:06:22.946] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
-[03Jun2025 10:06:22.991] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Jun2025 10:07:17.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:39729] logged in with entity id 1819 at (288.1372713857916, 151.2352796881538, 587.7883328813555)
-[03Jun2025 10:07:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[03Jun2025 10:07:17.132] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[03Jun2025 10:07:17.566] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[03Jun2025 10:07:17.566] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[03Jun2025 10:07:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Izhug to Mieko_]
-[03Jun2025 10:07:22.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
-[03Jun2025 10:07:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has been revived!
-[03Jun2025 10:09:21.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> 27170275
-[03Jun2025 10:09:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 271.500000, 70.000000, 275.500000]
-[03Jun2025 10:10:21.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
-[03Jun2025 10:10:21.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=256, y=293, z=584}
-[03Jun2025 10:10:33.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[03Jun2025 10:10:43.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[03Jun2025 10:12:20.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[03Jun2025 10:12:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 00:28:40.283] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04Jun2025 00:28:40.302] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04Jun2025 00:28:40.306] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04Jun2025 00:28:40.308] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[04Jun2025 00:28:40.308] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
+[04Jun2025 00:28:40.309] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[04Jun2025 00:28:40.312] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[04Jun2025 00:28:40.312] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[04Jun2025 00:28:41.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.4-2.5.12 Target: null
+[04Jun2025 00:28:41.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04Jun2025 00:28:41.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[04Jun2025 00:28:41.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[04Jun2025 00:28:41.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[04Jun2025 00:28:41.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Jun2025 00:28:42.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
+[04Jun2025 00:28:42.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[04Jun2025 00:28:42.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.2.1696 Target: null
+[04Jun2025 00:28:42.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[04Jun2025 00:28:42.840] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.8d Target: 5.6.8d+mod
+[04Jun2025 00:28:42.840] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[04Jun2025 00:28:44.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.19.4-1.0.3 Target: null
+[04Jun2025 00:28:44.238] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Jun2025 00:28:44.311] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+curios (version 1.19.4-5.1.5.4 -> MISSING)
+Things may not work well.
+[04Jun2025 00:28:47.028] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[04Jun2025 00:28:47.029] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[04Jun2025 00:28:47.083] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:curios
+[04Jun2025 00:28:48.515] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04Jun2025 00:28:49.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[04Jun2025 00:28:49.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[04Jun2025 00:28:49.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[04Jun2025 00:28:49.316] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[04Jun2025 00:28:49.319] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[04Jun2025 00:28:49.322] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[04Jun2025 00:28:49.329] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[04Jun2025 00:28:49.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[04Jun2025 00:28:49.333] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[04Jun2025 00:28:49.923] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2687 advancements
+[04Jun2025 00:28:49.926] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[04Jun2025 00:28:49.933] [main/INFO] [Dungeon Crawl/]: Loading data...
+[04Jun2025 00:28:50.236] [main/INFO] [Dungeon Crawl/]: Done.
+[04Jun2025 00:28:50.237] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[04Jun2025 00:28:50.267] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[04Jun2025 00:28:53.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[04Jun2025 00:28:53.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Jun2025 00:28:53.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Jun2025 00:28:53.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Jun2025 00:28:53.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Jun2025 00:28:53.555] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Jun2025 00:28:53.652] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Jun2025 00:28:53.652] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Jun2025 00:28:53.653] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Jun2025 00:28:53.653] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Jun2025 00:28:53.831] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 00:28:53.832] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[04Jun2025 00:28:53.832] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[04Jun2025 00:28:53.832] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 00:28:53.833] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[04Jun2025 00:28:53.833] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 00:28:53.834] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[04Jun2025 00:28:53.834] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[04Jun2025 00:28:53.834] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04Jun2025 00:28:53.835] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[04Jun2025 00:28:53.861] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Jun2025 00:28:54.455] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Jun2025 00:28:54.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Jun2025 00:28:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Jun2025 00:29:05.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.171] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.172] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.186] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:05.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jun2025 00:29:06.018] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[04Jun2025 00:29:06.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[04Jun2025 00:29:06.664] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7147 ms
+[04Jun2025 00:29:06.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.996s)! For help, type "help"
+[04Jun2025 00:29:06.707] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Jun2025 00:29:06.733] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04Jun2025 00:29:06.745] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25564
+[04Jun2025 00:29:25.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:54147] logged in with entity id 987 at (271.28889144617506, 292.0, 575.0699745427122)
+[04Jun2025 00:29:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[04Jun2025 00:29:25.332] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[04Jun2025 00:29:25.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.250.220.36:55319] logged in with entity id 988 at (278.5, 292.0, 582.5)
+[04Jun2025 00:29:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[04Jun2025 00:29:25.654] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[04Jun2025 00:29:25.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Ultris: Boss Expansion]
+[04Jun2025 00:29:26.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[04Jun2025 00:29:26.592] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[04Jun2025 00:29:27.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[04Jun2025 00:29:27.395] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[04Jun2025 00:30:40.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=291, z=593} BlockPos{x=274, y=291, z=589}
+[04Jun2025 00:30:40.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=291, z=593} BlockPos{x=274, y=291, z=588}
+[04Jun2025 00:30:40.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=291, z=593} BlockPos{x=275, y=291, z=590}
+[04Jun2025 00:30:40.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=291, z=593} BlockPos{x=276, y=291, z=590}
+[04Jun2025 00:30:41.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=275, y=291, z=590}
+[04Jun2025 00:30:41.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=275, y=291, z=590}
+[04Jun2025 00:30:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Alex's Mobs]
+[04Jun2025 00:31:07.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:13.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:13.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:13.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:14.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:14.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:14.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:15.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:15.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:15.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:16.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:17.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:17.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:18.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:18.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:18.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:18.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:18.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=293, z=584}
+[04Jun2025 00:31:19.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=256, y=292, z=584}
+[04Jun2025 00:31:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aya
+[04Jun2025 00:32:00.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[04Jun2025 00:32:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[04Jun2025 00:32:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[04Jun2025 00:33:08.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=291, z=591} BlockPos{x=264, y=291, z=581}
+[04Jun2025 00:34:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me voy a morir de hambre xd
+[04Jun2025 00:34:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Peaceful]
+[04Jun2025 00:35:01.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> cf
+[04Jun2025 00:35:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> lo construyeron ustedes?
+[04Jun2025 00:35:22.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nop
+[04Jun2025 00:37:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> asjdasjdjasdjad
