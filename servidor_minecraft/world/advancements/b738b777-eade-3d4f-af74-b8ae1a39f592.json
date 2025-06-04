@@ -1783,5 +1783,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-04 19:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-04 19:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-04 19:32:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }

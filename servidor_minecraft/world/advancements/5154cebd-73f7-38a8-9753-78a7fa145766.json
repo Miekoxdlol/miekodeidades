@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-04 19:50:14 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-04 04:39:51 +0000",
       "minecraft:taiga": "2025-06-04 04:41:08 +0000",
       "minecraft:deep_ocean": "2025-06-04 04:24:02 +0000",
@@ -30,6 +31,7 @@
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 07:55:59 +0000",
+      "minecraft:meadow": "2025-06-04 19:49:46 +0000",
       "minecraft:savanna": "2025-06-04 03:53:45 +0000",
       "minecraft:plains": "2025-06-04 03:58:17 +0000"
     },
@@ -786,8 +788,10 @@
       "cooked_beef": "2025-06-04 04:22:06 +0000",
       "baked_potato": "2025-06-04 07:40:22 +0000",
       "beef": "2025-06-04 06:36:26 +0000",
+      "porkchop": "2025-06-04 19:32:46 +0000",
       "apple": "2025-06-04 04:04:23 +0000",
       "cooked_cod": "2025-06-04 04:34:18 +0000",
+      "pumpkin_pie": "2025-06-04 19:41:22 +0000",
       "mutton": "2025-06-04 03:56:57 +0000",
       "bread": "2025-06-04 05:17:29 +0000",
       "golden_apple": "2025-06-04 05:32:22 +0000",
@@ -3689,9 +3693,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-04 19:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-04 19:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 19:36:00 +0000"
     },
     "done": true
   },
