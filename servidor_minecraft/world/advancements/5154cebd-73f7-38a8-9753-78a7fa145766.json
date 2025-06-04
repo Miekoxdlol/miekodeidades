@@ -23,6 +23,7 @@
       "minecraft:cold_ocean": "2025-06-04 04:39:31 +0000",
       "minecraft:forest": "2025-06-04 04:42:00 +0000",
       "minecraft:lush_caves": "2025-06-04 04:28:24 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-04 05:00:08 +0000",
       "minecraft:ocean": "2025-06-04 04:24:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 04:23:07 +0000",
       "minecraft:savanna": "2025-06-04 03:53:45 +0000",
@@ -270,6 +271,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-06-04 04:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
@@ -279,6 +286,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-04 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -324,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 04:54:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:08:01 +0000"
@@ -333,6 +352,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-04 03:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-04 04:51:50 +0000"
     },
     "done": true
   },
@@ -474,15 +499,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:14:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 04:20:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 04:56:02 +0000"
     },
     "done": true
   },
@@ -561,6 +604,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -858,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-06-04 04:33:34 +0000"
@@ -996,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-04 04:15:32 +0000"
@@ -1032,9 +1093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-04 04:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -1104,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-06-04 04:08:01 +0000"
@@ -1113,6 +1192,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -1338,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-04 04:51:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-04 03:59:25 +0000"
@@ -1413,6 +1510,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
     },
     "done": true
   },
@@ -1506,6 +1609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-04 04:14:07 +0000"
@@ -1515,6 +1624,12 @@
   "biomesoplenty:recipes/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
     },
     "done": true
   },
@@ -1581,6 +1696,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-04 04:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
     },
     "done": true
   },
@@ -1680,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-04 04:33:34 +0000"
@@ -1689,6 +1816,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-04 03:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
     },
     "done": true
   },
@@ -1791,6 +1924,18 @@
   "biomesoplenty:recipes/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 04:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-04 04:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -1930,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-04 04:59:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:08:01 +0000"
@@ -1963,6 +2114,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-06-04 03:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 04:59:05 +0000"
     },
     "done": true
   },
@@ -2005,6 +2162,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-04 03:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 04:49:50 +0000"
     },
     "done": true
   },

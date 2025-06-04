@@ -11,6 +11,9 @@
       "minecraft:sparse_jungle": "2025-06-04 04:03:35 +0000",
       "minecraft:lukewarm_ocean": "2025-06-03 06:09:59 +0000",
       "minecraft:river": "2025-06-03 09:49:50 +0000",
+      "minecraft:cold_ocean": "2025-06-04 05:00:56 +0000",
+      "minecraft:forest": "2025-06-04 04:53:20 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-04 05:00:50 +0000",
       "minecraft:savanna": "2025-06-03 09:50:03 +0000",
       "minecraft:plains": "2025-06-04 04:11:59 +0000"
     },
@@ -935,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2025-06-04 04:17:24 +0000"
@@ -944,6 +953,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-04 01:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-04 04:50:42 +0000"
     },
     "done": true
   },
@@ -1049,15 +1064,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-06-04 04:14:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-06-04 02:29:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-06-04 04:52:35 +0000"
     },
     "done": true
   },
@@ -1079,9 +1112,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "bamboo_grove": "2025-06-04 04:02:22 +0000"
+      "bamboo_grove": "2025-06-04 04:02:22 +0000",
+      "ominous_woods": "2025-06-04 04:53:42 +0000"
     },
     "done": false
   },
@@ -1091,15 +1131,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:14:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
     },
     "done": true
   },
@@ -1118,6 +1182,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-06-04 04:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
     },
     "done": true
   },
@@ -1145,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-04 02:29:06 +0000"
@@ -1166,6 +1254,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "bamboo_grove": "2025-06-04 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
     },
     "done": true
   },
@@ -1211,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-06-04 04:56:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:14:09 +0000"
@@ -1226,6 +1326,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-04 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-04 04:50:46 +0000"
     },
     "done": true
   },

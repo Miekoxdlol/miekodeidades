@@ -209,6 +209,7 @@
   },
   "simplefarming:crops": {
     "criteria": {
+      "corn": "2025-06-04 04:51:33 +0000",
       "eggplant": "2025-06-04 01:20:44 +0000"
     },
     "done": false
@@ -1596,7 +1597,13 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2025-06-04 04:37:28 +0000"
+      "requirement": "2025-06-04 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2025-06-04 04:53:54 +0000"
     },
     "done": true
   },
@@ -1609,6 +1616,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-04 04:54:28 +0000"
     },
     "done": true
   },
@@ -1647,6 +1660,12 @@
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "undergrowth": "2025-06-04 05:01:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -1696,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-04 04:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-04 04:45:31 +0000"
@@ -1717,6 +1742,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 04:51:29 +0000"
     },
     "done": true
   },
@@ -1894,9 +1925,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 04:48:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "undergrowth": "2025-06-04 05:01:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-04 04:51:29 +0000"
     },
     "done": true
   },
@@ -1942,6 +1991,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-04 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 04:48:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
@@ -1960,9 +2021,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-04 04:48:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-06-04 04:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 05:00:45 +0000"
     },
     "done": true
   },
