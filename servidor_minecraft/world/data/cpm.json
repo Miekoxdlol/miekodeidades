@@ -32,7 +32,9 @@
     "7b369a12-8a6d-3740-ad13-f7f98244bb35": {},
     "e5f09629-2a71-34c4-8d76-7c3b72884836": {}
   },
-  "skins": {},
+  "skins": {
+    "7b369a12-8a6d-3740-ad13-f7f98244bb35": {}
+  },
   "player_scaling_settings": {},
   "scaling_settings": {
     "motion": {},
