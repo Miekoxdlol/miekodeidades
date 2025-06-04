@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "simplefarming:crops": {
+    "criteria": {
+      "eggplant": "2025-06-04 01:20:44 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-06-04 00:33:57 +0000"
