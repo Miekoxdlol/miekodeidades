@@ -431,7 +431,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-06-05 07:44:25 +0000"
+      "minecraft:zombie": "2025-06-05 07:44:25 +0000",
+      "minecraft:zombie_villager": "2025-06-05 08:11:01 +0000"
     },
     "done": false
   },
@@ -1167,9 +1168,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-05 07:55:45 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-06-05 07:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-05 07:56:51 +0000"
     },
     "done": true
   },
@@ -1194,12 +1207,6 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2025-06-05 07:57:12 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-06-05 07:55:45 +0000"
     },
     "done": true
   },
@@ -1293,12 +1300,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-06-05 07:56:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2025-06-05 07:57:12 +0000"
@@ -1323,13 +1324,19 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/cheese": {
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "has_milk": "2025-06-05 08:01:34 +0000"
+      "has_string": "2025-06-05 07:57:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_string": "2025-06-05 07:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-05 07:57:12 +0000"
     },
@@ -1341,15 +1348,81 @@
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+  "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
-      "has_string": "2025-06-05 07:57:12 +0000"
+      "has_milk": "2025-06-05 08:01:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
-      "has_string": "2025-06-05 07:57:12 +0000"
+      "killed": "2025-06-05 08:06:59 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-05 08:09:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-06-05 08:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-06-05 08:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-05 08:10:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-05 08:11:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-06-05 08:11:35 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-05 08:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 08:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-05 08:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 08:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-05 08:14:27 +0000"
     },
     "done": true
   },

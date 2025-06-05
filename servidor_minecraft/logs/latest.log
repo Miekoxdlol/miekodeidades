@@ -964,3 +964,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 08:09:10.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Stay dead]
 [05Jun2025 08:09:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Stay dead]
 [05Jun2025 08:09:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Walking Dead]
+[05Jun2025 08:09:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Peekaboo, I (still) see you!]
+[05Jun2025 08:09:48.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Walking Dead]
+[05Jun2025 08:10:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Stay dead]
+[05Jun2025 08:10:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Peekaboo, I (still) see you!]
+[05Jun2025 08:10:31.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Horror Under the Mantle]
+[05Jun2025 08:10:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Monster Hunter]
+[05Jun2025 08:10:47.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Dark Creator]
+[05Jun2025 08:10:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Source of Evil]
+[05Jun2025 08:10:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Wrong Santa]
+[05Jun2025 08:11:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Source of Evil]
+[05Jun2025 08:11:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Pumpkin Sir]
+[05Jun2025 08:11:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Acquire Hardware]
+[05Jun2025 08:12:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Dark Metallurgy]
+[05Jun2025 08:12:34.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug was kicked for floating too long!
+[05Jun2025 08:12:34.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Flying is not enabled on this server
+[05Jun2025 08:12:34.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[05Jun2025 08:12:34.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[05Jun2025 08:12:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Life turned out to be a comedy]
+[05Jun2025 08:12:57.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:46445] logged in with entity id 66592 at (5147.442976166295, -36.74779665974627, 9910.068850216605)
+[05Jun2025 08:12:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[05Jun2025 08:12:57.426] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[05Jun2025 08:12:57.708] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[05Jun2025 08:12:57.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[05Jun2025 08:13:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Fighting Nightmares]
+[05Jun2025 08:13:04.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Good Demoman]
+[05Jun2025 08:13:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Life turned out to be a comedy]
+[05Jun2025 08:13:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Arachnophobe's Nightmare]
+[05Jun2025 08:13:28.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
+[05Jun2025 08:13:28.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
+[05Jun2025 08:13:28.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[05Jun2025 08:13:28.592] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[05Jun2025 08:13:38.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Timed out
+[05Jun2025 08:13:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[05Jun2025 08:13:38.185] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[05Jun2025 08:14:04.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:34949] logged in with entity id 72668 at (5106.113124355971, -36.82324072493576, 9898.800557309496)
+[05Jun2025 08:14:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[05Jun2025 08:14:05.011] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[05Jun2025 08:14:05.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[05Jun2025 08:14:05.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[05Jun2025 08:14:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Horror Under the Mantle]
+[05Jun2025 08:14:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Pumpkin Sir]
+[05Jun2025 08:15:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Fighting Nightmares]
+[05Jun2025 08:15:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Dark Metallurgy]
+[05Jun2025 08:15:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Source of Evil]
+[05Jun2025 08:15:50.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
+[05Jun2025 08:16:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 was slain by capitanchela
+[05Jun2025 08:16:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[05Jun2025 08:16:36.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 lost connection: Timed out
+[05Jun2025 08:16:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 left the game
+[05Jun2025 08:16:36.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Terroris8910
+[05Jun2025 08:17:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que paso?
+[05Jun2025 08:18:34.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> hugo
+[05Jun2025 08:18:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que es esto?
+[05Jun2025 08:18:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[05Jun2025 08:18:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> xddddd
+[05Jun2025 08:18:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nose
+[05Jun2025 08:19:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
