@@ -1,25 +1,25 @@
-[05Jun2025 05:37:34.899] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Jun2025 05:37:34.905] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[05Jun2025 05:37:42.096] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Jun2025 05:37:42.320] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jun2025 05:37:42.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 05:37:43.203] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 05:37:43.206] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 05:37:43.207] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 05:37:43.578] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/miekodeidades/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[05Jun2025 05:37:43.579] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[05Jun2025 05:37:47.718] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Jun2025 05:37:47.938] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Jun2025 05:37:47.999] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 05:37:48.024] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 05:37:48.038] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 05:37:48.178] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 05:37:49.835] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[05Jun2025 05:37:49.835] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[05Jun2025 05:37:49.836] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[05Jun2025 05:37:50.466] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[05Jun2025 05:37:58.063] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zoc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[05Jun2025 05:37:58.429] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[05Jun2025 09:03:51.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[05Jun2025 09:03:51.603] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[05Jun2025 09:03:53.354] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jun2025 09:03:53.413] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/miekodeidades/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jun2025 09:03:54.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 09:03:54.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 09:03:54.072] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 09:03:54.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 09:03:54.357] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/miekodeidades/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[05Jun2025 09:03:54.358] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[05Jun2025 09:03:58.558] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jun2025 09:03:59.015] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Jun2025 09:03:59.087] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 09:03:59.119] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 09:03:59.135] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 09:03:59.291] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 09:04:00.896] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05Jun2025 09:04:00.896] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[05Jun2025 09:04:00.896] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[05Jun2025 09:04:01.437] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[05Jun2025 09:04:08.168] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zoc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Jun2025 09:04:08.580] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$113$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -89,7 +89,7 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Jun2025 05:37:59.130] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[05Jun2025 09:04:09.425] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$113$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -135,61 +135,61 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Jun2025 05:37:59.991] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[05Jun2025 05:38:00.025] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[05Jun2025 05:38:00.163] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[05Jun2025 05:38:00.191] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[05Jun2025 05:38:00.570] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Jun2025 05:38:00.572] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Jun2025 05:38:02.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Jun2025 05:38:02.416] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
-[05Jun2025 05:38:02.423] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
-[05Jun2025 05:38:04.093] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
-[05Jun2025 05:38:08.236] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[05Jun2025 05:38:08.531] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[05Jun2025 05:38:08.587] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[05Jun2025 05:38:08.686] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[05Jun2025 05:38:08.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[05Jun2025 05:38:08.837] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[05Jun2025 05:38:08.850] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[05Jun2025 05:38:08.854] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[05Jun2025 05:38:08.856] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[05Jun2025 05:38:09.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[05Jun2025 05:38:09.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
-[05Jun2025 05:38:09.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
-[05Jun2025 05:38:09.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jun2025 05:38:09.435] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[05Jun2025 05:38:09.435] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[05Jun2025 05:38:09.436] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[05Jun2025 05:38:09.523] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Jun2025 05:38:09.524] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Jun2025 05:38:09.524] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[05Jun2025 05:38:09.524] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[05Jun2025 05:38:09.524] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[05Jun2025 05:38:09.524] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[05Jun2025 05:38:09.525] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[05Jun2025 05:38:09.571] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[05Jun2025 05:38:09.583] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[05Jun2025 05:38:09.585] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[05Jun2025 05:38:09.588] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[05Jun2025 05:38:09.588] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[05Jun2025 05:38:09.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[05Jun2025 05:38:09.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[05Jun2025 05:38:09.619] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[05Jun2025 09:04:10.315] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[05Jun2025 09:04:10.344] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[05Jun2025 09:04:10.612] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[05Jun2025 09:04:10.846] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[05Jun2025 09:04:11.230] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jun2025 09:04:11.230] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jun2025 09:04:12.871] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Jun2025 09:04:12.928] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
+[05Jun2025 09:04:12.934] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
+[05Jun2025 09:04:14.051] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
+[05Jun2025 09:04:18.972] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[05Jun2025 09:04:19.271] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[05Jun2025 09:04:19.342] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[05Jun2025 09:04:19.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[05Jun2025 09:04:19.486] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[05Jun2025 09:04:19.665] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[05Jun2025 09:04:19.678] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[05Jun2025 09:04:19.679] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[05Jun2025 09:04:19.680] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[05Jun2025 09:04:19.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[05Jun2025 09:04:19.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Starting version check at https://gist.githubusercontent.com/mgen256/59abe85e7950f2319e7538afe2f910ba/raw
+[05Jun2025 09:04:20.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additional_lights] Found status: UP_TO_DATE Current: 2.1.7 Target: null
+[05Jun2025 09:04:20.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jun2025 09:04:20.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[05Jun2025 09:04:20.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Jun2025 09:04:20.345] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[05Jun2025 09:04:20.345] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[05Jun2025 09:04:20.345] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[05Jun2025 09:04:20.441] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[05Jun2025 09:04:20.442] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[05Jun2025 09:04:20.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[05Jun2025 09:04:20.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[05Jun2025 09:04:20.493] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[05Jun2025 09:04:20.510] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[05Jun2025 09:04:20.512] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[05Jun2025 09:04:20.513] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[05Jun2025 09:04:20.513] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[05Jun2025 09:04:20.531] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[05Jun2025 05:38:09.693] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[05Jun2025 05:38:09.701] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[05Jun2025 05:38:09.702] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Jun2025 05:38:09.713] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Jun2025 05:38:09.718] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Jun2025 05:38:09.720] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[05Jun2025 05:38:09.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[05Jun2025 05:38:09.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[05Jun2025 05:38:10.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
-[05Jun2025 05:38:10.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[05Jun2025 05:38:11.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10.0.1
-[05Jun2025 05:38:11.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[05Jun2025 05:38:11.153] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Jun2025 09:04:20.604] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[05Jun2025 09:04:20.614] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[05Jun2025 09:04:20.615] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Jun2025 09:04:20.631] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Jun2025 09:04:20.636] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Jun2025 09:04:20.639] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[05Jun2025 09:04:21.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[05Jun2025 09:04:21.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[05Jun2025 09:04:21.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10.0.1
+[05Jun2025 09:04:21.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[05Jun2025 09:04:21.918] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -204,8 +204,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[05Jun2025 05:38:11.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[05Jun2025 05:38:11.165] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Jun2025 09:04:21.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[05Jun2025 09:04:21.944] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -220,23 +220,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[05Jun2025 05:38:15.231] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jun2025 05:38:20.965] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
-[05Jun2025 05:38:20.965] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
-[05Jun2025 05:38:21.911] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.913] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.914] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.917] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.918] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.918] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.919] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.919] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.920] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:21.920] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[05Jun2025 05:38:23.882] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Jun2025 05:38:25.291] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Jun2025 05:38:25.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[05Jun2025 05:38:25.318] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
+[05Jun2025 09:04:28.020] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jun2025 09:04:33.649] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[05Jun2025 09:04:33.650] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[05Jun2025 09:04:34.497] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.499] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.499] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.504] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.505] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.505] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.506] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.506] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.507] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:34.507] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[05Jun2025 09:04:36.643] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Jun2025 09:04:38.233] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Jun2025 09:04:38.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[05Jun2025 09:04:38.272] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
 com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
@@ -269,776 +269,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Jun2025 05:38:25.361] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[05Jun2025 05:38:25.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[05Jun2025 05:38:25.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[05Jun2025 05:38:25.420] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[05Jun2025 05:38:25.425] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[05Jun2025 05:38:25.427] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[05Jun2025 05:38:25.435] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[05Jun2025 05:38:25.442] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[05Jun2025 05:38:25.501] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
-[05Jun2025 05:38:25.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4662 advancements
-[05Jun2025 05:38:25.667] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[05Jun2025 05:38:25.668] [main/INFO] [Dungeon Crawl/]: Loading data...
-[05Jun2025 05:38:26.050] [main/INFO] [Dungeon Crawl/]: Done.
-[05Jun2025 05:38:26.060] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[05Jun2025 05:38:26.075] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[05Jun2025 05:38:26.079] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[05Jun2025 05:38:26.080] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[05Jun2025 05:38:26.119] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[05Jun2025 05:38:30.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Jun2025 05:38:30.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jun2025 05:38:30.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jun2025 05:38:30.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jun2025 05:38:30.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jun2025 05:38:30.401] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jun2025 05:38:30.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jun2025 05:38:30.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jun2025 05:38:30.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jun2025 05:38:30.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jun2025 05:38:30.781] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[05Jun2025 05:38:30.781] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[05Jun2025 05:38:30.782] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[05Jun2025 05:38:30.782] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[05Jun2025 05:38:30.782] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[05Jun2025 05:38:30.783] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[05Jun2025 05:38:30.783] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[05Jun2025 05:38:30.784] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[05Jun2025 05:38:30.784] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[05Jun2025 05:38:30.784] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[05Jun2025 05:38:30.808] [Server thread/INFO] [Framework/]: Loading server configs...
-[05Jun2025 05:38:31.459] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Jun2025 05:38:31.460] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Jun2025 05:38:31.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jun2025 05:38:41.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jun2025 05:38:47.918] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:47.944] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:47.948] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.049] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.062] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.083] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.118] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.121] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.128] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.133] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.421] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jun2025 05:38:48.921] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[05Jun2025 05:38:49.421] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[05Jun2025 05:38:49.480] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7559 ms
-[05Jun2025 05:38:49.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.968s)! For help, type "help"
-[05Jun2025 05:38:49.542] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jun2025 05:38:49.554] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Jun2025 05:38:49.554] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Jun2025 05:38:49.556] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[05Jun2025 05:38:49.557] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[05Jun2025 05:38:49.567] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[05Jun2025 05:41:23.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:53955] logged in with entity id 142 at (122.20359947428315, 65.0, 1398.1510999868706)
-[05Jun2025 05:41:23.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[05Jun2025 05:41:23.290] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[05Jun2025 05:41:24.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[05Jun2025 05:41:24.619] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[05Jun2025 05:42:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3097 block(s)]
-[05Jun2025 05:42:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 1454 block(s)]
-[05Jun2025 05:43:09.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 05:44:11.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:50867] logged in with entity id 1147 at (61.45453186859059, 70.42825789321378, 1367.2996024005672)
-[05Jun2025 05:44:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 05:44:12.037] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 05:44:13.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 05:44:13.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 05:44:38.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Mieko_]
-[05Jun2025 05:44:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> onde vas hacer el spawn
-[05Jun2025 05:46:50.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 420 block(s)]
-[05Jun2025 05:47:25.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 600 block(s)]
-[05Jun2025 05:47:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Stone Age]
-[05Jun2025 05:48:27.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:34703] logged in with entity id 2072 at (1.5, 113.0, 2.5)
-[05Jun2025 05:48:27.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
-[05Jun2025 05:48:28.040] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
-[05Jun2025 05:48:28.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Ice and Fire]
-[05Jun2025 05:48:30.503] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
-[05Jun2025 05:48:30.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
-[05Jun2025 05:50:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
-[05Jun2025 05:50:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :c
-[05Jun2025 05:51:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Nekkai_ to Izhug]
-[05Jun2025 05:51:10.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> estoy mrd
-[05Jun2025 05:51:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> viendo
-[05Jun2025 05:51:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que mi pc se murio
-[05Jun2025 05:51:15.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has been revived!
-[05Jun2025 05:51:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y me ataca un mob
-[05Jun2025 05:51:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la ptmr
-[05Jun2025 05:51:19.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nouuu
-[05Jun2025 05:51:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> literal solo tengo mine
-[05Jun2025 05:51:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> lo demas es pantalla negra
-[05Jun2025 05:51:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ff
-[05Jun2025 05:51:43.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ahorita lo arreglo
-[05Jun2025 05:51:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> dale
-[05Jun2025 05:52:23.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
-[05Jun2025 05:52:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
-[05Jun2025 05:52:23.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
-[05Jun2025 05:53:41.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:59271] logged in with entity id 3520 at (60.153559441323154, 76.40760095641001, 1323.9612008716213)
-[05Jun2025 05:53:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[05Jun2025 05:53:41.637] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[05Jun2025 05:53:41.890] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[05Jun2025 05:53:41.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[05Jun2025 05:53:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 05:55:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ja lo arregle
-[05Jun2025 05:55:15.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:49645] logged in with entity id 3732 at (-5.5, 110.0, 6.5)
-[05Jun2025 05:55:16.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
-[05Jun2025 05:55:16.060] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
-[05Jun2025 05:55:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Ice and Fire]
-[05Jun2025 05:55:16.698] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
-[05Jun2025 05:55:16.699] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
-[05Jun2025 05:55:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> asi los queria cachar
-[05Jun2025 05:55:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> jugando maicra sin invitar
-[05Jun2025 05:55:42.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Alex's Mobs]
-[05Jun2025 05:55:42.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> apenas me conecte xd
-[05Jun2025 05:55:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> La entrada cuesta 50 pesos
-[05Jun2025 05:55:52.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> estan en llamada aun? xd
-[05Jun2025 05:56:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oe
-[05Jun2025 05:56:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> si pero esta afk
-[05Jun2025 05:56:05.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero que quieren que haga en supervivencia :p?
-[05Jun2025 05:56:07.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> mandep
-[05Jun2025 05:56:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> puedo ir consiguiendo mis cosas?
-[05Jun2025 05:56:53.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ns
-[05Jun2025 05:57:01.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terroris8910[/127.219.249.19:40719] logged in with entity id 4469 at (3.5, 99.0, -9.5)
-[05Jun2025 05:57:01.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 joined the game
-[05Jun2025 05:57:01.230] [Server thread/INFO] [Jade/]: Syncing config to Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8)
-[05Jun2025 05:57:01.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Ice and Fire]
-[05Jun2025 05:57:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Nekkai_'s game mode to Creative Mode]
-[05Jun2025 05:57:05.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Terroris8910 (18)
-[05Jun2025 05:57:05.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
-[05Jun2025 05:57:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si no esta simetrico yo exploto todo
-[05Jun2025 05:58:01.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=109, z=-11}
-[05Jun2025 05:58:01.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=109, z=-11}
-[05Jun2025 05:58:01.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=108, z=-11}
-[05Jun2025 05:58:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 5 entities to Mieko_]
-[05Jun2025 05:59:19.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> como lo quiere hacer terro
-[05Jun2025 05:59:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sabes cual estaria cool
-[05Jun2025 05:59:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Terroris8910's game mode to Creative Mode]
-[05Jun2025 05:59:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el keepinventory
-[05Jun2025 05:59:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> digo el
-[05Jun2025 05:59:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> worldedit
-[05Jun2025 05:59:50.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
-[05Jun2025 05:59:50.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 05:59:50.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 06:00:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Stone Age]
-[05Jun2025 06:01:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pues no chambees
-[05Jun2025 06:01:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pero te quitan op
-[05Jun2025 06:01:29.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KKASKLSALKSA
-[05Jun2025 06:01:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y te pusieron a trabajar
-[05Jun2025 06:01:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> decadencia de mieko
-[05Jun2025 06:01:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ZZZZZ
-[05Jun2025 06:02:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Stone Age]
-[05Jun2025 06:02:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set SnowyCW1's game mode to Creative Mode]
-[05Jun2025 06:02:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 4 entities to Terroris8910]
-[05Jun2025 06:02:38.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya te regañaron snowy
-[05Jun2025 06:03:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me llamaron a un match creo
-[05Jun2025 06:03:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 06:03:38.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:54189] logged in with entity id 7164 at (60.15652244522545, 63.0, 1326.9508479108626)
-[05Jun2025 06:03:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 06:03:38.538] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 06:03:41.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 06:03:41.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 06:03:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> afk
-[05Jun2025 06:04:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
-[05Jun2025 06:04:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to SnowyCW1]
-[05Jun2025 06:04:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Made Nekkai_ a server operator]
-[05Jun2025 06:04:28.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
-[05Jun2025 06:04:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported SnowyCW1 to Mieko_]
-[05Jun2025 06:05:27.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 lost connection: Disconnected
-[05Jun2025 06:05:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 left the game
-[05Jun2025 06:05:27.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Terroris8910
-[05Jun2025 06:05:51.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
-[05Jun2025 06:06:38.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
-[05Jun2025 06:06:38.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 06:06:38.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 06:06:38.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Jun2025 06:06:47.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Timed out
-[05Jun2025 06:06:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
-[05Jun2025 06:06:47.088] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
-[05Jun2025 06:07:13.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:48651] logged in with entity id 8239 at (18.8755010586807, 63.0, 1399.1555694347799)
-[05Jun2025 06:07:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 06:07:13.838] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 06:07:13.923] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 06:07:13.924] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 06:08:02.888] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1181dd77[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:33587) lost connection: Disconnected
-[05Jun2025 06:08:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 3 entities to Izhug]
-[05Jun2025 06:08:25.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
-[05Jun2025 06:08:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
-[05Jun2025 06:08:25.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
-[05Jun2025 06:08:30.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4da6b3dc[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:50477) lost connection: Disconnected
-[05Jun2025 06:09:29.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@789004bb[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:44327) lost connection: Disconnected
-[05Jun2025 06:09:34.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terroris8910[/127.219.249.19:55819] logged in with entity id 8766 at (64.77132360770828, 65.0, 1346.7114856706366)
-[05Jun2025 06:09:34.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 joined the game
-[05Jun2025 06:09:34.565] [Server thread/INFO] [Jade/]: Syncing config to Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8)
-[05Jun2025 06:09:37.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Terroris8910 (18)
-[05Jun2025 06:09:37.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
-[05Jun2025 06:09:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> gg no nekka
-[05Jun2025 06:10:08.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:45565] logged in with entity id 8864 at (18.529826362008826, 63.0, 1395.991278064135)
-[05Jun2025 06:10:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
-[05Jun2025 06:10:08.623] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
-[05Jun2025 06:10:08.839] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
-[05Jun2025 06:10:08.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
-[05Jun2025 06:11:41.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Disconnected
-[05Jun2025 06:11:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
-[05Jun2025 06:11:41.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
-[05Jun2025 06:13:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 06:16:01.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
-[05Jun2025 06:16:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 06:16:01.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 06:17:32.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:60341] logged in with entity id 10914 at (64.42655790182407, 85.0, 1324.433271141574)
-[05Jun2025 06:17:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 06:17:32.761] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 06:17:32.893] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 06:17:32.893] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 06:17:58.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> mande
-[05Jun2025 06:18:17.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:41617] logged in with entity id 11048 at (62.471841646436665, 63.0, 1349.998876825411)
-[05Jun2025 06:18:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
-[05Jun2025 06:18:17.405] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
-[05Jun2025 06:18:18.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
-[05Jun2025 06:18:18.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
-[05Jun2025 06:18:18.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> xd me hablo mi ama
-[05Jun2025 06:18:20.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> JAJAS
-[05Jun2025 06:18:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> XDDDD
-[05Jun2025 06:18:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> YAAA
-[05Jun2025 06:18:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 06:18:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 06:19:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
-[05Jun2025 06:19:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 06:19:11.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to SnowyCW1]
-[05Jun2025 06:19:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> y el corpse?
-[05Jun2025 06:19:34.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> ya we
-[05Jun2025 06:19:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 315 item(s) from 4 players]
-[05Jun2025 06:19:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> hugo esta el corpse?
-[05Jun2025 06:19:56.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Disconnected
-[05Jun2025 06:19:56.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
-[05Jun2025 06:19:56.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
-[05Jun2025 06:20:43.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16caf710[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:54405) lost connection: Disconnected
-[05Jun2025 06:21:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> hugo esta el corpse?
-[05Jun2025 06:21:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 06:21:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 06:21:32.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> creo que no :(
-[05Jun2025 06:21:35.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 06:21:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ fell from a high place
-[05Jun2025 06:21:41.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39993344[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:34057) lost connection: Disconnected
-[05Jun2025 06:21:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
-[05Jun2025 06:21:59.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fdb20dd[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:41573) lost connection: Disconnected
-[05Jun2025 06:22:02.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Bring Home the Beacon]
-[05Jun2025 06:22:10.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:36303] logged in with entity id 12085 at (64.07499998807907, 63.0, 1355.3860568772823)
-[05Jun2025 06:22:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
-[05Jun2025 06:22:10.603] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
-[05Jun2025 06:22:10.816] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
-[05Jun2025 06:22:10.816] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
-[05Jun2025 06:22:14.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> se quedo afk y se desconecto
-[05Jun2025 06:22:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 06:23:22.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 06:23:42.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Beaconator]
-[05Jun2025 06:24:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Acquire Hardware]
-[05Jun2025 06:25:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 265 block(s)]
-[05Jun2025 06:26:09.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 265 block(s)]
-[05Jun2025 06:26:33.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> estoy buscando la madera normal xd
-[05Jun2025 06:27:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 265 block(s)]
-[05Jun2025 06:28:11.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 115 block(s)]
-[05Jun2025 06:29:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 255 block(s)]
-[05Jun2025 06:31:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3 block(s)]
-[05Jun2025 06:31:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 149 block(s)]
-[05Jun2025 06:31:41.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 76 block(s)]
-[05Jun2025 06:32:05.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 76 block(s)]
-[05Jun2025 06:32:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 76 block(s)]
-[05Jun2025 06:32:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 76 block(s)]
-[05Jun2025 06:32:59.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 06:33:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 91 block(s)]
-[05Jun2025 06:36:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 50 block(s)]
-[05Jun2025 06:36:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 50 block(s)]
-[05Jun2025 06:37:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 66 block(s)]
-[05Jun2025 06:37:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 81 block(s)]
-[05Jun2025 06:37:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 123 block(s)]
-[05Jun2025 06:38:23.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Disconnected
-[05Jun2025 06:38:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
-[05Jun2025 06:38:23.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
-[05Jun2025 06:38:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 184 block(s)]
-[05Jun2025 06:39:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 48 block(s)]
-[05Jun2025 06:39:31.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 48 block(s)]
-[05Jun2025 06:43:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nmms terro que perron
-[05Jun2025 06:46:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Izhug]
-[05Jun2025 06:46:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
-[05Jun2025 06:47:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> spawn
-[05Jun2025 06:47:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
-[05Jun2025 06:48:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the weather to clear]
-[05Jun2025 06:53:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Barrier] to 3]
-[05Jun2025 06:54:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Pic-A-Nic Basket?]
-[05Jun2025 06:54:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Monster Hunter]
-[05Jun2025 06:56:44.669] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[05Jun2025 06:56:44.669] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
-[05Jun2025 06:56:44.777] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 06:58:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
-[05Jun2025 06:58:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Terroris8910's game mode to Survival Mode]
-[05Jun2025 06:59:47.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Terroris8910's game mode to Creative Mode]
-[05Jun2025 07:00:41.841] [Server thread/WARN] [jeg/]: literal{Izhug}(7b369a12-8a6d-3740-ad13-f7f98244bb35) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:01:33.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [I Put a Spell on You]
-[05Jun2025 07:01:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:01:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:01:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
-[05Jun2025 07:01:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:02:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
-[05Jun2025 07:02:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:02:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
-[05Jun2025 07:03:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Revive Me, I Have a Raygun]
-[05Jun2025 07:03:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Revive Me, I Have a Raygun]
-[05Jun2025 07:03:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [I Am Become Death]
-[05Jun2025 07:04:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [I Am Become Death]
-[05Jun2025 07:04:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Paint It Black]
-[05Jun2025 07:04:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Black Velvet]
-[05Jun2025 07:05:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:05:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 5555.500000, 123.000000, 9998.500000]
-[05Jun2025 07:05:40.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
-[05Jun2025 07:05:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 5555.500000, 123.000000, 9998.500000]
-[05Jun2025 07:07:25.887] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5044, y=-36, z=10039}
-[05Jun2025 07:07:50.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -8.662837797194697,-0.4631410181459614,-5.651888315449469
-[05Jun2025 07:07:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[05Jun2025 07:07:56.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! 7.925508843229441,0.0,6.641890727904638
-[05Jun2025 07:07:58.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -2.097071804128973,-6.000000238405946,8.094571843263111
-[05Jun2025 07:08:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:08:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:08:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Terroris8910 to Mieko_]
-[05Jun2025 07:08:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
-[05Jun2025 07:08:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> no
-[05Jun2025 07:08:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> yo no
-[05Jun2025 07:08:54.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [The One Who Knocks]
-[05Jun2025 07:08:56.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ah
-[05Jun2025 07:09:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:09:32.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:10:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [The One Who Knocks]
-[05Jun2025 07:10:40.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 21.475908273624555,3.8134755028365888,29.482709544185127
-[05Jun2025 07:10:40.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -6.220976571141364,3.2566302071059017,9.069872959471468
-[05Jun2025 07:10:42.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[05Jun2025 07:10:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:11:03.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6594ms or 131 ticks behind
-[05Jun2025 07:11:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Adventure Mode]
-[05Jun2025 07:11:40.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[05Jun2025 07:11:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:12:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:12:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has completed the challenge [We'll Meet Again]
-[05Jun2025 07:12:28.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -10.523315320248912,-0.24760043850295688,-0.793254371101284
-[05Jun2025 07:12:30.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
-[05Jun2025 07:12:32.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -10.0,6.0,-8.0
-[05Jun2025 07:12:43.848] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[05Jun2025 07:12:43.849] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@58223a7c[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:42915): Unexpected custom data from client
-[05Jun2025 07:12:43.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58223a7c[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:42915) lost connection: Unexpected custom data from client
-[05Jun2025 07:12:45.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Stone Age]
-[05Jun2025 07:12:58.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13306ms or 266 ticks behind
-[05Jun2025 07:12:59.747] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[05Jun2025 07:12:59.747] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@58e481dc[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:60893): Unexpected custom data from client
-[05Jun2025 07:12:59.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58e481dc[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:60893) lost connection: Unexpected custom data from client
-[05Jun2025 07:13:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Diamonds!]
-[05Jun2025 07:13:17.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
-[05Jun2025 07:13:31.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 122 item(s) from player Mieko_]
-[05Jun2025 07:13:35.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[05Jun2025 07:13:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ drowned
-[05Jun2025 07:13:39.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 99 item(s) from 3 players]
-[05Jun2025 07:13:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:13:53.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
-[05Jun2025 07:13:53.325] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[05Jun2025 07:13:53.325] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2af79b75[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:52803): Unexpected custom data from client
-[05Jun2025 07:13:53.356] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2af79b75[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:52803) lost connection: Unexpected custom data from client
-[05Jun2025 07:14:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
-[05Jun2025 07:14:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:14:13.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:14:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 1921 entities]
-[05Jun2025 07:14:14.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5700ms or 114 ticks behind
-[05Jun2025 07:14:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 15 item(s) from 3 players]
-[05Jun2025 07:14:29.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.39793866022650093,-11.565494012811726,0.6628187229628111
-[05Jun2025 07:14:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
-[05Jun2025 07:14:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 07:14:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:14:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:14:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
-[05Jun2025 07:14:57.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
-[05Jun2025 07:15:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has been revived!
-[05Jun2025 07:15:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nose xd
-[05Jun2025 07:15:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Century Egg]
-[05Jun2025 07:16:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:16:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 3 targets]
-[05Jun2025 07:16:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Century Egg]
-[05Jun2025 07:17:57.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -10.39925897799094,3.0660001181944025,-0.6633923166755267
-[05Jun2025 07:18:23.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -34.53025077638813,10.400198325199995,-6.109753923679818
-[05Jun2025 07:18:23.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -41.11466528424535,11.664416665072668,-8.867868945189912
-[05Jun2025 07:18:25.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05Jun2025 07:18:55.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14765ms or 295 ticks behind
-[05Jun2025 07:19:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
-[05Jun2025 07:19:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:19:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:19:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 1842 entities]
-[05Jun2025 07:19:42.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
-[05Jun2025 07:19:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 07:19:56.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has been revived!
-[05Jun2025 07:20:05.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:20:16.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
-[05Jun2025 07:20:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 3 targets]
-[05Jun2025 07:20:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed every effect from 3 targets]
-[05Jun2025 07:20:53.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to Terroris8910]
-[05Jun2025 07:20:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 3 targets]
-[05Jun2025 07:21:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:21:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Terroris8910]
-[05Jun2025 07:21:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 was killed
-[05Jun2025 07:21:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Terroris8910]
-[05Jun2025 07:22:14.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -0.7802277315092851,-0.5776479580075033,-10.847161428237541
-[05Jun2025 07:22:28.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Terroris8910 to Mieko_]
-[05Jun2025 07:22:34.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -0.054635508923638554,-11.880695960497727,0.05763959025716758
-[05Jun2025 07:22:44.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -8.743791843288818,-0.19352529374938499,6.340285385151219
-[05Jun2025 07:22:51.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -5.638655886014021,-0.39000001549720764,-8.257282485388714
-[05Jun2025 07:22:51.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -3.9143338995518207,-10.529682859006233,-0.5561068334900483
-[05Jun2025 07:22:56.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -1.2879665498276154,3.7500001182346665,-9.793121736269313
-[05Jun2025 07:22:59.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! 2.344074148904838,2.2785951128676842,-9.914195810728415
-[05Jun2025 07:22:59.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -7.170301699314223,0.0,-7.7477593080275255
-[05Jun2025 07:23:05.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -6.174504264240568,3.3750001109458623,-7.112863907872452
-[05Jun2025 07:23:09.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -4.789212035386299,-3.3694398450745133,8.419199736483279
-[05Jun2025 07:23:09.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -6.572571132879602,3.3750001306644126,-6.779172469920013
-[05Jun2025 07:23:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[05Jun2025 07:23:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Terroris8910 to Mieko_]
-[05Jun2025 07:24:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:25:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [The Folly of Man]
-[05Jun2025 07:25:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [The Folly of Man]
-[05Jun2025 07:25:04.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -27.40613258180929,0.20000004768371582,-0.9243507264109212
-[05Jun2025 07:25:04.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.40613258180929,3.217479435765064,-0.9243507264109212
-[05Jun2025 07:25:04.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.40613258180929,3.217479435765064,-0.9243507264109212
-[05Jun2025 07:25:05.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.40613258180929,3.217479435765064,-0.9243507264109212
-[05Jun2025 07:25:05.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.424493271849315,3.238861536759593,-0.9312079067003651
-[05Jun2025 07:25:05.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.424493271849315,3.260514749652856,-0.9312079067003651
-[05Jun2025 07:25:05.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.44285396188934,3.260514749652856,-0.9380650869898091
-[05Jun2025 07:25:05.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.424493271849315,3.238861536759593,-0.9312079067003651
-[05Jun2025 07:25:05.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.40613258180929,3.217479435765064,-0.9243507264109212
-[05Jun2025 07:25:05.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -25.387771891769262,3.1963634239464582,-1.9174935461214773
-[05Jun2025 07:25:06.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -29.369411201729235,3.175507868504411,-8.910636365832033
-[05Jun2025 07:26:18.585] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 108
-[05Jun2025 07:26:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 54 [Totem of Undying] to Mieko_]
-[05Jun2025 07:26:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 54 [Totem of Undying] to Mieko_]
-[05Jun2025 07:26:43.836] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 256
-[05Jun2025 07:26:52.799] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 84
-[05Jun2025 07:26:53.087] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:26:54.437] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:26:57.787] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:26:57.937] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[05Jun2025 07:26:58.238] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:26:58.547] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 88
-[05Jun2025 07:26:59.046] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
-[05Jun2025 07:27:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
-[05Jun2025 07:27:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:27:03.488] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[05Jun2025 07:27:03.541] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
-[05Jun2025 07:27:04.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:27:38.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! 4.537033783231891,6.000000238256209,-7.4585545781283145
-[05Jun2025 07:27:38.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
-[05Jun2025 07:27:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:27:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was melted by a radioactive beam by Tremorzilla
-[05Jun2025 07:27:52.841] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
-[05Jun2025 07:27:55.251] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
-[05Jun2025 07:27:55.251] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
-[05Jun2025 07:27:55.278] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 121
-[05Jun2025 07:28:16.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:28:20.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:28:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
-[05Jun2025 07:28:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:28:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:28:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 612 entities]
-[05Jun2025 07:28:44.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Draconic Evolution]
-[05Jun2025 07:28:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
-[05Jun2025 07:28:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
-[05Jun2025 07:28:52.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
-[05Jun2025 07:29:04.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
-[05Jun2025 07:29:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
-[05Jun2025 07:29:44.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 3 targets]
-[05Jun2025 07:29:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Uranium Fever]
-[05Jun2025 07:30:50.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:48427] logged in with entity id 44374 at (68.5, 78.0, 1315.5)
-[05Jun2025 07:30:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
-[05Jun2025 07:30:50.212] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
-[05Jun2025 07:30:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Ice and Fire]
-[05Jun2025 07:30:52.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
-[05Jun2025 07:30:52.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
-[05Jun2025 07:31:09.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 4 targets]
-[05Jun2025 07:31:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
-[05Jun2025 07:31:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
-[05Jun2025 07:31:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:31:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> erga
-[05Jun2025 07:31:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
-[05Jun2025 07:31:36.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
-[05Jun2025 07:31:39.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -0.3901093599597516,-11.194323842909405,0.5369643184822053
-[05Jun2025 07:31:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:31:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set capitanchela's game mode to Creative Mode]
-[05Jun2025 07:31:42.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5129, y=-61, z=9903} BlockPos{x=5130, y=-63, z=9904}
-[05Jun2025 07:31:42.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5129, y=-61, z=9903} BlockPos{x=5131, y=-62, z=9903}
-[05Jun2025 07:31:47.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Draconic Evolution]
-[05Jun2025 07:32:10.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
-[05Jun2025 07:32:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Draconic Evolution]
-[05Jun2025 07:32:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Mieko_]
-[05Jun2025 07:33:34.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 9.096216070605806,0.0,-4.933372928311655
-[05Jun2025 07:33:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 963 block(s)]
-[05Jun2025 07:34:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 707 block(s)]
-[05Jun2025 07:34:19.928] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 299
-[05Jun2025 07:34:25.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 3.585328454413684,0.0,-9.88984616410562
-[05Jun2025 07:34:28.177] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 413
-[05Jun2025 07:34:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 1015 block(s)]
-[05Jun2025 07:35:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> oye mieko
-[05Jun2025 07:35:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> estaria chido que hicieran una prision
-[05Jun2025 07:35:37.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aca como en karmaland
-[05Jun2025 07:35:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ajam
-[05Jun2025 07:37:07.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ola
-[05Jun2025 07:37:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me aliste ala maña god
-[05Jun2025 07:38:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> es de crash creo
-[05Jun2025 07:38:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 816 block(s)]
-[05Jun2025 07:38:58.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3548 block(s)]
-[05Jun2025 07:40:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Light] to Izhug]
-[05Jun2025 07:40:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> x2
-[05Jun2025 07:40:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed every effect from Izhug]
-[05Jun2025 07:41:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me bajan
-[05Jun2025 07:41:43.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no
-[05Jun2025 07:41:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
-[05Jun2025 07:41:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si
-[05Jun2025 07:42:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:42:57.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Flexible Schedule]
-[05Jun2025 07:43:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set capitanchela's game mode to Survival Mode]
-[05Jun2025 07:43:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 07:43:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mieko
-[05Jun2025 07:43:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> cuanto te bajo?
-[05Jun2025 07:44:19.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tp
-[05Jun2025 07:44:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Stone Age]
-[05Jun2025 07:44:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Monster Hunter]
-[05Jun2025 07:44:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 07:44:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported capitanchela to Mieko_]
-[05Jun2025 07:44:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me tiro
-[05Jun2025 07:44:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
-[05Jun2025 07:44:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Hard]
-[05Jun2025 07:44:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Uranium Fever]
-[05Jun2025 07:45:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Mieko_ to capitanchela]
-[05Jun2025 07:45:27.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.5792098991614694,0.0,-10.455246008210452
-[05Jun2025 07:45:46.482] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 370
-[05Jun2025 07:45:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 569 block(s)]
-[05Jun2025 07:45:56.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.016423367802417488,0.0,-10.560366506764694
-[05Jun2025 07:46:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 612 block(s)]
-[05Jun2025 07:46:33.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 5.947042284238705,0.0,8.092969229785012
-[05Jun2025 07:47:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 462 block(s)]
-[05Jun2025 07:47:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Mieko_ to Izhug]
-[05Jun2025 07:48:08.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -18.338043089494022,0.8148913921326439,24.98728397582454
-[05Jun2025 07:48:08.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -16.411119406482612,0.9031735060746868,35.78896824309777
-[05Jun2025 07:48:08.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -5.410381030814278,0.42156857579603013,10.147781120271247
-[05Jun2025 07:48:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Netherite Sword] to Izhug]
-[05Jun2025 07:48:10.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
-[05Jun2025 07:48:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> alv
-[05Jun2025 07:48:34.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9172ms or 183 ticks behind
-[05Jun2025 07:49:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 1243 block(s)]
-[05Jun2025 07:49:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> gg chernovil se queda pendejo con la radiacion que tengo
-[05Jun2025 07:49:31.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
-[05Jun2025 07:49:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 07:49:31.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 07:49:31.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 4.655592672684179,4.875000193650539,-7.67569448120048
-[05Jun2025 07:49:34.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
-[05Jun2025 07:49:34.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
-[05Jun2025 07:49:34.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
-[05Jun2025 07:50:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug was killed
-[05Jun2025 07:50:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:50:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Killed 1038 entities]
-[05Jun2025 07:50:10.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:44345] logged in with entity id 54341 at (5133.165043436524, -38.0, 9905.465758833589)
-[05Jun2025 07:50:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 07:50:10.482] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 07:50:10.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 07:50:10.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 07:50:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Terroris8910]
-[05Jun2025 07:50:38.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
-[05Jun2025 07:50:50.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:55785] logged in with entity id 54417 at (5132.894422144787, -38.0, 9900.478097699937)
-[05Jun2025 07:50:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
-[05Jun2025 07:50:50.418] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
-[05Jun2025 07:50:50.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
-[05Jun2025 07:50:50.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
-[05Jun2025 07:50:55.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Crisis Adverted]
-[05Jun2025 07:50:55.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
-[05Jun2025 07:51:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Revive Me, I Have a Raygun]
-[05Jun2025 07:51:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
-[05Jun2025 07:52:21.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> QUE
-[05Jun2025 07:52:21.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
-[05Jun2025 07:52:21.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
-[05Jun2025 07:52:21.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
-[05Jun2025 07:52:21.886] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
-[05Jun2025 07:52:28.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ was kicked for floating too long!
-[05Jun2025 07:52:28.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Flying is not enabled on this server
-[05Jun2025 07:52:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 07:52:28.530] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 07:53:06.276] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e35a303[id=<null>,name=capitanchela,properties={},legacy=false] (/127.212.32.219:55721) lost connection: Disconnected
-[05Jun2025 07:53:09.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:36097] logged in with entity id 54843 at (5116.377250759768, -36.4516931215527, 9927.737415046)
-[05Jun2025 07:53:09.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 07:53:09.428] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 07:53:09.531] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 07:53:09.531] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 07:53:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: The difficulty has been set to Peaceful]
-[05Jun2025 07:53:23.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:48381] logged in with entity id 54953 at (5124.915423853267, -36.74779665974627, 9915.75370268067)
-[05Jun2025 07:53:23.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
-[05Jun2025 07:53:23.197] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
-[05Jun2025 07:53:23.525] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
-[05Jun2025 07:53:23.525] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
-[05Jun2025 07:53:26.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ was kicked for floating too long!
-[05Jun2025 07:53:26.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Flying is not enabled on this server
-[05Jun2025 07:53:26.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 07:53:26.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 07:53:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: The difficulty has been set to Normal]
-[05Jun2025 07:53:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: The difficulty has been set to Peaceful]
-[05Jun2025 07:53:51.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:54393] logged in with entity id 55065 at (5116.377250759768, -36.4516931215527, 9927.737415046)
-[05Jun2025 07:53:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
-[05Jun2025 07:53:51.422] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
-[05Jun2025 07:53:51.648] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
-[05Jun2025 07:53:51.648] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
-[05Jun2025 07:53:54.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> como recargo?
-[05Jun2025 07:54:18.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> como recargo
-[05Jun2025 07:54:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:54:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: The difficulty has been set to Normal]
-[05Jun2025 07:55:40.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has completed the challenge [Praise the Sun]
-[05Jun2025 07:55:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
-[05Jun2025 07:55:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has reached the goal [Arachnophobe's Nightmare]
-[05Jun2025 07:55:58.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[05Jun2025 07:55:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has completed the challenge [Rude Awakening]
-[05Jun2025 07:56:06.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Arachnophobe's Nightmare]
-[05Jun2025 07:56:26.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has completed the challenge [Just a Flesh Wound]
-[05Jun2025 07:56:29.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [Arachnophobe's Nightmare]
-[05Jun2025 07:56:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has reached the goal [Postmortal]
-[05Jun2025 07:57:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:57:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
-[05Jun2025 07:57:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:57:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Baby Spider
-[05Jun2025 07:57:35.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Alex's Mobs]
-[05Jun2025 07:57:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> la verga
-[05Jun2025 07:57:56.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me follaron chavales
-[05Jun2025 07:57:58.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved wrongly!
-[05Jun2025 07:58:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Sneak 100]
-[05Jun2025 07:58:16.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:58:19.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aver tp
-[05Jun2025 07:58:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was slain by Warden
-[05Jun2025 07:58:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported capitanchela to Izhug]
-[05Jun2025 07:58:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:58:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to capitanchela]
-[05Jun2025 07:58:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela was slain by Murmur
-[05Jun2025 07:58:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
-[05Jun2025 07:58:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Peaceful]
-[05Jun2025 07:58:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
-[05Jun2025 07:58:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
-[05Jun2025 07:58:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
-[05Jun2025 07:58:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 07:58:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 225 entities]
-[05Jun2025 07:59:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported capitanchela to Izhug]
-[05Jun2025 07:59:14.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 07:59:34.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
-[05Jun2025 07:59:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
-[05Jun2025 08:00:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> un criper electrico
-[05Jun2025 08:00:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Mieko_]
-[05Jun2025 08:01:18.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> esta armadura esta rota
-[05Jun2025 08:01:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed every effect from 4 targets]
-[05Jun2025 08:01:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> toma de mi leche terro
-[05Jun2025 08:01:30.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
-[05Jun2025 08:01:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
-[05Jun2025 08:01:50.689] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 86
-[05Jun2025 08:02:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> miko
-[05Jun2025 08:02:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mieko
-[05Jun2025 08:02:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> toma de mi leche
-[05Jun2025 08:03:00.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> yo no puedo recargar xd
-[05Jun2025 08:03:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> y no tengo armas
-[05Jun2025 08:03:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 08:03:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Terroris8910's game mode to Survival Mode]
-[05Jun2025 08:03:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Netherite Chestplate] to Izhug]
-[05Jun2025 08:03:40.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> el rifle me baja los fps...
-[05Jun2025 08:04:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Command Block] to Izhug]
-[05Jun2025 08:05:07.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Voidic Protection]
-[05Jun2025 08:05:29.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Bow] to Izhug]
-[05Jun2025 08:06:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Survival Mode]
-[05Jun2025 08:06:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Easy]
-[05Jun2025 08:06:59.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has reached the goal [Magnetron No More]
-[05Jun2025 08:07:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Postmortal]
-[05Jun2025 08:07:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
-[05Jun2025 08:07:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
-[05Jun2025 08:07:33.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Teletor's Telecore]
-[05Jun2025 08:07:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> es la neterite con cantamientos al limite
-[05Jun2025 08:07:40.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 34 [Totem of Undying] to 4]
-[05Jun2025 08:08:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> comid
-[05Jun2025 08:08:09.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 08:08:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Teletor's Telecore]
-[05Jun2025 08:08:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Take Aim]
-[05Jun2025 08:09:10.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Stay dead]
-[05Jun2025 08:09:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Stay dead]
-[05Jun2025 08:09:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Walking Dead]
-[05Jun2025 08:09:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Peekaboo, I (still) see you!]
-[05Jun2025 08:09:48.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Walking Dead]
-[05Jun2025 08:10:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Stay dead]
-[05Jun2025 08:10:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Peekaboo, I (still) see you!]
-[05Jun2025 08:10:31.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Horror Under the Mantle]
-[05Jun2025 08:10:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Monster Hunter]
-[05Jun2025 08:10:47.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Dark Creator]
-[05Jun2025 08:10:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Source of Evil]
-[05Jun2025 08:10:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Wrong Santa]
-[05Jun2025 08:11:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Source of Evil]
-[05Jun2025 08:11:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Pumpkin Sir]
-[05Jun2025 08:11:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Acquire Hardware]
-[05Jun2025 08:12:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Dark Metallurgy]
-[05Jun2025 08:12:34.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug was kicked for floating too long!
-[05Jun2025 08:12:34.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Flying is not enabled on this server
-[05Jun2025 08:12:34.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
-[05Jun2025 08:12:34.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
-[05Jun2025 08:12:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Life turned out to be a comedy]
-[05Jun2025 08:12:57.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:46445] logged in with entity id 66592 at (5147.442976166295, -36.74779665974627, 9910.068850216605)
-[05Jun2025 08:12:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[05Jun2025 08:12:57.426] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[05Jun2025 08:12:57.708] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[05Jun2025 08:12:57.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[05Jun2025 08:13:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Fighting Nightmares]
-[05Jun2025 08:13:04.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Good Demoman]
-[05Jun2025 08:13:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Life turned out to be a comedy]
-[05Jun2025 08:13:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Arachnophobe's Nightmare]
-[05Jun2025 08:13:28.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela was kicked for floating too long!
-[05Jun2025 08:13:28.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Flying is not enabled on this server
-[05Jun2025 08:13:28.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
-[05Jun2025 08:13:28.592] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
-[05Jun2025 08:13:38.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Timed out
-[05Jun2025 08:13:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
-[05Jun2025 08:13:38.185] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
-[05Jun2025 08:14:04.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:34949] logged in with entity id 72668 at (5106.113124355971, -36.82324072493576, 9898.800557309496)
-[05Jun2025 08:14:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
-[05Jun2025 08:14:05.011] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
-[05Jun2025 08:14:05.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
-[05Jun2025 08:14:05.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
-[05Jun2025 08:14:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Horror Under the Mantle]
-[05Jun2025 08:14:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [Pumpkin Sir]
-[05Jun2025 08:15:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has reached the goal [Fighting Nightmares]
-[05Jun2025 08:15:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Dark Metallurgy]
-[05Jun2025 08:15:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Source of Evil]
-[05Jun2025 08:15:50.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
-[05Jun2025 08:16:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 was slain by capitanchela
-[05Jun2025 08:16:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 08:16:36.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 lost connection: Timed out
-[05Jun2025 08:16:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 left the game
-[05Jun2025 08:16:36.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Terroris8910
-[05Jun2025 08:17:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que paso?
-[05Jun2025 08:18:34.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> hugo
-[05Jun2025 08:18:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> que es esto?
-[05Jun2025 08:18:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
-[05Jun2025 08:18:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> xddddd
-[05Jun2025 08:18:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nose
-[05Jun2025 08:19:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
-[05Jun2025 08:20:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> que void
-[05Jun2025 08:21:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si
-[05Jun2025 08:21:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> a que void esta esto
-[05Jun2025 08:22:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> me voy a salir para chechar algo xd
-[05Jun2025 08:22:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no me digan que hay dragones
-[05Jun2025 08:22:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> sip
-[05Jun2025 08:22:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> sis
-[05Jun2025 08:22:29.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
-[05Jun2025 08:22:29.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
-[05Jun2025 08:22:29.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
-[05Jun2025 08:22:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
-[05Jun2025 08:22:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
-[05Jun2025 08:22:31.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
-[05Jun2025 08:25:45.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:34659] logged in with entity id 75789 at (5126.17171004274, -38.0, 9931.80986738624)
-[05Jun2025 08:25:45.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
-[05Jun2025 08:25:45.696] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
-[05Jun2025 08:25:46.438] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
-[05Jun2025 08:25:46.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
-[05Jun2025 08:26:10.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
-[05Jun2025 08:26:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
-[05Jun2025 08:26:10.880] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[05Jun2025 09:04:38.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[05Jun2025 09:04:38.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[05Jun2025 09:04:38.350] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[05Jun2025 09:04:38.400] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[05Jun2025 09:04:38.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[05Jun2025 09:04:38.407] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[05Jun2025 09:04:38.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[05Jun2025 09:04:38.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[05Jun2025 09:04:38.492] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
+[05Jun2025 09:04:38.661] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4662 advancements
+[05Jun2025 09:04:38.667] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[05Jun2025 09:04:38.668] [main/INFO] [Dungeon Crawl/]: Loading data...
+[05Jun2025 09:04:38.935] [main/INFO] [Dungeon Crawl/]: Done.
+[05Jun2025 09:04:38.944] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Jun2025 09:04:38.958] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[05Jun2025 09:04:38.964] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[05Jun2025 09:04:38.966] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[05Jun2025 09:04:39.015] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[05Jun2025 09:04:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jun2025 09:04:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jun2025 09:04:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jun2025 09:04:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jun2025 09:04:43.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jun2025 09:04:43.642] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jun2025 09:04:43.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jun2025 09:04:43.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jun2025 09:04:43.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jun2025 09:04:43.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jun2025 09:04:44.064] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[05Jun2025 09:04:44.065] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[05Jun2025 09:04:44.065] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[05Jun2025 09:04:44.065] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[05Jun2025 09:04:44.065] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[05Jun2025 09:04:44.066] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[05Jun2025 09:04:44.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[05Jun2025 09:04:44.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[05Jun2025 09:04:44.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[05Jun2025 09:04:44.067] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[05Jun2025 09:04:44.092] [Server thread/INFO] [Framework/]: Loading server configs...
+[05Jun2025 09:04:44.759] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Jun2025 09:04:44.760] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Jun2025 09:04:44.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jun2025 09:04:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jun2025 09:04:57.767] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.862] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.882] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.912] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.924] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.942] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:57.960] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:59.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:59.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:59.597] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:04:59.599] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jun2025 09:05:00.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[05Jun2025 09:05:00.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[05Jun2025 09:05:01.209] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[05Jun2025 09:05:01.810] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[05Jun2025 09:05:02.189] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[05Jun2025 09:05:02.629] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8546 ms
+[05Jun2025 09:05:02.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.866s)! For help, type "help"
+[05Jun2025 09:05:02.697] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jun2025 09:05:02.710] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[05Jun2025 09:05:02.710] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[05Jun2025 09:05:02.712] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[05Jun2025 09:05:02.726] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[05Jun2025 09:05:02.738] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[05Jun2025 09:05:59.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SirPumpkinheadWithoutHorseEntity['Sir Pumpkinhead'/119, l='ServerLevel[world]', x=5081.50, y=1.00, z=9943.50]
+[05Jun2025 09:08:57.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.18.21.209:46585] logged in with entity id 120 at (5111.306088580936, -23.922862593279003, 9892.474546110745)
+[05Jun2025 09:08:57.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[05Jun2025 09:08:57.674] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[05Jun2025 09:08:57.750] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[05Jun2025 09:08:57.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[05Jun2025 09:10:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Peaceful]
+[05Jun2025 09:10:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[05Jun2025 09:10:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 59 entities]
+[05Jun2025 09:10:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
+[05Jun2025 09:10:20.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 48 entities]
+[05Jun2025 09:10:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
