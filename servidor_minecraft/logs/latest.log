@@ -556,3 +556,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 06:37:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 66 block(s)]
 [05Jun2025 06:37:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 81 block(s)]
 [05Jun2025 06:37:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 123 block(s)]
+[05Jun2025 06:38:23.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Disconnected
+[05Jun2025 06:38:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
+[05Jun2025 06:38:23.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
+[05Jun2025 06:38:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 184 block(s)]
+[05Jun2025 06:39:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 48 block(s)]
+[05Jun2025 06:39:31.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 48 block(s)]
+[05Jun2025 06:43:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> nmms terro que perron
+[05Jun2025 06:46:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Gave 1 [Light] to Izhug]
+[05Jun2025 06:46:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
+[05Jun2025 06:47:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> spawn
+[05Jun2025 06:47:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
