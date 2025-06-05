@@ -1131,6 +1131,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-06-05 06:24:50 +0000",
       "seasonal_forest": "2025-06-05 05:58:53 +0000",
       "pumpkin_patch": "2025-06-05 06:00:13 +0000"
     },
@@ -1547,6 +1548,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 06:19:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-05 06:30:29 +0000"
     },
     "done": true
   },
