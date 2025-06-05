@@ -567,3 +567,103 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 06:46:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
 [05Jun2025 06:47:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> spawn
 [05Jun2025 06:47:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[05Jun2025 06:48:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the weather to clear]
+[05Jun2025 06:53:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Barrier] to 3]
+[05Jun2025 06:54:10.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Pic-A-Nic Basket?]
+[05Jun2025 06:54:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Monster Hunter]
+[05Jun2025 06:56:44.669] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Jun2025 06:56:44.669] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Jun2025 06:56:44.777] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[05Jun2025 06:58:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
+[05Jun2025 06:58:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set Terroris8910's game mode to Survival Mode]
+[05Jun2025 06:59:47.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Terroris8910's game mode to Creative Mode]
+[05Jun2025 07:00:41.841] [Server thread/WARN] [jeg/]: literal{Izhug}(7b369a12-8a6d-3740-ad13-f7f98244bb35) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[05Jun2025 07:01:33.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [I Put a Spell on You]
+[05Jun2025 07:01:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[05Jun2025 07:01:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[05Jun2025 07:01:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
+[05Jun2025 07:01:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[05Jun2025 07:02:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
+[05Jun2025 07:02:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[05Jun2025 07:02:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has been revived!
+[05Jun2025 07:03:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Revive Me, I Have a Raygun]
+[05Jun2025 07:03:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Revive Me, I Have a Raygun]
+[05Jun2025 07:03:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has reached the goal [I Am Become Death]
+[05Jun2025 07:04:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [I Am Become Death]
+[05Jun2025 07:04:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Paint It Black]
+[05Jun2025 07:04:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Black Velvet]
+[05Jun2025 07:05:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[05Jun2025 07:05:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 5555.500000, 123.000000, 9998.500000]
+[05Jun2025 07:05:40.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
+[05Jun2025 07:05:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to 5555.500000, 123.000000, 9998.500000]
+[05Jun2025 07:07:25.887] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5044, y=-36, z=10039}
+[05Jun2025 07:07:50.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -8.662837797194697,-0.4631410181459614,-5.651888315449469
+[05Jun2025 07:07:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[05Jun2025 07:07:56.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! 7.925508843229441,0.0,6.641890727904638
+[05Jun2025 07:07:58.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -2.097071804128973,-6.000000238405946,8.094571843263111
+[05Jun2025 07:08:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[05Jun2025 07:08:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[05Jun2025 07:08:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Terroris8910 to Mieko_]
+[05Jun2025 07:08:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[05Jun2025 07:08:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> no
+[05Jun2025 07:08:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> yo no
+[05Jun2025 07:08:54.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [The One Who Knocks]
+[05Jun2025 07:08:56.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ah
+[05Jun2025 07:09:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[05Jun2025 07:09:32.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:10:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [The One Who Knocks]
+[05Jun2025 07:10:40.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! 21.475908273624555,3.8134755028365888,29.482709544185127
+[05Jun2025 07:10:40.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -6.220976571141364,3.2566302071059017,9.069872959471468
+[05Jun2025 07:10:42.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jun2025 07:10:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[05Jun2025 07:11:03.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6594ms or 131 ticks behind
+[05Jun2025 07:11:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Adventure Mode]
+[05Jun2025 07:11:40.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[05Jun2025 07:11:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:12:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[05Jun2025 07:12:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has completed the challenge [We'll Meet Again]
+[05Jun2025 07:12:28.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -10.523315320248912,-0.24760043850295688,-0.793254371101284
+[05Jun2025 07:12:30.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[05Jun2025 07:12:32.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -10.0,6.0,-8.0
+[05Jun2025 07:12:43.848] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jun2025 07:12:43.849] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@58223a7c[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:42915): Unexpected custom data from client
+[05Jun2025 07:12:43.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58223a7c[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:42915) lost connection: Unexpected custom data from client
+[05Jun2025 07:12:45.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Stone Age]
+[05Jun2025 07:12:58.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13306ms or 266 ticks behind
+[05Jun2025 07:12:59.747] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jun2025 07:12:59.747] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@58e481dc[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:60893): Unexpected custom data from client
+[05Jun2025 07:12:59.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58e481dc[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:60893) lost connection: Unexpected custom data from client
+[05Jun2025 07:13:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Diamonds!]
+[05Jun2025 07:13:17.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[05Jun2025 07:13:31.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 122 item(s) from player Mieko_]
+[05Jun2025 07:13:35.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[05Jun2025 07:13:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ drowned
+[05Jun2025 07:13:39.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 99 item(s) from 3 players]
+[05Jun2025 07:13:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:13:53.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[05Jun2025 07:13:53.325] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Jun2025 07:13:53.325] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2af79b75[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:52803): Unexpected custom data from client
+[05Jun2025 07:13:53.356] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2af79b75[id=<null>,name=Arthur_055,properties={},legacy=false] (/127.188.213.252:52803) lost connection: Unexpected custom data from client
+[05Jun2025 07:14:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
+[05Jun2025 07:14:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 is incapacitated!
+[05Jun2025 07:14:13.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ is incapacitated!
+[05Jun2025 07:14:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed 1921 entities]
+[05Jun2025 07:14:14.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5700ms or 114 ticks behind
+[05Jun2025 07:14:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Removed 15 item(s) from 3 players]
+[05Jun2025 07:14:29.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.39793866022650093,-11.565494012811726,0.6628187229628111
+[05Jun2025 07:14:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
+[05Jun2025 07:14:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
+[05Jun2025 07:14:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:14:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[05Jun2025 07:14:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
+[05Jun2025 07:14:57.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
+[05Jun2025 07:15:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has been revived!
+[05Jun2025 07:15:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nose xd
+[05Jun2025 07:15:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Century Egg]
+[05Jun2025 07:16:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:16:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 3 targets]
+[05Jun2025 07:16:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Century Egg]
+[05Jun2025 07:17:57.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 moved too quickly! -10.39925897799094,3.0660001181944025,-0.6633923166755267
+[05Jun2025 07:18:23.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -34.53025077638813,10.400198325199995,-6.109753923679818
+[05Jun2025 07:18:23.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -41.11466528424535,11.664416665072668,-8.867868945189912
+[05Jun2025 07:18:25.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
