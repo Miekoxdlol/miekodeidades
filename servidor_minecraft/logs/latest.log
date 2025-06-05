@@ -346,3 +346,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 22:13:15.347] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
 [05Jun2025 22:13:17.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
 [05Jun2025 22:13:17.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[05Jun2025 22:26:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Chompy]
+[05Jun2025 22:27:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[05Jun2025 22:27:33.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
