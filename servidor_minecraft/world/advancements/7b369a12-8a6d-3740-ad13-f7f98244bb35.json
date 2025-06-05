@@ -676,6 +676,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-06-05 07:56:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
     "criteria": {
       "has_item": "2025-06-05 06:53:09 +0000"
@@ -796,6 +802,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-05 07:55:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_string": "2025-06-05 07:53:23 +0000"
@@ -877,6 +889,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-05 07:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-06-05 07:55:56 +0000"
     },
     "done": true
   },
@@ -1240,6 +1258,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-05 07:57:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-06-05 07:46:35 +0000"
@@ -1249,6 +1273,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-06-05 07:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-05 07:55:46 +0000"
     },
     "done": true
   },
@@ -1293,6 +1323,12 @@
       "has_planks": "2025-06-05 07:46:35 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_4": "2025-06-05 07:58:00 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/dragonarmor_gold_tail": {
     "criteria": {
@@ -1450,6 +1486,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-05 07:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-05 07:45:28 +0000"
@@ -1483,6 +1525,12 @@
   "iceandfire:recipes/combat/dragonarmor_iron_tail": {
     "criteria": {
       "has_item": "2025-06-05 06:53:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-05 07:55:59 +0000"
     },
     "done": true
   },
@@ -1570,6 +1618,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-05 07:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-05 07:55:04 +0000"
@@ -1597,6 +1651,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-06-05 07:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-05 07:56:15 +0000"
     },
     "done": true
   },
@@ -1777,6 +1837,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-06-05 07:46:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-05 07:55:40 +0000"
     },
     "done": true
   },
