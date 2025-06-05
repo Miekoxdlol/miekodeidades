@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2025-06-05 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_2": "2025-06-05 01:02:42 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-06-05 01:01:18 +0000"
@@ -23,12 +35,34 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-05 01:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-05 01:01:19 +0000",
-      "minecraft:snowy_beach": "2025-06-05 01:02:12 +0000"
+      "minecraft:frozen_river": "2025-06-05 01:10:15 +0000",
+      "minecraft:snowy_plains": "2025-06-05 01:12:29 +0000",
+      "minecraft:stony_shore": "2025-06-05 01:13:00 +0000",
+      "minecraft:snowy_taiga": "2025-06-05 01:13:08 +0000",
+      "minecraft:grove": "2025-06-05 01:13:07 +0000",
+      "minecraft:cold_ocean": "2025-06-05 01:13:25 +0000",
+      "minecraft:forest": "2025-06-05 01:13:17 +0000",
+      "minecraft:frozen_ocean": "2025-06-05 01:11:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-05 01:12:15 +0000",
+      "minecraft:snowy_beach": "2025-06-05 01:02:12 +0000",
+      "minecraft:plains": "2025-06-05 01:13:31 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-05 01:06:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
