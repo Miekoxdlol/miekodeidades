@@ -388,6 +388,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-06-05 07:22:18 +0000",
+      "rocky_shrubland": "2025-06-05 07:22:15 +0000",
       "coniferous_forest": "2025-06-05 07:07:45 +0000",
       "spider_nest": "2025-06-05 07:08:44 +0000",
       "seasonal_forest": "2025-06-05 05:58:53 +0000",
@@ -2322,6 +2324,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-06-05 07:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-05 07:11:06 +0000"
@@ -2572,6 +2580,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-05 07:24:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-06-05 06:54:10 +0000"
@@ -2581,6 +2595,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-05 07:11:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-06-05 07:15:00 +0000"
     },
     "done": true
   },
