@@ -464,3 +464,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 06:07:13.838] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
 [05Jun2025 06:07:13.923] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
 [05Jun2025 06:07:13.924] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[05Jun2025 06:08:02.888] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1181dd77[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:33587) lost connection: Disconnected
+[05Jun2025 06:08:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 3 entities to Izhug]
+[05Jun2025 06:08:25.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[05Jun2025 06:08:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[05Jun2025 06:08:25.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[05Jun2025 06:08:30.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4da6b3dc[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:50477) lost connection: Disconnected
+[05Jun2025 06:09:29.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@789004bb[id=<null>,name=SnowyCW1,properties={},legacy=false] (/127.236.2.68:44327) lost connection: Disconnected
+[05Jun2025 06:09:34.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terroris8910[/127.219.249.19:55819] logged in with entity id 8766 at (64.77132360770828, 65.0, 1346.7114856706366)
+[05Jun2025 06:09:34.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 joined the game
+[05Jun2025 06:09:34.565] [Server thread/INFO] [Jade/]: Syncing config to Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8)
+[05Jun2025 06:09:37.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Terroris8910 (18)
+[05Jun2025 06:09:37.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
+[05Jun2025 06:09:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> gg no nekka
+[05Jun2025 06:10:08.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:45565] logged in with entity id 8864 at (18.529826362008826, 63.0, 1395.991278064135)
+[05Jun2025 06:10:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
+[05Jun2025 06:10:08.623] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
+[05Jun2025 06:10:08.839] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
+[05Jun2025 06:10:08.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
+[05Jun2025 06:11:41.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Disconnected
+[05Jun2025 06:11:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
+[05Jun2025 06:11:41.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
+[05Jun2025 06:13:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
+[05Jun2025 06:16:01.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[05Jun2025 06:16:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[05Jun2025 06:16:01.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[05Jun2025 06:17:32.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:60341] logged in with entity id 10914 at (64.42655790182407, 85.0, 1324.433271141574)
+[05Jun2025 06:17:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[05Jun2025 06:17:32.761] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[05Jun2025 06:17:32.893] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[05Jun2025 06:17:32.893] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_

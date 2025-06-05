@@ -373,7 +373,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "seasonal_forest": "2025-06-05 05:51:04 +0000"
+      "seasonal_forest": "2025-06-05 05:51:04 +0000",
+      "pumpkin_patch": "2025-06-05 06:03:55 +0000"
     },
     "done": false
   },
