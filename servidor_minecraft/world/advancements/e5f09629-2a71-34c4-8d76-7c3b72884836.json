@@ -1402,6 +1402,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-06-05 08:17:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-05 08:14:45 +0000"

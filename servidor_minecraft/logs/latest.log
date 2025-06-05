@@ -1021,3 +1021,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 08:18:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> xddddd
 [05Jun2025 08:18:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nose
 [05Jun2025 08:19:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
+[05Jun2025 08:20:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> que void
+[05Jun2025 08:21:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si
+[05Jun2025 08:21:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> a que void esta esto
+[05Jun2025 08:22:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> me voy a salir para chechar algo xd
+[05Jun2025 08:22:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no me digan que hay dragones
+[05Jun2025 08:22:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> sip
+[05Jun2025 08:22:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> sis
+[05Jun2025 08:22:29.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[05Jun2025 08:22:29.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[05Jun2025 08:22:29.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[05Jun2025 08:22:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela lost connection: Disconnected
+[05Jun2025 08:22:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela left the game
+[05Jun2025 08:22:31.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capitanchela
+[05Jun2025 08:25:45.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:34659] logged in with entity id 75789 at (5126.17171004274, -38.0, 9931.80986738624)
+[05Jun2025 08:25:45.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[05Jun2025 08:25:45.696] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[05Jun2025 08:25:46.438] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[05Jun2025 08:25:46.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[05Jun2025 08:26:10.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[05Jun2025 08:26:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[05Jun2025 08:26:10.880] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
