@@ -353,3 +353,114 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 05:44:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> onde vas hacer el spawn
 [05Jun2025 05:46:50.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 420 block(s)]
 [05Jun2025 05:47:25.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 600 block(s)]
+[05Jun2025 05:47:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug has made the advancement [Stone Age]
+[05Jun2025 05:48:27.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nekkai_[/127.245.242.118:34703] logged in with entity id 2072 at (1.5, 113.0, 2.5)
+[05Jun2025 05:48:27.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ joined the game
+[05Jun2025 05:48:28.040] [Server thread/INFO] [Jade/]: Syncing config to Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72)
+[05Jun2025 05:48:28.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Ice and Fire]
+[05Jun2025 05:48:30.503] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nekkai_ (18)
+[05Jun2025 05:48:30.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[05Jun2025 05:50:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ is incapacitated!
+[05Jun2025 05:50:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :c
+[05Jun2025 05:51:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Nekkai_ to Izhug]
+[05Jun2025 05:51:10.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> estoy mrd
+[05Jun2025 05:51:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> viendo
+[05Jun2025 05:51:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> que mi pc se murio
+[05Jun2025 05:51:15.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has been revived!
+[05Jun2025 05:51:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> y me ataca un mob
+[05Jun2025 05:51:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> la ptmr
+[05Jun2025 05:51:19.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> nouuu
+[05Jun2025 05:51:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> literal solo tengo mine
+[05Jun2025 05:51:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> lo demas es pantalla negra
+[05Jun2025 05:51:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> ff
+[05Jun2025 05:51:43.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ahorita lo arreglo
+[05Jun2025 05:51:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> dale
+[05Jun2025 05:52:23.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[05Jun2025 05:52:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[05Jun2025 05:52:23.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[05Jun2025 05:53:41.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Izhug[/127.63.134.181:59271] logged in with entity id 3520 at (60.153559441323154, 76.40760095641001, 1323.9612008716213)
+[05Jun2025 05:53:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug joined the game
+[05Jun2025 05:53:41.637] [Server thread/INFO] [Jade/]: Syncing config to Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35)
+[05Jun2025 05:53:41.890] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Izhug (18)
+[05Jun2025 05:53:41.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Izhug
+[05Jun2025 05:53:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
+[05Jun2025 05:55:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ja lo arregle
+[05Jun2025 05:55:15.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnowyCW1[/127.236.2.68:49645] logged in with entity id 3732 at (-5.5, 110.0, 6.5)
+[05Jun2025 05:55:16.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 joined the game
+[05Jun2025 05:55:16.060] [Server thread/INFO] [Jade/]: Syncing config to SnowyCW1 (18446fdc-d62f-3e04-a310-873402a63000)
+[05Jun2025 05:55:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Ice and Fire]
+[05Jun2025 05:55:16.698] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SnowyCW1 (18)
+[05Jun2025 05:55:16.699] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SnowyCW1
+[05Jun2025 05:55:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> asi los queria cachar
+[05Jun2025 05:55:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> jugando maicra sin invitar
+[05Jun2025 05:55:42.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Alex's Mobs]
+[05Jun2025 05:55:42.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> apenas me conecte xd
+[05Jun2025 05:55:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> La entrada cuesta 50 pesos
+[05Jun2025 05:55:52.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> estan en llamada aun? xd
+[05Jun2025 05:56:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> oe
+[05Jun2025 05:56:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> si pero esta afk
+[05Jun2025 05:56:05.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pero que quieren que haga en supervivencia :p?
+[05Jun2025 05:56:07.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> mandep
+[05Jun2025 05:56:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnowyCW1> puedo ir consiguiendo mis cosas?
+[05Jun2025 05:56:53.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ns
+[05Jun2025 05:57:01.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terroris8910[/127.219.249.19:40719] logged in with entity id 4469 at (3.5, 99.0, -9.5)
+[05Jun2025 05:57:01.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 joined the game
+[05Jun2025 05:57:01.230] [Server thread/INFO] [Jade/]: Syncing config to Terroris8910 (d54a3cb3-ddb4-3e70-98b5-01ab971f8da8)
+[05Jun2025 05:57:01.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Ice and Fire]
+[05Jun2025 05:57:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Nekkai_'s game mode to Creative Mode]
+[05Jun2025 05:57:05.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Terroris8910 (18)
+[05Jun2025 05:57:05.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Terroris8910
+[05Jun2025 05:57:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si no esta simetrico yo exploto todo
+[05Jun2025 05:58:01.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=109, z=-11}
+[05Jun2025 05:58:01.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=109, z=-11}
+[05Jun2025 05:58:01.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=108, z=-11}
+[05Jun2025 05:58:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 5 entities to Mieko_]
+[05Jun2025 05:59:19.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Izhug> como lo quiere hacer terro
+[05Jun2025 05:59:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> sabes cual estaria cool
+[05Jun2025 05:59:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set Terroris8910's game mode to Creative Mode]
+[05Jun2025 05:59:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> el keepinventory
+[05Jun2025 05:59:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> digo el
+[05Jun2025 05:59:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> worldedit
+[05Jun2025 05:59:50.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[05Jun2025 05:59:50.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[05Jun2025 05:59:50.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[05Jun2025 06:00:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Stone Age]
+[05Jun2025 06:01:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pues no chambees
+[05Jun2025 06:01:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Pero te quitan op
+[05Jun2025 06:01:29.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KKASKLSALKSA
+[05Jun2025 06:01:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Y te pusieron a trabajar
+[05Jun2025 06:01:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> decadencia de mieko
+[05Jun2025 06:01:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ZZZZZ
+[05Jun2025 06:02:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 has made the advancement [Stone Age]
+[05Jun2025 06:02:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set SnowyCW1's game mode to Creative Mode]
+[05Jun2025 06:02:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 4 entities to Terroris8910]
+[05Jun2025 06:02:38.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya te regañaron snowy
+[05Jun2025 06:03:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Me llamaron a un match creo
+[05Jun2025 06:03:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set the time to 1000]
+[05Jun2025 06:03:38.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:54189] logged in with entity id 7164 at (60.15652244522545, 63.0, 1326.9508479108626)
+[05Jun2025 06:03:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[05Jun2025 06:03:38.538] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[05Jun2025 06:03:41.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[05Jun2025 06:03:41.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
+[05Jun2025 06:03:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> afk
+[05Jun2025 06:04:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Spectator Mode]
+[05Jun2025 06:04:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to SnowyCW1]
+[05Jun2025 06:04:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Made Nekkai_ a server operator]
+[05Jun2025 06:04:28.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
+[05Jun2025 06:04:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported SnowyCW1 to Mieko_]
+[05Jun2025 06:05:27.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terroris8910 lost connection: Disconnected
+[05Jun2025 06:05:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 left the game
+[05Jun2025 06:05:27.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Terroris8910
+[05Jun2025 06:05:51.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Nekkai_]
+[05Jun2025 06:06:38.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[05Jun2025 06:06:38.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[05Jun2025 06:06:38.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[05Jun2025 06:06:38.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jun2025 06:06:47.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnowyCW1 lost connection: Timed out
+[05Jun2025 06:06:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnowyCW1 left the game
+[05Jun2025 06:06:47.088] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SnowyCW1
+[05Jun2025 06:07:13.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mieko_[/127.50.91.180:48651] logged in with entity id 8239 at (18.8755010586807, 63.0, 1399.1555694347799)
+[05Jun2025 06:07:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ joined the game
+[05Jun2025 06:07:13.838] [Server thread/INFO] [Jade/]: Syncing config to Mieko_ (b738b777-eade-3d4f-af74-b8ae1a39f592)
+[05Jun2025 06:07:13.923] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mieko_ (18)
+[05Jun2025 06:07:13.924] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mieko_
