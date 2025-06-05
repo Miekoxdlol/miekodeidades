@@ -748,3 +748,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [05Jun2025 07:28:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Izhug]
 [05Jun2025 07:28:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ was killed
 [05Jun2025 07:28:52.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Killed Mieko_]
+[05Jun2025 07:29:04.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Mieko_ to Terroris8910]
+[05Jun2025 07:29:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has been revived!
+[05Jun2025 07:29:44.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 3 targets]
+[05Jun2025 07:29:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Uranium Fever]
+[05Jun2025 07:30:50.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capitanchela[/127.212.32.219:48427] logged in with entity id 44374 at (68.5, 78.0, 1315.5)
+[05Jun2025 07:30:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela joined the game
+[05Jun2025 07:30:50.212] [Server thread/INFO] [Jade/]: Syncing config to capitanchela (e5f09629-2a71-34c4-8d76-7c3b72884836)
+[05Jun2025 07:30:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Ice and Fire]
+[05Jun2025 07:30:52.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capitanchela (18)
+[05Jun2025 07:30:52.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capitanchela
+[05Jun2025 07:31:09.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Applied effect Night Vision to 4 targets]
+[05Jun2025 07:31:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[05Jun2025 07:31:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[05Jun2025 07:31:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[05Jun2025 07:31:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> erga
+[05Jun2025 07:31:21.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported capitanchela to Mieko_]
+[05Jun2025 07:31:36.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[05Jun2025 07:31:39.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -0.3901093599597516,-11.194323842909405,0.5369643184822053
+[05Jun2025 07:31:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela is incapacitated!
+[05Jun2025 07:31:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set capitanchela's game mode to Creative Mode]
+[05Jun2025 07:31:42.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5129, y=-61, z=9903} BlockPos{x=5130, y=-63, z=9904}
+[05Jun2025 07:31:42.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5129, y=-61, z=9903} BlockPos{x=5131, y=-62, z=9903}
+[05Jun2025 07:31:47.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has made the advancement [Draconic Evolution]
+[05Jun2025 07:32:10.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has been revived!
+[05Jun2025 07:32:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Draconic Evolution]
+[05Jun2025 07:32:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Izhug to Mieko_]
+[05Jun2025 07:33:34.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 9.096216070605806,0.0,-4.933372928311655
+[05Jun2025 07:33:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 963 block(s)]
+[05Jun2025 07:34:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 707 block(s)]
+[05Jun2025 07:34:19.928] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 299
+[05Jun2025 07:34:25.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 3.585328454413684,0.0,-9.88984616410562
+[05Jun2025 07:34:28.177] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 413
+[05Jun2025 07:34:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 1015 block(s)]
+[05Jun2025 07:35:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> oye mieko
+[05Jun2025 07:35:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> estaria chido que hicieran una prision
+[05Jun2025 07:35:37.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> aca como en karmaland
+[05Jun2025 07:35:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ajam
+[05Jun2025 07:37:07.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> ola
+[05Jun2025 07:37:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me aliste ala maña god
+[05Jun2025 07:38:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> es de crash creo
+[05Jun2025 07:38:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 816 block(s)]
+[05Jun2025 07:38:58.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 3548 block(s)]
+[05Jun2025 07:40:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Light] to Izhug]
+[05Jun2025 07:40:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> x2
+[05Jun2025 07:40:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed every effect from Izhug]
+[05Jun2025 07:41:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me bajan
+[05Jun2025 07:41:43.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> no
+[05Jun2025 07:41:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Applied effect Night Vision to 4 targets]
+[05Jun2025 07:41:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> si
+[05Jun2025 07:42:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Survival Mode]
+[05Jun2025 07:42:57.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terroris8910 has made the advancement [Flexible Schedule]
+[05Jun2025 07:43:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set capitanchela's game mode to Survival Mode]
+[05Jun2025 07:43:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[05Jun2025 07:43:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> mieko
+[05Jun2025 07:43:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> cuanto te bajo?
+[05Jun2025 07:44:19.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> tp
+[05Jun2025 07:44:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Stone Age]
+[05Jun2025 07:44:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Monster Hunter]
+[05Jun2025 07:44:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> xd
+[05Jun2025 07:44:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported capitanchela to Mieko_]
+[05Jun2025 07:44:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> me tiro
+[05Jun2025 07:44:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> XD
+[05Jun2025 07:44:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: The difficulty has been set to Hard]
+[05Jun2025 07:44:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capitanchela has made the advancement [Uranium Fever]
+[05Jun2025 07:45:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Mieko_ to capitanchela]
+[05Jun2025 07:45:27.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.5792098991614694,0.0,-10.455246008210452
+[05Jun2025 07:45:46.482] [Server thread/WARN] [jeg/]: literal{Terroris8910}(d54a3cb3-ddb4-3e70-98b5-01ab971f8da8) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 370
+[05Jun2025 07:45:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 569 block(s)]
+[05Jun2025 07:45:56.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! -0.016423367802417488,0.0,-10.560366506764694
+[05Jun2025 07:46:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 612 block(s)]
+[05Jun2025 07:46:33.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug moved too quickly! 5.947042284238705,0.0,8.092969229785012
+[05Jun2025 07:47:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Successfully filled 462 block(s)]
+[05Jun2025 07:47:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported Mieko_ to Izhug]
+[05Jun2025 07:48:08.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ moved too quickly! -18.338043089494022,0.8148913921326439,24.98728397582454
+[05Jun2025 07:48:08.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -16.411119406482612,0.9031735060746868,35.78896824309777
+[05Jun2025 07:48:08.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capitanchela moved too quickly! -5.410381030814278,0.42156857579603013,10.147781120271247
+[05Jun2025 07:48:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Netherite Sword] to Izhug]
+[05Jun2025 07:48:10.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[05Jun2025 07:48:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capitanchela> alv
+[05Jun2025 07:48:34.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9172ms or 183 ticks behind

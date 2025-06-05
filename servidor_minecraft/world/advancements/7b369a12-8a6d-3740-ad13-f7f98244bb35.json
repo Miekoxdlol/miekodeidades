@@ -207,8 +207,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "spider_nest": "2025-06-05 07:32:39 +0000",
       "seasonal_forest": "2025-06-05 05:41:50 +0000",
-      "pumpkin_patch": "2025-06-05 02:04:32 +0000"
+      "pumpkin_patch": "2025-06-05 02:04:32 +0000",
+      "grassland": "2025-06-05 07:32:35 +0000"
     },
     "done": false
   },

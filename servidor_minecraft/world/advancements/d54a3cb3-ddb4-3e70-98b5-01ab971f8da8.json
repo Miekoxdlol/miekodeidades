@@ -1160,6 +1160,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-06-05 07:28:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-06-05 06:24:09 +0000"
@@ -1180,7 +1186,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-06-05 06:54:54 +0000"
+      "minecraft:creeper": "2025-06-05 06:54:54 +0000",
+      "minecraft:zombie": "2025-06-05 07:35:55 +0000"
     },
     "done": false
   },
@@ -2378,6 +2385,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-06-05 07:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-05 07:11:06 +0000"
@@ -2474,6 +2487,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 06:24:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-06-05 07:42:57 +0000"
     },
     "done": true
   },
