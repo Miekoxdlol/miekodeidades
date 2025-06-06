@@ -667,3 +667,218 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [06Jun2025 02:02:55.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1325}
 [06Jun2025 02:02:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [Cultural Attribute]
 [06Jun2025 02:03:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
+[06Jun2025 02:03:06.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=81, z=1330}
+[06Jun2025 02:03:06.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=80, z=1330}
+[06Jun2025 02:03:06.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=80, z=1330}
+[06Jun2025 02:03:07.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=81, z=1330}
+[06Jun2025 02:03:07.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=82, z=1330}
+[06Jun2025 02:03:07.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1328}
+[06Jun2025 02:03:07.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1328}
+[06Jun2025 02:03:07.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1328}
+[06Jun2025 02:03:07.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=80, z=1329}
+[06Jun2025 02:03:08.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=81, z=1330}
+[06Jun2025 02:03:08.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1329}
+[06Jun2025 02:03:09.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=81, z=1330}
+[06Jun2025 02:03:09.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=82, z=1330}
+[06Jun2025 02:03:11.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1322}
+[06Jun2025 02:03:12.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=79, z=1321}
+[06Jun2025 02:03:13.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:03:13.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:03:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has reached the goal [The Next Generation]
+[06Jun2025 02:03:15.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1318}
+[06Jun2025 02:03:15.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=80, z=1318}
+[06Jun2025 02:03:15.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1318}
+[06Jun2025 02:03:16.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1318}
+[06Jun2025 02:03:16.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=80, z=1318}
+[06Jun2025 02:03:17.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=81, z=1318}
+[06Jun2025 02:03:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1323}
+[06Jun2025 02:03:22.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mira
+[06Jun2025 02:03:22.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1323}
+[06Jun2025 02:03:22.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1323}
+[06Jun2025 02:03:22.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1323}
+[06Jun2025 02:03:23.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1323}
+[06Jun2025 02:03:23.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=80, z=1324}
+[06Jun2025 02:03:23.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=69, y=79, z=1324}
+[06Jun2025 02:03:23.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=69, y=79, z=1325}
+[06Jun2025 02:03:23.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=80, z=1325}
+[06Jun2025 02:03:24.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=82, z=1326}
+[06Jun2025 02:03:25.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Yo sere la primera
+[06Jun2025 02:03:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No
+[06Jun2025 02:03:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No hare eso
+[06Jun2025 02:03:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Gusanos ABISALES
+[06Jun2025 02:03:36.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duzzk0[/127.167.134.2:35897] logged in with entity id 6271 at (52.5, 77.0, 1322.5)
+[06Jun2025 02:03:36.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 joined the game
+[06Jun2025 02:03:36.985] [Server thread/INFO] [Jade/]: Syncing config to Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64)
+[06Jun2025 02:03:37.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Ice and Fire]
+[06Jun2025 02:03:41.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Duzzk0 (18)
+[06Jun2025 02:03:41.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Duzzk0
+[06Jun2025 02:03:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> estos de nuevo
+[06Jun2025 02:03:49.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> mieko
+[06Jun2025 02:03:52.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> mieko No esta SIMETRICO vegetta 777 estaria muy desepcionado de ti
+[06Jun2025 02:03:57.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=78, z=1316}
+[06Jun2025 02:03:57.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=78, z=1316}
+[06Jun2025 02:03:57.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1319}
+[06Jun2025 02:03:57.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1319}
+[06Jun2025 02:03:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> LKSALKSAKLSA
+[06Jun2025 02:03:58.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Duzzk0 to Mieko_]
+[06Jun2025 02:04:04.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[06Jun2025 02:04:05.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eefa2737-9c1a-3ff5-8058-8faf26749a64
+[06Jun2025 02:04:05.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Duzzk0 (eefa2737-9c1a-3ff5-8058-8faf26749a64) successfully connected to voice chat
+[06Jun2025 02:04:06.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=79, z=1324}
+[06Jun2025 02:04:12.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=84, z=1322}
+[06Jun2025 02:04:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=84, z=1322}
+[06Jun2025 02:04:13.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=84, z=1322}
+[06Jun2025 02:04:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 is incapacitated!
+[06Jun2025 02:04:14.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=83, z=1322}
+[06Jun2025 02:04:14.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=83, z=1322}
+[06Jun2025 02:04:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> duzz dale ala v
+[06Jun2025 02:04:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> pal voice chat
+[06Jun2025 02:04:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> a la v y luego?
+[06Jun2025 02:04:54.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> configura tu micro y audio
+[06Jun2025 02:04:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has been revived!
+[06Jun2025 02:05:03.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> si
+[06Jun2025 02:05:08.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duzzk0> si
+[06Jun2025 02:05:27.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> soy el unico que no le sirve su micro :c
+[06Jun2025 02:05:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Puedo ser nutria chambeadora unu?
+[06Jun2025 02:05:33.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1324}
+[06Jun2025 02:05:34.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1325}
+[06Jun2025 02:05:34.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1324}
+[06Jun2025 02:05:35.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1324}
+[06Jun2025 02:05:35.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1324}
+[06Jun2025 02:05:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Chambear para duzz :C
+[06Jun2025 02:05:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> D
+[06Jun2025 02:06:42.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=78, y=70, z=1327}
+[06Jun2025 02:06:43.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=77, y=71, z=1323}
+[06Jun2025 02:06:43.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=75, y=73, z=1323}
+[06Jun2025 02:06:44.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=74, y=74, z=1323}
+[06Jun2025 02:06:44.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=74, y=74, z=1323}
+[06Jun2025 02:06:44.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=73, y=75, z=1323}
+[06Jun2025 02:06:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has made the advancement [Alex's Mobs]
+[06Jun2025 02:06:44.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=72, y=76, z=1323}
+[06Jun2025 02:06:44.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=70, y=78, z=1323}
+[06Jun2025 02:06:46.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=1339} BlockPos{x=58, y=80, z=1323}
+[06Jun2025 02:06:52.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=81, z=1330}
+[06Jun2025 02:07:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ahora si...
+[06Jun2025 02:07:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> PUEDO SER COMO LOS CARTELES
+[06Jun2025 02:07:11.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 is incapacitated!
+[06Jun2025 02:07:14.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1324}
+[06Jun2025 02:07:14.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:07:14.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:07:14.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1326}
+[06Jun2025 02:07:15.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1326}
+[06Jun2025 02:07:15.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:07:15.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1324}
+[06Jun2025 02:07:15.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1324}
+[06Jun2025 02:07:15.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1323}
+[06Jun2025 02:07:15.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=80, z=1322}
+[06Jun2025 02:07:15.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=55, y=79, z=1319}
+[06Jun2025 02:07:18.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=63, y=81, z=1318}
+[06Jun2025 02:07:18.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=63, y=81, z=1318}
+[06Jun2025 02:07:19.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=62, y=81, z=1318}
+[06Jun2025 02:07:19.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=81, z=1318}
+[06Jun2025 02:07:19.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=81, z=1318}
+[06Jun2025 02:07:19.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=59, y=81, z=1318}
+[06Jun2025 02:07:19.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1323}
+[06Jun2025 02:07:19.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1323}
+[06Jun2025 02:07:20.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1323}
+[06Jun2025 02:07:20.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1323}
+[06Jun2025 02:07:20.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1323}
+[06Jun2025 02:07:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 has been revived!
+[06Jun2025 02:07:21.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1324}
+[06Jun2025 02:07:22.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 02:07:22.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 02:07:22.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 02:07:22.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 02:07:23.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 02:07:23.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=83, z=1324}
+[06Jun2025 02:07:23.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=83, z=1323}
+[06Jun2025 02:07:23.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1323}
+[06Jun2025 02:07:24.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=83, z=1323}
+[06Jun2025 02:07:24.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1324}
+[06Jun2025 02:07:25.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=83, z=1324}
+[06Jun2025 02:07:27.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=64, y=81, z=1330}
+[06Jun2025 02:07:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 02:07:28.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=80, z=1324}
+[06Jun2025 02:07:28.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=80, z=1325}
+[06Jun2025 02:07:28.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=80, z=1324}
+[06Jun2025 02:07:28.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=59, y=80, z=1322}
+[06Jun2025 02:07:28.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=59, y=80, z=1322}
+[06Jun2025 02:07:30.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=62, y=80, z=1326}
+[06Jun2025 02:07:30.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=80, z=1325}
+[06Jun2025 02:07:30.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=80, z=1325}
+[06Jun2025 02:07:32.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Cual?
+[06Jun2025 02:07:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si
+[06Jun2025 02:07:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No duran nada
+[06Jun2025 02:07:55.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> duzz
+[06Jun2025 02:07:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> te sketeo
+[06Jun2025 02:08:02.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1327}
+[06Jun2025 02:08:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> quienes falta?
+[06Jun2025 02:08:12.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=81, z=1318}
+[06Jun2025 02:08:12.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=59, y=81, z=1318}
+[06Jun2025 02:08:12.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1319}
+[06Jun2025 02:08:12.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=82, z=1319}
+[06Jun2025 02:08:12.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=82, z=1320}
+[06Jun2025 02:08:15.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=81, z=1327}
+[06Jun2025 02:08:15.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=82, z=1327}
+[06Jun2025 02:08:15.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=68, y=83, z=1327}
+[06Jun2025 02:08:16.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=65, y=80, z=1325}
+[06Jun2025 02:08:16.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=65, y=80, z=1325}
+[06Jun2025 02:08:17.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=66, y=80, z=1324}
+[06Jun2025 02:08:17.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=64, y=80, z=1324}
+[06Jun2025 02:08:21.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=63, y=80, z=1325}
+[06Jun2025 02:08:21.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=63, y=80, z=1326}
+[06Jun2025 02:09:17.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duzzk0 lost connection: Disconnected
+[06Jun2025 02:09:17.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duzzk0 left the game
+[06Jun2025 02:09:17.661] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Duzzk0
+[06Jun2025 02:09:20.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=80, z=1329}
+[06Jun2025 02:09:21.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=59, y=81, z=1330}
+[06Jun2025 02:09:21.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1329}
+[06Jun2025 02:09:21.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1329}
+[06Jun2025 02:09:21.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1328}
+[06Jun2025 02:09:21.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1327}
+[06Jun2025 02:09:21.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=56, y=81, z=1326}
+[06Jun2025 02:09:22.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=81, z=1318}
+[06Jun2025 02:09:24.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=65, y=81, z=1327}
+[06Jun2025 02:09:24.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=65, y=81, z=1327}
+[06Jun2025 02:09:24.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=65, y=82, z=1327}
+[06Jun2025 02:09:48.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=61, y=80, z=1324}
+[06Jun2025 02:10:01.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=62, z=1314} BlockPos{x=60, y=80, z=1325}
+[06Jun2025 02:10:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> KSALKSALKSA
+[06Jun2025 02:10:32.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 02:10:43.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=62, z=1335} BlockPos{x=46, y=62, z=1335}
+[06Jun2025 02:10:43.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> Metan el mod de corpse
+[06Jun2025 02:10:44.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=62, z=1334} BlockPos{x=47, y=62, z=1334}
+[06Jun2025 02:10:47.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> gg reinicio
+[06Jun2025 02:10:48.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mieko_ lost connection: Disconnected
+[06Jun2025 02:10:48.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ left the game
+[06Jun2025 02:10:48.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mieko_
+[06Jun2025 02:10:52.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[06Jun2025 02:10:54.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=62, z=1336} BlockPos{x=46, y=62, z=1334}
+[06Jun2025 02:10:58.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Izhug lost connection: Disconnected
+[06Jun2025 02:10:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug left the game
+[06Jun2025 02:10:58.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Izhug
+[06Jun2025 02:10:58.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nekkai_ lost connection: Disconnected
+[06Jun2025 02:10:58.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ left the game
+[06Jun2025 02:10:58.924] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nekkai_
+[06Jun2025 02:10:58.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[06Jun2025 02:10:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[06Jun2025 02:10:58.937] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[06Jun2025 02:10:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 02:10:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 02:10:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 02:10:59.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jun2025 02:10:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jun2025 02:10:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jun2025 02:10:59.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[06Jun2025 02:10:59.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Jun2025 02:10:59.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[06Jun2025 02:10:59.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[06Jun2025 02:10:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 02:10:59.923] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jun2025 02:10:59.924] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[06Jun2025 02:10:59.926] [Server thread/INFO] [Framework/]: Finished unloading server configs
