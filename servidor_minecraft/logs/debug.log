@@ -7319,3 +7319,1020 @@ com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdia
 [06Jun2025 01:52:48.217] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Nekkai_
 [06Jun2025 01:52:48.217] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Nekkai_
 [06Jun2025 01:52:48.217] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nekkai_
+[06Jun2025 01:52:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 01:53:02.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[06Jun2025 01:53:03.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72
+[06Jun2025 01:53:03.391] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Nekkai_ to connected: {disabled=false, disconnected=false, uuid=9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72, name=Nekkai_, group=null}
+[06Jun2025 01:53:03.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nekkai_ (9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) successfully connected to voice chat
+[06Jun2025 01:53:03.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Nekkai_: {disabled=false, disconnected=false, uuid=9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72, name=Nekkai_, group=null}
+[06Jun2025 01:53:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> ya tengo el poder
+[06Jun2025 01:53:12.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> si
+[06Jun2025 01:53:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> A ver el spawn
+[06Jun2025 01:53:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> si estaba hueca yo lo rompia...
+[06Jun2025 01:53:40.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:53:40.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:53:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> no esta tan hueca
+[06Jun2025 01:53:46.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=82, z=1330}
+[06Jun2025 01:53:46.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=82, z=1330}
+[06Jun2025 01:53:46.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=82, z=1330}
+[06Jun2025 01:53:47.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[06Jun2025 01:53:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[06Jun2025 01:53:47.719] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of 01_NutriaKing
+[06Jun2025 01:53:47.719] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[06Jun2025 01:53:48.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5154cebd-73f7-38a8-9753-78a7fa145766 does not have a secret
+[06Jun2025 01:53:58.330] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[06Jun2025 01:53:58.365] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[06Jun2025 01:53:58.416] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[06Jun2025 01:53:58.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[06Jun2025 01:53:58.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 01:53:58.442] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.463] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[06Jun2025 01:53:58.515] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[06Jun2025 01:53:58.563] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[06Jun2025 01:53:58.580] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[06Jun2025 01:53:58.580] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 01:53:58.580] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[06Jun2025 01:53:58.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[06Jun2025 01:53:58.616] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 01:53:58.616] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [mowziesmobs, kuma_api, trashslot, geckolib, playeranimator, incapacitated, customskinloader, jeg, jei, graveyard, pehkui, libraryferret, dynamiclights, sophisticatedcore, rubidium, sodium, xaeroworldmap, citadel, alexsmobs, epherolib, cpm, mixinextras, dungeoncrawl, glitchcore, sophisticatedbackpacks, relics, additional_lights, iceandfire, balm, immersive_armors, skinlayers3d, forge, twilightforest, geophilic, emotecraft, awesomedungeonocean, useless_sword, minecraft, alexscaves, voicechat, terrablender, endermanoverhaul, biomesoplenty, jade, platform, resourcefulconfig, born_in_chaos_v1, rottencreatures, notenoughanimations, curios, patchouli, xaerominimap, securitycraft, lostcities, resourcefullib, creeperoverhaul, cfm, architectury, octolib, chococraft, refurbished_furniture, voidscape, framework, fallingtree, t_and_t, cristellib]
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.656] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'incapacitated:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voidscape:voidscape' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'useless_sword:useless_sword' : Version test of '1' from client : ACCEPTED
+[06Jun2025 01:53:58.657] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Jun2025 01:53:58.658] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[06Jun2025 01:53:58.658] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[06Jun2025 01:53:58.658] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[06Jun2025 01:53:58.658] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Jun2025 01:53:58.658] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Jun2025 01:53:58.662] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[06Jun2025 01:53:58.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[06Jun2025 01:53:58.730] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Jun2025 01:53:58.730] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.730] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.761] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[06Jun2025 01:53:58.797] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Jun2025 01:53:58.797] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.797] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.814] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[06Jun2025 01:53:58.860] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 10
+[06Jun2025 01:53:58.915] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 11
+[06Jun2025 01:53:58.958] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Jun2025 01:53:58.958] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.958] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.962] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 12
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:58.986] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.021] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 13
+[06Jun2025 01:53:59.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 14
+[06Jun2025 01:53:59.117] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 15
+[06Jun2025 01:53:59.161] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 16
+[06Jun2025 01:53:59.197] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.198] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 17
+[06Jun2025 01:53:59.236] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Jun2025 01:53:59.237] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.237] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.261] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 18
+[06Jun2025 01:53:59.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Jun2025 01:53:59.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.314] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[06Jun2025 01:53:59.363] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[06Jun2025 01:53:59.420] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 21
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.437] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.464] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.515] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 23
+[06Jun2025 01:53:59.564] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 24
+[06Jun2025 01:53:59.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[06Jun2025 01:53:59.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.593] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 25
+[06Jun2025 01:53:59.643] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[06Jun2025 01:53:59.643] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.643] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.661] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[06Jun2025 01:53:59.671] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[06Jun2025 01:53:59.671] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.671] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[06Jun2025 01:53:59.738] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[06Jun2025 01:53:59.738] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:53:59.738] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:53:59.762] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[06Jun2025 01:53:59.815] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 29
+[06Jun2025 01:53:59.861] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[06Jun2025 01:53:59.915] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 31
+[06Jun2025 01:53:59.963] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 32
+[06Jun2025 01:54:00.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.626] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[06Jun2025 01:54:02.627] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.627] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.627] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[06Jun2025 01:54:02.627] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 01:54:02.627] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 01:54:02.660] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Jun2025 01:54:02.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:40821] logged in with entity id 3328 at (61.799676930380365, 81.0, 1329.699999988079)
+[06Jun2025 01:54:02.725] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3758fa64 into net.minecraft.network.Connection@1ae04c1e
+[06Jun2025 01:54:02.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[06Jun2025 01:54:02.784] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[06Jun2025 01:54:02.785] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of 01_NutriaKing: {disabled=false, disconnected=true, uuid=5154cebd-73f7-38a8-9753-78a7fa145766, name=01_NutriaKing, group=null}
+[06Jun2025 01:54:02.958] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 5154cebd-73f7-38a8-9753-78a7fa145766 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[06Jun2025 01:54:02.977] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[06Jun2025 01:54:02.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to 01_NutriaKing
+[06Jun2025 01:54:02.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with 01_NutriaKing
+[06Jun2025 01:54:02.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with 01_NutriaKing
+[06Jun2025 01:54:02.978] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[06Jun2025 01:54:07.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[06Jun2025 01:54:16.923] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mowziesmobs for mod file /workspaces/miekodeidades/servidor_minecraft/mods/mowziesmobs-1.7.3.jar
+[06Jun2025 01:54:16.923] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:kuma_api for mod file 
+[06Jun2025 01:54:16.923] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:trashslot for mod file /workspaces/miekodeidades/servidor_minecraft/mods/trashslot-forge-1.20-15.1.2.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/miekodeidades/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.2.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playeranimator for mod file /workspaces/miekodeidades/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:incapacitated for mod file /workspaces/miekodeidades/servidor_minecraft/mods/incapacitated-1.20.1-1.4.4.2.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:customskinloader for mod file /workspaces/miekodeidades/servidor_minecraft/mods/CustomSkinLoader_ForgeV2-14.23.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jeg for mod file /workspaces/miekodeidades/servidor_minecraft/mods/JustEnoughGuns-0.4.0-1.20.1.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/miekodeidades/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.106.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:graveyard for mod file /workspaces/miekodeidades/servidor_minecraft/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:pehkui for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Pehkui-3.8.2+1.20.1-forge.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:libraryferret for mod file /workspaces/miekodeidades/servidor_minecraft/mods/libraryferret-forge-1.20.1-4.0.0.jar
+[06Jun2025 01:54:16.924] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dynamiclights for mod file /workspaces/miekodeidades/servidor_minecraft/mods/dynamiclights-1.20.1.2.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedcore for mod file /workspaces/miekodeidades/servidor_minecraft/mods/sophisticatedcore-1.20.1-1.2.23.902.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaeroworldmap for mod file /workspaces/miekodeidades/servidor_minecraft/mods/XaerosWorldMap_1.39.4_Forge_1.20.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:citadel for mod file /workspaces/miekodeidades/servidor_minecraft/mods/citadel-2.6.1-1.20.1.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alexsmobs for mod file /workspaces/miekodeidades/servidor_minecraft/mods/alexsmobs-1.22.9.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:epherolib for mod file /workspaces/miekodeidades/servidor_minecraft/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cpm for mod file /workspaces/miekodeidades/servidor_minecraft/mods/CustomPlayerModels-1.20-0.6.22a.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dungeoncrawl for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Dungeon Crawl-1.20.1-2.3.15.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:glitchcore for mod file /workspaces/miekodeidades/servidor_minecraft/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedbackpacks for mod file /workspaces/miekodeidades/servidor_minecraft/mods/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar
+[06Jun2025 01:54:16.925] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:relics for mod file /workspaces/miekodeidades/servidor_minecraft/mods/relics-1.20.1-0.8.0.7.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:additional_lights for mod file /workspaces/miekodeidades/servidor_minecraft/mods/additional_lights-1.20.1-2.1.7.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:iceandfire for mod file /workspaces/miekodeidades/servidor_minecraft/mods/iceandfire-2.1.13-1.20.1-beta-5.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:balm for mod file /workspaces/miekodeidades/servidor_minecraft/mods/balm-forge-1.20.1-7.3.29-all.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:immersive_armors for mod file /workspaces/miekodeidades/servidor_minecraft/mods/immersive_armors-1.6.1+1.20.1-forge.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:skinlayers3d for mod file /workspaces/miekodeidades/servidor_minecraft/mods/skinlayers3d-forge-1.7.5-mc1.20.1.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/miekodeidades/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:twilightforest for mod file /workspaces/miekodeidades/servidor_minecraft/mods/twilightforest-1.20.1-4.3.2508-universal.jar
+[06Jun2025 01:54:16.926] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geophilic for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Geophilic v3.4.1 f15-71.mod.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:emotecraft for mod file /workspaces/miekodeidades/servidor_minecraft/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:awesomedungeonocean for mod file /workspaces/miekodeidades/servidor_minecraft/mods/awesomedungeonocean-forge-1.20.1-3.3.0.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:useless_sword for mod file /workspaces/miekodeidades/servidor_minecraft/mods/useless-sword-furtos-edition-1.20.1-1.0.1.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alexscaves for mod file /workspaces/miekodeidades/servidor_minecraft/mods/alexscaves-1.1.5.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/miekodeidades/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.30.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:terrablender for mod file /workspaces/miekodeidades/servidor_minecraft/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:endermanoverhaul for mod file /workspaces/miekodeidades/servidor_minecraft/mods/endermanoverhaul-forge-1.20.1-1.0.4.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:biomesoplenty for mod file /workspaces/miekodeidades/servidor_minecraft/mods/BiomesOPlenty-1.20.1-18.0.0.598.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jade for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Jade-1.20.1-Forge-11.12.3.jar
+[06Jun2025 01:54:16.927] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:platform for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Platform-forge-1.20.1-1.2.7.1.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:resourcefulconfig for mod file /workspaces/miekodeidades/servidor_minecraft/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:born_in_chaos_v1 for mod file /workspaces/miekodeidades/servidor_minecraft/mods/born_in_chaos_[Forge]1.20.1_1.6.3.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:rottencreatures for mod file /workspaces/miekodeidades/servidor_minecraft/mods/rottencreatures-forge-1.20.1-1.1.0.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:notenoughanimations for mod file /workspaces/miekodeidades/servidor_minecraft/mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:curios for mod file /workspaces/miekodeidades/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:patchouli for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Patchouli-1.20.1-84-FORGE.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaerominimap for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Xaeros_Minimap_25.2.0_Forge_1.20.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:securitycraft for mod file /workspaces/miekodeidades/servidor_minecraft/mods/[1.20.1] SecurityCraft v1.9.12.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:resourcefullib for mod file /workspaces/miekodeidades/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[06Jun2025 01:54:16.928] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creeperoverhaul for mod file /workspaces/miekodeidades/servidor_minecraft/mods/creeperoverhaul-3.0.2-forge.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cfm for mod file /workspaces/miekodeidades/servidor_minecraft/mods/cfm-forge-1.20.1-7.0.0-pre36.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:architectury for mod file /workspaces/miekodeidades/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:octolib for mod file /workspaces/miekodeidades/servidor_minecraft/mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:chococraft for mod file /workspaces/miekodeidades/servidor_minecraft/mods/chococraft-1.20.1-forge-0.9.11.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:refurbished_furniture for mod file /workspaces/miekodeidades/servidor_minecraft/mods/refurbished_furniture-forge-1.20.1-1.0.12.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voidscape for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Voidscape-1.20.1-1.5.348.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:framework for mod file /workspaces/miekodeidades/servidor_minecraft/mods/framework-forge-1.20.1-0.7.15.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fallingtree for mod file /workspaces/miekodeidades/servidor_minecraft/mods/FallingTree-1.20.1-4.3.4 (1).jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:t_and_t for mod file /workspaces/miekodeidades/servidor_minecraft/mods/Towns-and-Towers-1.12-Fabric+Forge.jar
+[06Jun2025 01:54:16.929] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cristellib for mod file /workspaces/miekodeidades/servidor_minecraft/mods/cristellib-1.1.6-forge.jar
+[06Jun2025 01:54:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Reloading!]
+[06Jun2025 01:54:16.947] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Adding reload listener for light level cache
+[06Jun2025 01:54:16.947] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Jun2025 01:54:17.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/pillager_outpost}.pools[8].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06Jun2025 01:54:17.643] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[06Jun2025 01:54:17.644] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe useless_sword:dragonbreathdiamondswordcraft2
+com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[06Jun2025 01:54:17.660] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[06Jun2025 01:54:17.665] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[06Jun2025 01:54:17.671] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[06Jun2025 01:54:17.691] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[06Jun2025 01:54:17.693] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[06Jun2025 01:54:17.694] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[06Jun2025 01:54:17.698] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[06Jun2025 01:54:17.702] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[06Jun2025 01:54:17.719] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement useless_sword:swordmaster: Expected item to be an item, was unknown string 'useless_sword:withersword'
+[06Jun2025 01:54:17.813] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4662 advancements
+[06Jun2025 01:54:17.814] [Server thread/DEBUG] [net.chococraft.Chococraft/]: Loaded JSON config file /workspaces/miekodeidades/servidor_minecraft/config/chococraft-4-breeding.json
+[06Jun2025 01:54:17.814] [Server thread/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[06Jun2025 01:54:17.815] [Server thread/INFO] [Dungeon Crawl/]: Loading data...
+[06Jun2025 01:54:17.817] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker.nbt
+[06Jun2025 01:54:17.817] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker.json
+[06Jun2025 01:54:17.818] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker_trap.nbt
+[06Jun2025 01:54:17.818] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/corridor/linker/linker_trap.json
+[06Jun2025 01:54:17.818] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/connector.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/connector_2.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling_glowstone.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/corridor/ceiling_lamp.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/crypt_graves.nbt
+[06Jun2025 01:54:17.819] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/crypt_graves.json
+[06Jun2025 01:54:17.820] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/hidden_piston.nbt
+[06Jun2025 01:54:17.820] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/large_connector.nbt
+[06Jun2025 01:54:17.820] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/large_spawner_cell_open.nbt
+[06Jun2025 01:54:17.820] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/crumbled.nbt
+[06Jun2025 01:54:17.821] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/dome.nbt
+[06Jun2025 01:54:17.821] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/flat.nbt
+[06Jun2025 01:54:17.821] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/multipart/node/ceiling/light.nbt
+[06Jun2025 01:54:17.821] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_dead_end.nbt
+[06Jun2025 01:54:17.822] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_dead_end.json
+[06Jun2025 01:54:17.822] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_turn.nbt
+[06Jun2025 01:54:17.824] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/crypt_turn.json
+[06Jun2025 01:54:17.824] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/fountain.nbt
+[06Jun2025 01:54:17.827] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/fountain.json
+[06Jun2025 01:54:17.827] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison.nbt
+[06Jun2025 01:54:17.829] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison.json
+[06Jun2025 01:54:17.829] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison_fork.nbt
+[06Jun2025 01:54:17.832] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/prison_fork.json
+[06Jun2025 01:54:17.832] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room.nbt
+[06Jun2025 01:54:17.833] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room.json
+[06Jun2025 01:54:17.834] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room_2.nbt
+[06Jun2025 01:54:17.835] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/room_2.json
+[06Jun2025 01:54:17.836] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sarcophagus.nbt
+[06Jun2025 01:54:17.837] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sarcophagus.json
+[06Jun2025 01:54:17.837] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers.nbt
+[06Jun2025 01:54:17.840] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers.json
+[06Jun2025 01:54:17.840] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_dead_end.nbt
+[06Jun2025 01:54:17.843] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_dead_end.json
+[06Jun2025 01:54:17.843] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_fork.nbt
+[06Jun2025 01:54:17.846] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_fork.json
+[06Jun2025 01:54:17.846] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_straight.nbt
+[06Jun2025 01:54:17.850] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/node/sewers_straight.json
+[06Jun2025 01:54:17.850] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/room/spawner_room.nbt
+[06Jun2025 01:54:17.851] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/catacombs/room/spawner_room.json
+[06Jun2025 01:54:17.851] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor.nbt
+[06Jun2025 01:54:17.851] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor.json
+[06Jun2025 01:54:17.852] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_2.nbt
+[06Jun2025 01:54:17.852] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_2.json
+[06Jun2025 01:54:17.853] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_3.nbt
+[06Jun2025 01:54:17.853] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_3.json
+[06Jun2025 01:54:17.854] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_fire.nbt
+[06Jun2025 01:54:17.854] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_fire.json
+[06Jun2025 01:54:17.854] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_light.nbt
+[06Jun2025 01:54:17.855] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_light.json
+[06Jun2025 01:54:17.855] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_room.nbt
+[06Jun2025 01:54:17.856] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_room.json
+[06Jun2025 01:54:17.856] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_spawner.nbt
+[06Jun2025 01:54:17.857] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/corridor_spawner.json
+[06Jun2025 01:54:17.857] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/cake_room.nbt
+[06Jun2025 01:54:17.857] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/cake_room.json
+[06Jun2025 01:54:17.857] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker.nbt
+[06Jun2025 01:54:17.858] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker.json
+[06Jun2025 01:54:17.858] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_2.nbt
+[06Jun2025 01:54:17.859] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_2.json
+[06Jun2025 01:54:17.859] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_3.nbt
+[06Jun2025 01:54:17.860] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_3.json
+[06Jun2025 01:54:17.860] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_4.nbt
+[06Jun2025 01:54:17.860] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_4.json
+[06Jun2025 01:54:17.860] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_5.nbt
+[06Jun2025 01:54:17.861] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_5.json
+[06Jun2025 01:54:17.861] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_6.nbt
+[06Jun2025 01:54:17.862] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/linker/linker_6.json
+[06Jun2025 01:54:17.862] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor.nbt
+[06Jun2025 01:54:17.862] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor.json
+[06Jun2025 01:54:17.862] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor_3.nbt
+[06Jun2025 01:54:17.863] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/old_corridor_3.json
+[06Jun2025 01:54:17.863] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/secret_room_entrance.nbt
+[06Jun2025 01:54:17.863] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/secret_room_entrance.json
+[06Jun2025 01:54:17.864] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/stone_corridor.nbt
+[06Jun2025 01:54:17.864] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/corridor/stone_corridor.json
+[06Jun2025 01:54:17.864] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/loot_room.nbt
+[06Jun2025 01:54:17.872] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/loot_room.json
+[06Jun2025 01:54:17.872] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/bookshelf.nbt
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest.nbt
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest_room.nbt
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/chest_room_2.nbt
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/crops.nbt
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/crops.json
+[06Jun2025 01:54:17.873] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/default.nbt
+[06Jun2025 01:54:17.874] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room.nbt
+[06Jun2025 01:54:17.874] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_2.nbt
+[06Jun2025 01:54:17.874] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_3.nbt
+[06Jun2025 01:54:17.874] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/empty_room_4.nbt
+[06Jun2025 01:54:17.874] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/fire.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/light.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/light_switch.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_2.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_3.nbt
+[06Jun2025 01:54:17.875] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/secret_room_entrance_bookshelf.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/spawner.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/spawner_room.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/variant.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/corridor/variant_2.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/large_wall.nbt
+[06Jun2025 01:54:17.876] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/node_connector.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/short_node_connector.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/wall.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/multipart/wall_2.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector.json
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_2.nbt
+[06Jun2025 01:54:17.877] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_2.json
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_3.nbt
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_3.json
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_4.nbt
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_4.json
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_6.nbt
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_6.json
+[06Jun2025 01:54:17.878] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/connector_lava.nbt
+[06Jun2025 01:54:17.879] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/node_connector_catacomb.nbt
+[06Jun2025 01:54:17.879] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/connector/node_connector_catacomb.json
+[06Jun2025 01:54:17.879] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/dark_hall.nbt
+[06Jun2025 01:54:17.882] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fire_hall.nbt
+[06Jun2025 01:54:17.885] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fireplace.nbt
+[06Jun2025 01:54:17.887] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/fireplace.json
+[06Jun2025 01:54:17.888] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/forge.nbt
+[06Jun2025 01:54:17.890] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/forge.json
+[06Jun2025 01:54:17.890] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/jukebox_room.nbt
+[06Jun2025 01:54:17.891] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/jukebox_room.json
+[06Jun2025 01:54:17.892] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/library.nbt
+[06Jun2025 01:54:17.898] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/library.json
+[06Jun2025 01:54:17.898] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/node_turn.nbt
+[06Jun2025 01:54:17.901] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/node_turn.json
+[06Jun2025 01:54:17.902] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_fire_hall.nbt
+[06Jun2025 01:54:17.906] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_fire_hall.json
+[06Jun2025 01:54:17.906] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_jukebox_room.nbt
+[06Jun2025 01:54:17.909] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/old_jukebox_room.json
+[06Jun2025 01:54:17.909] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room.nbt
+[06Jun2025 01:54:17.910] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room.json
+[06Jun2025 01:54:17.910] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room_2.nbt
+[06Jun2025 01:54:17.913] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/room_2.json
+[06Jun2025 01:54:17.913] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/spawner_hall.nbt
+[06Jun2025 01:54:17.919] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/node/spawner_hall.json
+[06Jun2025 01:54:17.919] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/old_loot_room.nbt
+[06Jun2025 01:54:17.926] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/old_loot_room.json
+[06Jun2025 01:54:17.926] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/food_side_room.nbt
+[06Jun2025 01:54:17.926] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/food_side_room.json
+[06Jun2025 01:54:17.927] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/secret_room.nbt
+[06Jun2025 01:54:17.928] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/secret_room.json
+[06Jun2025 01:54:17.928] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room.nbt
+[06Jun2025 01:54:17.929] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room.json
+[06Jun2025 01:54:17.929] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_2.nbt
+[06Jun2025 01:54:17.930] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_2.json
+[06Jun2025 01:54:17.930] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material.nbt
+[06Jun2025 01:54:17.930] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material.json
+[06Jun2025 01:54:17.931] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material_2.nbt
+[06Jun2025 01:54:17.931] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/spawner_room_material_2.json
+[06Jun2025 01:54:17.931] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/starter_room.nbt
+[06Jun2025 01:54:17.932] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/starter_room.json
+[06Jun2025 01:54:17.932] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/tnt_trap_side_room.nbt
+[06Jun2025 01:54:17.933] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/room/tnt_trap_side_room.json
+[06Jun2025 01:54:17.933] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase.nbt
+[06Jun2025 01:54:17.933] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase.json
+[06Jun2025 01:54:17.933] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/staircase_layer.nbt
+[06Jun2025 01:54:17.933] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom.nbt
+[06Jun2025 01:54:17.934] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom.json
+[06Jun2025 01:54:17.934] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom_2.nbt
+[06Jun2025 01:54:17.935] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_bottom_2.json
+[06Jun2025 01:54:17.935] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_top.nbt
+[06Jun2025 01:54:17.936] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/default/stairs_top.json
+[06Jun2025 01:54:17.936] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/eniko_tower.nbt
+[06Jun2025 01:54:17.939] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/eniko_tower.json
+[06Jun2025 01:54:17.939] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/house.nbt
+[06Jun2025 01:54:17.942] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/house.json
+[06Jun2025 01:54:17.942] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/pyramid.nbt
+[06Jun2025 01:54:17.944] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/pyramid.json
+[06Jun2025 01:54:17.944] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/rogue_tower.nbt
+[06Jun2025 01:54:17.946] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/rogue_tower.json
+[06Jun2025 01:54:17.946] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/witch_tower.nbt
+[06Jun2025 01:54:17.949] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/entrance/roguelike/witch_tower.json
+[06Jun2025 01:54:17.949] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/lava_hall.nbt
+[06Jun2025 01:54:17.953] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/small_loot_room.nbt
+[06Jun2025 01:54:17.955] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/node/small_loot_room.json
+[06Jun2025 01:54:17.956] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/empty_room.nbt
+[06Jun2025 01:54:17.956] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/empty_room.json
+[06Jun2025 01:54:17.956] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/spawner_room.nbt
+[06Jun2025 01:54:17.957] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:models/hell/room/spawner_room.json
+[06Jun2025 01:54:17.957] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/model_pools.json
+[06Jun2025 01:54:17.959] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/default.json
+[06Jun2025 01:54:17.959] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/desert/default.json
+[06Jun2025 01:54:17.960] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/forest/default.json
+[06Jun2025 01:54:17.961] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/types/mountains/default.json
+[06Jun2025 01:54:17.962] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:dungeon/biome_mappings/default.json
+[06Jun2025 01:54:17.963] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/catacombs/crumbled.json
+[06Jun2025 01:54:17.963] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/hell/roguelike.json
+[06Jun2025 01:54:17.964] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/acacia.json
+[06Jun2025 01:54:17.964] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/badlands/default.json
+[06Jun2025 01:54:17.964] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/birch.json
+[06Jun2025 01:54:17.964] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/catacombs/mossy.json
+[06Jun2025 01:54:17.965] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/catacombs/overgrown.json
+[06Jun2025 01:54:17.965] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/dark_oak.json
+[06Jun2025 01:54:17.966] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/default.json
+[06Jun2025 01:54:17.966] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/diorite.json
+[06Jun2025 01:54:17.966] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/desert/granite.json
+[06Jun2025 01:54:17.967] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/hell/default.json
+[06Jun2025 01:54:17.967] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/jungle.json
+[06Jun2025 01:54:17.967] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/mountains/default.json
+[06Jun2025 01:54:17.968] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/oak.json
+[06Jun2025 01:54:17.968] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/secondary_themes/vanilla/spruce.json
+[06Jun2025 01:54:17.969] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/catacombs/crumbled.json
+[06Jun2025 01:54:17.970] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/andesite.json
+[06Jun2025 01:54:17.970] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/crumbled_andesite.json
+[06Jun2025 01:54:17.971] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/mossy_andesite.json
+[06Jun2025 01:54:17.971] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/create/overgrown_andesite.json
+[06Jun2025 01:54:17.972] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/hell/roguelike.json
+[06Jun2025 01:54:17.973] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/andesite.json
+[06Jun2025 01:54:17.973] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/badlands/default.json
+[06Jun2025 01:54:17.974] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/bricks.json
+[06Jun2025 01:54:17.974] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/bricks_2.json
+[06Jun2025 01:54:17.975] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/ancient.json
+[06Jun2025 01:54:17.976] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/bricks.json
+[06Jun2025 01:54:17.977] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/crumbled_floor.json
+[06Jun2025 01:54:17.978] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/mossy.json
+[06Jun2025 01:54:17.978] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/catacombs/overgrown.json
+[06Jun2025 01:54:17.979] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/default.json
+[06Jun2025 01:54:17.980] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/default.json
+[06Jun2025 01:54:17.980] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/diorite.json
+[06Jun2025 01:54:17.981] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/granite.json
+[06Jun2025 01:54:17.981] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/desert/terracotta.json
+[06Jun2025 01:54:17.982] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/checked_floor.json
+[06Jun2025 01:54:17.982] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/default.json
+[06Jun2025 01:54:17.983] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/hell/mossy.json
+[06Jun2025 01:54:17.984] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/jungle/default.json
+[06Jun2025 01:54:17.985] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:theming/primary_themes/vanilla/mountains/default.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/spawn_rates.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_1.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_2.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_3.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_4.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:treasure/stage_5.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_1.json
+[06Jun2025 01:54:17.990] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_2.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_3.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_4.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/entities/stage_5.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_1.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_2.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_3.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_4.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/armor/stage_5.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_1.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_2.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_3.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_4.json
+[06Jun2025 01:54:17.991] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/equipment/weapon/stage_5.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_1.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_2.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_3.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_4.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Loading dungeoncrawl:monster/potion_effects/stage_5.json
+[06Jun2025 01:54:17.992] [Server thread/DEBUG] [Dungeon Crawl/]: Completing...
+[06Jun2025 01:54:17.992] [Server thread/INFO] [Dungeon Crawl/]: Done.
+[06Jun2025 01:54:17.993] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/woot/block_tools 
+[06Jun2025 01:54:17.993] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/fluxnetworks/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mob_grinding_utils/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/astralsorcery/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersivepetroleum/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveengineering/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pedestals/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/platforms/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsutility/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/compactmachines/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwwindows/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/integrateddynamics/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:entity_tools
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mekanism/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/powah/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/apotheosis/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/bloodmagic/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveposts/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rats/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/framedcompactdrawers/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/iceandfire/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:compat/iceandfire/entity_tools
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/storagedrawers/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwroofs/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/morphtool/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/botania/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pneumaticraft/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/shrink/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/blockcarpentry/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pipez/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/transport/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/thermal/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:block_tools
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/create/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/refinedstorage/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/chiselsandbits/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/tetra/swords 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:swords 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:swords
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mythicbotany/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/syp/entity_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/eidolon/block_tools 
+[06Jun2025 01:54:17.994] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsbase/block_tools 
+[06Jun2025 01:54:17.995] [Server thread/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[06Jun2025 01:54:18.002] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[06Jun2025 01:54:18.005] [Server thread/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[06Jun2025 01:54:18.005] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[06Jun2025 01:54:18.024] [Server thread/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[06Jun2025 01:54:21.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4602ms or 92 ticks behind
+[06Jun2025 01:54:45.013] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Nekkai_: {disabled=true, disconnected=false, uuid=9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72, name=Nekkai_, group=null}
+[06Jun2025 01:54:45.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Nekkai_: {disabled=false, disconnected=false, uuid=9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72, name=Nekkai_, group=null}
+[06Jun2025 01:55:16.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1324}
+[06Jun2025 01:55:17.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1323}
+[06Jun2025 01:55:17.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=65, y=80, z=1323}
+[06Jun2025 01:55:18.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=80, z=1324}
+[06Jun2025 01:55:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> No es de dios
+[06Jun2025 01:55:59.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=81, z=1325}
+[06Jun2025 01:55:59.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=81, z=1326}
+[06Jun2025 01:55:59.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=81, z=1325}
+[06Jun2025 01:55:59.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1324}
+[06Jun2025 01:56:00.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1324}
+[06Jun2025 01:56:00.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=80, z=1323}
+[06Jun2025 01:56:12.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=81, z=1324}
+[06Jun2025 01:56:12.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=81, z=1325}
+[06Jun2025 01:56:13.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=81, z=1330}
+[06Jun2025 01:56:17.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=81, z=1318}
+[06Jun2025 01:56:17.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=82, z=1318}
+[06Jun2025 01:56:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:56:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJ
+[06Jun2025 01:56:20.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was killed trying to hurt Izhug
+[06Jun2025 01:56:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJAJA
+[06Jun2025 01:56:22.238] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 01:56:25.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=80, z=1319}
+[06Jun2025 01:56:25.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=81, z=1318}
+[06Jun2025 01:56:26.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=83, z=1318}
+[06Jun2025 01:56:26.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=82, z=1318}
+[06Jun2025 01:56:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 01:56:26.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:56:26.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1319}
+[06Jun2025 01:56:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> pasa
+[06Jun2025 01:56:31.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was killed trying to hurt Izhug
+[06Jun2025 01:56:31.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Que es
+[06Jun2025 01:56:33.051] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 01:56:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> .-.
+[06Jun2025 01:56:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:56:47.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> 100% legal
+[06Jun2025 01:56:47.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=1278} BlockPos{x=65, y=81, z=1321}
+[06Jun2025 01:56:47.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=1278} BlockPos{x=65, y=82, z=1321}
+[06Jun2025 01:56:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:56:49.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was killed trying to hurt Izhug
+[06Jun2025 01:56:50.939] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 01:56:53.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:56:55.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=83, z=1319}
+[06Jun2025 01:56:56.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=83, z=1318}
+[06Jun2025 01:56:56.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=84, z=1318}
+[06Jun2025 01:56:56.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=84, z=1318}
+[06Jun2025 01:56:56.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=83, z=1318}
+[06Jun2025 01:56:56.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=83, z=1318}
+[06Jun2025 01:56:56.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=82, z=1318}
+[06Jun2025 01:56:57.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=82, z=1318}
+[06Jun2025 01:56:57.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> nutria es masoquista mieko
+[06Jun2025 01:56:58.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=80, z=1326}
+[06Jun2025 01:56:58.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=1326}
+[06Jun2025 01:56:59.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:56:59.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=81, z=1319}
+[06Jun2025 01:57:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was killed trying to hurt Izhug
+[06Jun2025 01:57:03.459] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 01:57:10.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:57:14.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 01_NutriaKing to Nekkai_]
+[06Jun2025 01:57:17.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJAJAJ
+[06Jun2025 01:57:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Removed 14 item(s) from 4 players]
+[06Jun2025 01:57:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:57:27.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=62, z=1322} BlockPos{x=78, y=62, z=1325}
+[06Jun2025 01:57:38.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has been revived!
+[06Jun2025 01:57:50.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :ooo
+[06Jun2025 01:57:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Spectator Mode]
+[06Jun2025 01:57:55.817] [Server thread/WARN] [jeg/]: literal{Nekkai_}(9a52d1fa-3e4d-3f37-8134-ee10f5b5ce72) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[06Jun2025 01:57:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 01:57:59.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:58:02.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set own game mode to Creative Mode]
+[06Jun2025 01:58:02.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=64, z=1339} BlockPos{x=65, y=82, z=1327}
+[06Jun2025 01:58:04.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=64, z=1339} BlockPos{x=61, y=80, z=1324}
+[06Jun2025 01:58:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug is incapacitated!
+[06Jun2025 01:58:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was decimated by Mieko_
+[06Jun2025 01:58:08.264] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 01:58:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to 01_NutriaKing]
+[06Jun2025 01:58:11.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1326}
+[06Jun2025 01:58:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> esta arma que hace
+[06Jun2025 01:58:18.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Izhug was decimated by Mieko_
+[06Jun2025 01:58:19.831] [Server thread/DEBUG] [twilightforest/]: Player Izhug (7b369a12-8a6d-3740-ad13-f7f98244bb35) respawned and received items held in storage
+[06Jun2025 01:58:21.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:58:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> esta arma que hace
+[06Jun2025 01:58:45.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:58:45.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:58:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> :c
+[06Jun2025 01:58:46.802] [Worker-Main-17/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jun2025 01:58:46.803] [Worker-Main-17/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jun2025 01:59:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> mieko tp .3
+[06Jun2025 01:59:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> desde cuando aca esto se volvio warzone mieko
+[06Jun2025 01:59:22.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Set own game mode to Creative Mode]
+[06Jun2025 01:59:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 01:59:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 01_NutriaKing to 01_NutriaKing]
+[06Jun2025 01:59:49.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Teleported 01_NutriaKing to Mieko_]
+[06Jun2025 01:59:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> miekoo
+[06Jun2025 01:59:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
+[06Jun2025 01:59:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the world spawn point to 62, 81, 1324 [0.0]]
+[06Jun2025 01:59:59.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=63, z=1323} BlockPos{x=65, y=80, z=1320}
+[06Jun2025 01:59:59.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=63, z=1323} BlockPos{x=65, y=80, z=1319}
+[06Jun2025 01:59:59.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=63, z=1323} BlockPos{x=65, y=80, z=1320}
+[06Jun2025 01:59:59.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=63, z=1323} BlockPos{x=65, y=80, z=1320}
+[06Jun2025 02:00:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Nekkai_ to Mieko_]
+[06Jun2025 02:00:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mieko_: Set the time to 1000]
+[06Jun2025 02:00:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Barrel] to Izhug]
+[06Jun2025 02:00:07.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=63, z=1323} BlockPos{x=56, y=82, z=1325}
+[06Jun2025 02:00:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> nekka .c
+[06Jun2025 02:00:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Izhug: Gave 1 [Barrier] to Izhug]
+[06Jun2025 02:00:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Set the weather to clear]
+[06Jun2025 02:00:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> espero que se metan mas?
+[06Jun2025 02:00:42.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mieko_> si we
+[06Jun2025 02:00:59.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> bien
+[06Jun2025 02:01:10.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> .-.
+[06Jun2025 02:01:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si
+[06Jun2025 02:01:21.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> :OOOO
+[06Jun2025 02:01:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Estos seran?
+[06Jun2025 02:01:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nekkai_ has made the advancement [Mother of Dragons]
+[06Jun2025 02:01:32.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=69, z=1341} BlockPos{x=65, y=83, z=1330}
+[06Jun2025 02:01:32.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=69, z=1341} BlockPos{x=66, y=82, z=1330}
+[06Jun2025 02:01:32.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=69, z=1341} BlockPos{x=68, y=82, z=1329}
+[06Jun2025 02:01:39.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Si vi w
+[06Jun2025 02:01:41.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Tienen un
+[06Jun2025 02:01:48.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Ah si
+[06Jun2025 02:02:15.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 01_NutriaKing lost connection: Disconnected
+[06Jun2025 02:02:15.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing left the game
+[06Jun2025 02:02:15.096] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of 01_NutriaKing
+[06Jun2025 02:02:15.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 01_NutriaKing
+[06Jun2025 02:02:15.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Kicked 01_NutriaKing: Kicked by an operator]
+[06Jun2025 02:02:15.118] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jun2025 02:02:25.736] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[06Jun2025 02:02:25.763] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[06Jun2025 02:02:25.816] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[06Jun2025 02:02:25.850] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[06Jun2025 02:02:25.850] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 02:02:25.850] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:25.862] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[06Jun2025 02:02:25.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[06Jun2025 02:02:25.962] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[06Jun2025 02:02:25.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[06Jun2025 02:02:25.983] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 02:02:25.983] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[06Jun2025 02:02:26.015] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[06Jun2025 02:02:26.015] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[06Jun2025 02:02:26.015] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.061] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Jun2025 02:02:26.061] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Jun2025 02:02:26.061] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [mowziesmobs, kuma_api, trashslot, geckolib, playeranimator, incapacitated, customskinloader, jeg, jei, graveyard, pehkui, libraryferret, dynamiclights, sophisticatedcore, rubidium, sodium, xaeroworldmap, citadel, alexsmobs, epherolib, cpm, mixinextras, dungeoncrawl, glitchcore, sophisticatedbackpacks, relics, additional_lights, iceandfire, balm, immersive_armors, skinlayers3d, forge, twilightforest, geophilic, emotecraft, awesomedungeonocean, useless_sword, minecraft, alexscaves, voicechat, terrablender, endermanoverhaul, biomesoplenty, jade, platform, resourcefulconfig, born_in_chaos_v1, rottencreatures, notenoughanimations, curios, patchouli, xaerominimap, securitycraft, lostcities, resourcefullib, creeperoverhaul, cfm, architectury, octolib, chococraft, refurbished_furniture, voidscape, framework, fallingtree, t_and_t, cristellib]
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'incapacitated:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voidscape:voidscape' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.062] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'useless_sword:useless_sword' : Version test of '1' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Jun2025 02:02:26.063] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Jun2025 02:02:26.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[06Jun2025 02:02:26.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[06Jun2025 02:02:26.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Jun2025 02:02:26.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.139] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.161] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[06Jun2025 02:02:26.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Jun2025 02:02:26.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.195] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.215] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[06Jun2025 02:02:26.262] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 10
+[06Jun2025 02:02:26.313] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 11
+[06Jun2025 02:02:26.361] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.362] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 12
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.362] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.415] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 13
+[06Jun2025 02:02:26.462] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 14
+[06Jun2025 02:02:26.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 15
+[06Jun2025 02:02:26.561] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 16
+[06Jun2025 02:02:26.606] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Jun2025 02:02:26.606] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.607] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 17
+[06Jun2025 02:02:26.634] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Jun2025 02:02:26.634] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.634] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.663] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 18
+[06Jun2025 02:02:26.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Jun2025 02:02:26.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.707] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[06Jun2025 02:02:26.762] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.807] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.815] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 21
+[06Jun2025 02:02:26.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Jun2025 02:02:26.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.840] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[06Jun2025 02:02:26.879] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Jun2025 02:02:26.879] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.879] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.913] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 23
+[06Jun2025 02:02:26.946] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[06Jun2025 02:02:26.946] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.946] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:26.961] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 24
+[06Jun2025 02:02:26.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[06Jun2025 02:02:26.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:26.961] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:27.015] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 25
+[06Jun2025 02:02:27.035] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[06Jun2025 02:02:27.035] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:27.035] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:27.062] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[06Jun2025 02:02:27.096] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[06Jun2025 02:02:27.096] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:27.096] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:27.117] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[06Jun2025 02:02:27.117] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[06Jun2025 02:02:27.117] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:27.117] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:27.165] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[06Jun2025 02:02:27.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 29
+[06Jun2025 02:02:27.263] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[06Jun2025 02:02:27.316] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 31
+[06Jun2025 02:02:27.363] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 32
+[06Jun2025 02:02:27.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.024] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Jun2025 02:02:30.030] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Jun2025 02:02:30.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Jun2025 02:02:30.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 01_NutriaKing[/127.190.214.191:38085] logged in with entity id 5892 at (58.76360780142122, 63.0, 1421.3535573214122)
+[06Jun2025 02:02:30.126] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3bef7dd9 into net.minecraft.network.Connection@37b974a1
+[06Jun2025 02:02:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing joined the game
+[06Jun2025 02:02:30.184] [Server thread/INFO] [Jade/]: Syncing config to 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766)
+[06Jun2025 02:02:30.185] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of 01_NutriaKing: {disabled=false, disconnected=true, uuid=5154cebd-73f7-38a8-9753-78a7fa145766, name=01_NutriaKing, group=null}
+[06Jun2025 02:02:30.295] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: 5154cebd-73f7-38a8-9753-78a7fa145766 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[06Jun2025 02:02:30.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 01_NutriaKing (18)
+[06Jun2025 02:02:30.295] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to 01_NutriaKing
+[06Jun2025 02:02:30.295] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with 01_NutriaKing
+[06Jun2025 02:02:30.295] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with 01_NutriaKing
+[06Jun2025 02:02:30.295] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 01_NutriaKing
+[06Jun2025 02:02:34.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5154cebd-73f7-38a8-9753-78a7fa145766
+[06Jun2025 02:02:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <01_NutriaKing> ya perdon .c
+[06Jun2025 02:02:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing has made the advancement [Chompy]
+[06Jun2025 02:02:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JSJSJS
+[06Jun2025 02:02:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> Te va a matar w
+[06Jun2025 02:02:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing is incapacitated!
+[06Jun2025 02:02:47.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJ
+[06Jun2025 02:02:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> AJJAJAJAAJ
+[06Jun2025 02:02:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nekkai_> JAJAJAJAJAJ
+[06Jun2025 02:02:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 01_NutriaKing was slain by Crocodile
+[06Jun2025 02:02:53.718] [Server thread/DEBUG] [twilightforest/]: Player 01_NutriaKing (5154cebd-73f7-38a8-9753-78a7fa145766) respawned and received items held in storage
+[06Jun2025 02:02:55.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:02:55.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=81, z=1325}
+[06Jun2025 02:02:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mieko_ has reached the goal [Cultural Attribute]
+[06Jun2025 02:03:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nekkai_: Teleported Mieko_ to Nekkai_]
